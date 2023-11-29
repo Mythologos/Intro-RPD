@@ -1,0 +1,132 @@
+The overall error in dividing up the files is: 8.9432.
+The division of files is as follows:
+training: 55 Files
+        * Inside Tags: 13833 (0.7021)
+        * Outside Tags: 175647 (0.7020)
+        * Overall Statistics:
+                ** Average Inside Tags: 251.5091 ± 159.1816
+                ** Average Outside Tags: 3193.5818 ± 1972.5295
+                ** Average Tag Ratio: 0.0904 ± 0.0500
+                ** Welch's T-Test Results (training vs. validation):
+                        *** Inside: Statistic - 0.5722; p-Value - 0.5797
+                        *** Outside: Statistic - 0.4990; p-Value - 0.6284
+                ** Welch's T-Test Results (training vs. optimization):
+                        *** Inside: Statistic - -0.2162; p-Value - 0.8347
+                        *** Outside: Statistic - -0.3236; p-Value - 0.7557
+                ** Welch's T-Test Results (training vs. test):
+                        *** Inside: Statistic - 0.3668; p-Value - 0.7210
+                        *** Outside: Statistic - 0.7405; p-Value - 0.4727
+        * Individual Results:
+                ** 180_annotated.xml: 692 Inside Tags, 7302 Outside Tags
+                ** 213_annotated.xml: 623 Inside Tags, 5757 Outside Tags
+                ** 216_annotated.xml: 554 Inside Tags, 5082 Outside Tags
+                ** 261_annotated.xml: 508 Inside Tags, 4794 Outside Tags
+                ** 251_annotated.xml: 497 Inside Tags, 3731 Outside Tags
+                ** 265_annotated.xml: 461 Inside Tags, 5709 Outside Tags
+                ** 15_annotated.xml: 460 Inside Tags, 4996 Outside Tags
+                ** 178_annotated.xml: 459 Inside Tags, 5235 Outside Tags
+                ** 23_annotated.xml: 424 Inside Tags, 6860 Outside Tags
+                ** 151_annotated.xml: 414 Inside Tags, 4706 Outside Tags
+                ** 255_annotated.xml: 396 Inside Tags, 4120 Outside Tags
+                ** 183_annotated.xml: 393 Inside Tags, 5701 Outside Tags
+                ** 252_annotated.xml: 371 Inside Tags, 7225 Outside Tags
+                ** 215_annotated.xml: 348 Inside Tags, 3858 Outside Tags
+                ** 194_annotated.xml: 333 Inside Tags, 1531 Outside Tags
+                ** 254_annotated.xml: 322 Inside Tags, 3480 Outside Tags
+                ** 182_annotated.xml: 314 Inside Tags, 3992 Outside Tags
+                ** 270_annotated.xml: 313 Inside Tags, 7093 Outside Tags
+                ** 210_annotated.xml: 301 Inside Tags, 5593 Outside Tags
+                ** 22_annotated.xml: 294 Inside Tags, 6004 Outside Tags
+                ** 264_annotated.xml: 280 Inside Tags, 6376 Outside Tags
+                ** 184_annotated.xml: 280 Inside Tags, 1404 Outside Tags
+                ** 196_annotated.xml: 258 Inside Tags, 1952 Outside Tags
+                ** 199_annotated.xml: 253 Inside Tags, 1749 Outside Tags
+                ** 189_annotated.xml: 249 Inside Tags, 1717 Outside Tags
+                ** 192_annotated.xml: 245 Inside Tags, 1631 Outside Tags
+                ** 266_annotated.xml: 237 Inside Tags, 4273 Outside Tags
+                ** 262_annotated.xml: 224 Inside Tags, 1200 Outside Tags
+                ** 259_annotated.xml: 223 Inside Tags, 4853 Outside Tags
+                ** 195_annotated.xml: 219 Inside Tags, 1015 Outside Tags
+                ** 191_annotated.xml: 208 Inside Tags, 1502 Outside Tags
+                ** 200_annotated.xml: 198 Inside Tags, 1794 Outside Tags
+                ** 250_annotated.xml: 191 Inside Tags, 3459 Outside Tags
+                ** 221_annotated.xml: 187 Inside Tags, 2137 Outside Tags
+                ** 267_annotated.xml: 187 Inside Tags, 1817 Outside Tags
+                ** 185_annotated.xml: 174 Inside Tags, 1384 Outside Tags
+                ** 258_annotated.xml: 159 Inside Tags, 1541 Outside Tags
+                ** 268_annotated.xml: 137 Inside Tags, 2493 Outside Tags
+                ** 147_annotated.xml: 134 Inside Tags, 1248 Outside Tags
+                ** 224_annotated.xml: 131 Inside Tags, 1679 Outside Tags
+                ** 204_annotated.xml: 127 Inside Tags, 1787 Outside Tags
+                ** 186_annotated.xml: 126 Inside Tags, 1726 Outside Tags
+                ** 220_annotated.xml: 122 Inside Tags, 630 Outside Tags
+                ** 205_annotated.xml: 121 Inside Tags, 1541 Outside Tags
+                ** 201_annotated.xml: 113 Inside Tags, 1841 Outside Tags
+                ** 209_annotated.xml: 96 Inside Tags, 1100 Outside Tags
+                ** 269_annotated.xml: 90 Inside Tags, 2694 Outside Tags
+                ** 253_annotated.xml: 81 Inside Tags, 2241 Outside Tags
+                ** 260_annotated.xml: 65 Inside Tags, 575 Outside Tags
+                ** 203_annotated.xml: 52 Inside Tags, 1348 Outside Tags
+                ** 190_annotated.xml: 50 Inside Tags, 2106 Outside Tags
+                ** 193_annotated.xml: 40 Inside Tags, 1382 Outside Tags
+                ** 208_annotated.xml: 37 Inside Tags, 1429 Outside Tags
+                ** 218_annotated.xml: 34 Inside Tags, 2970 Outside Tags
+                ** 217_annotated.xml: 28 Inside Tags, 4284 Outside Tags
+validation: 9 Files
+        * Inside Tags: 1935 (0.0982)
+        * Outside Tags: 25225 (0.1008)
+        * Overall Statistics:
+                ** Average Inside Tags: 215.0000 ± 180.2658
+                ** Average Outside Tags: 2802.7778 ± 2209.9963
+                ** Average Tag Ratio: 0.0737 ± 0.0327
+                ** Welch's T-Test Results (validation vs. optimization):
+                        *** Inside: Statistic - -0.5816; p-Value - 0.5705
+                        *** Outside: Statistic - -0.5942; p-Value - 0.5631
+                ** Welch's T-Test Results (validation vs. test):
+                        *** Inside: Statistic - -0.1848; p-Value - 0.8557
+                        *** Outside: Statistic - 0.0509; p-Value - 0.9601
+        * Individual Results:
+                ** 177_annotated.xml: 567 Inside Tags, 7191 Outside Tags
+                ** 24_annotated.xml: 392 Inside Tags, 4494 Outside Tags
+                ** 175_annotated.xml: 298 Inside Tags, 4258 Outside Tags
+                ** 211_annotated.xml: 224 Inside Tags, 3598 Outside Tags
+                ** 188_annotated.xml: 191 Inside Tags, 1513 Outside Tags
+                ** 207_annotated.xml: 130 Inside Tags, 1378 Outside Tags
+                ** 219_annotated.xml: 83 Inside Tags, 921 Outside Tags
+                ** 271_annotated.xml: 38 Inside Tags, 908 Outside Tags
+                ** 222_annotated.xml: 12 Inside Tags, 964 Outside Tags
+optimization: 7 Files
+        * Inside Tags: 1863 (0.0946)
+        * Outside Tags: 24529 (0.0980)
+        * Overall Statistics:
+                ** Average Inside Tags: 266.1429 ± 169.8504
+                ** Average Outside Tags: 3504.1429 ± 2439.9530
+                ** Average Tag Ratio: 0.0826 ± 0.0346
+                ** Welch's T-Test Results (optimization vs. test):
+                        *** Inside: Statistic - 0.4290; p-Value - 0.6751
+                        *** Outside: Statistic - 0.7038; p-Value - 0.4980
+        * Individual Results:
+                ** 214_annotated.xml: 539 Inside Tags, 5959 Outside Tags
+                ** 19_annotated.xml: 409 Inside Tags, 5065 Outside Tags
+                ** 187_annotated.xml: 310 Inside Tags, 2118 Outside Tags
+                ** 149_annotated.xml: 257 Inside Tags, 6999 Outside Tags
+                ** 212_annotated.xml: 176 Inside Tags, 1974 Outside Tags
+                ** 223_annotated.xml: 126 Inside Tags, 1544 Outside Tags
+                ** 148_annotated.xml: 46 Inside Tags, 870 Outside Tags
+test: 9 Files
+        * Inside Tags: 2070 (0.1051)
+        * Outside Tags: 24810 (0.0992)
+        * Overall Statistics:
+                ** Average Inside Tags: 230.0000 ± 163.7055
+                ** Average Outside Tags: 2756.6667 ± 1580.0035
+                ** Average Tag Ratio: 0.0799 ± 0.0415
+        * Individual Results:
+                ** 179_annotated.xml: 493 Inside Tags, 5535 Outside Tags
+                ** 256_annotated.xml: 422 Inside Tags, 2714 Outside Tags
+                ** 181_annotated.xml: 332 Inside Tags, 4674 Outside Tags
+                ** 18_annotated.xml: 279 Inside Tags, 3009 Outside Tags
+                ** 176_annotated.xml: 211 Inside Tags, 3373 Outside Tags
+                ** 206_annotated.xml: 134 Inside Tags, 1404 Outside Tags
+                ** 263_annotated.xml: 120 Inside Tags, 1134 Outside Tags
+                ** 202_annotated.xml: 65 Inside Tags, 1945 Outside Tags
+                ** 257_annotated.xml: 14 Inside Tags, 1022 Outside Tags

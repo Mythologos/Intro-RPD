@@ -1,0 +1,24 @@
+name: Intro-RPD
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.9
+  - aenum
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-posthocs
+  - natsort
+  - pip
+  - tqdm
+  - networkx
+  - pytorch
+  - pytorch-cuda
+  - transformers
+  - chardet
+  - pip:
+      - cltk==1.1.6
+      - tensor2tensor

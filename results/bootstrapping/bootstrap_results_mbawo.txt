@@ -1,0 +1,4048 @@
+BOOTSTRAPPING RESULTS (Random Seed: 42):
+	* Run Parameters:
+		- Alpha: 0.0500
+		- Sample Count: 1000
+		- Sample Percentage: 1.0000
+		- Scoring Mode: mbawo
+	* Initial Scores:
+		- Sermon Pair <(('147_annotated.xml', 0), ('147_annotated.xml', 1))>: 
+			> Precision: 0.7857 (110 / 140)
+			> Recall: 0.7971 (110 / 138)
+			> F1: 0.7914
+		- Sermon Pair <(('148_annotated.xml', 2), ('148_annotated.xml', 3))>: 
+			> Precision: 0.8542 (41 / 48)
+			> Recall: 0.7321 (41 / 56)
+			> F1: 0.7885
+		- Sermon Pair <(('149_annotated.xml', 4), ('149_annotated.xml', 5))>: 
+			> Precision: 0.2915 (79 / 271)
+			> Recall: 0.4341 (79 / 182)
+			> F1: 0.3488
+		- Sermon Pair <(('15_annotated.xml', 6), ('15_annotated.xml', 7))>: 
+			> Precision: 0.4838 (224 / 463)
+			> Recall: 0.7417 (224 / 302)
+			> F1: 0.5856
+		- Sermon Pair <(('175_annotated.xml', 8), ('175_annotated.xml', 9))>: 
+			> Precision: 0.6997 (212 / 303)
+			> Recall: 0.6040 (212 / 351)
+			> F1: 0.6483
+		- Sermon Pair <(('176_annotated.xml', 10), ('176_annotated.xml', 11))>: 
+			> Precision: 0.6948 (148 / 213)
+			> Recall: 0.5670 (148 / 261)
+			> F1: 0.6245
+		- Sermon Pair <(('180_annotated.xml', 12), ('180_annotated.xml', 13))>: 
+			> Precision: 0.5522 (381 / 690)
+			> Recall: 0.6057 (381 / 629)
+			> F1: 0.5777
+		- Sermon Pair <(('18_annotated.xml', 14), ('18_annotated.xml', 15))>: 
+			> Precision: 0.6738 (188 / 279)
+			> Recall: 0.6288 (188 / 299)
+			> F1: 0.6505
+		- Aggregated Scores:
+			> Precision: 0.5746 (1383 / 2407)
+			> Recall: 0.6235 (1383 / 2218)
+			> F1: 0.5981
+	* Sample Scores:
+		- Sample 1: Aggregate Scores: 
+			> Precision: 0.5762 (1338 / 2322)
+			> Recall: 0.6057 (1338 / 2209)
+			> F1: 0.5906
+		- Sample 2: Aggregate Scores: 
+			> Precision: 0.5770 (1383 / 2397)
+			> Recall: 0.6318 (1383 / 2189)
+			> F1: 0.6031
+		- Sample 3: Aggregate Scores: 
+			> Precision: 0.6065 (1592 / 2625)
+			> Recall: 0.6509 (1592 / 2446)
+			> F1: 0.6279
+		- Sample 4: Aggregate Scores: 
+			> Precision: 0.6318 (1457 / 2306)
+			> Recall: 0.6402 (1457 / 2276)
+			> F1: 0.6360
+		- Sample 5: Aggregate Scores: 
+			> Precision: 0.5709 (1293 / 2265)
+			> Recall: 0.5552 (1293 / 2329)
+			> F1: 0.5629
+		- Sample 6: Aggregate Scores: 
+			> Precision: 0.5583 (1355 / 2427)
+			> Recall: 0.6033 (1355 / 2246)
+			> F1: 0.5799
+		- Sample 7: Aggregate Scores: 
+			> Precision: 0.5608 (1388 / 2475)
+			> Recall: 0.6106 (1388 / 2273)
+			> F1: 0.5847
+		- Sample 8: Aggregate Scores: 
+			> Precision: 0.5489 (1217 / 2217)
+			> Recall: 0.5527 (1217 / 2202)
+			> F1: 0.5508
+		- Sample 9: Aggregate Scores: 
+			> Precision: 0.6337 (1469 / 2318)
+			> Recall: 0.6546 (1469 / 2244)
+			> F1: 0.6440
+		- Sample 10: Aggregate Scores: 
+			> Precision: 0.5859 (1361 / 2323)
+			> Recall: 0.5933 (1361 / 2294)
+			> F1: 0.5896
+		- Sample 11: Aggregate Scores: 
+			> Precision: 0.5883 (1419 / 2412)
+			> Recall: 0.6421 (1419 / 2210)
+			> F1: 0.6140
+		- Sample 12: Aggregate Scores: 
+			> Precision: 0.5668 (1412 / 2491)
+			> Recall: 0.6312 (1412 / 2237)
+			> F1: 0.5973
+		- Sample 13: Aggregate Scores: 
+			> Precision: 0.5985 (1361 / 2274)
+			> Recall: 0.6142 (1361 / 2216)
+			> F1: 0.6062
+		- Sample 14: Aggregate Scores: 
+			> Precision: 0.5062 (1179 / 2329)
+			> Recall: 0.5497 (1179 / 2145)
+			> F1: 0.5270
+		- Sample 15: Aggregate Scores: 
+			> Precision: 0.5449 (1287 / 2362)
+			> Recall: 0.6266 (1287 / 2054)
+			> F1: 0.5829
+		- Sample 16: Aggregate Scores: 
+			> Precision: 0.6019 (1492 / 2479)
+			> Recall: 0.6362 (1492 / 2345)
+			> F1: 0.6186
+		- Sample 17: Aggregate Scores: 
+			> Precision: 0.5493 (1338 / 2436)
+			> Recall: 0.6011 (1338 / 2226)
+			> F1: 0.5740
+		- Sample 18: Aggregate Scores: 
+			> Precision: 0.5738 (1267 / 2208)
+			> Recall: 0.6199 (1267 / 2044)
+			> F1: 0.5960
+		- Sample 19: Aggregate Scores: 
+			> Precision: 0.5717 (1311 / 2293)
+			> Recall: 0.6069 (1311 / 2160)
+			> F1: 0.5888
+		- Sample 20: Aggregate Scores: 
+			> Precision: 0.5942 (1425 / 2398)
+			> Recall: 0.6333 (1425 / 2250)
+			> F1: 0.6132
+		- Sample 21: Aggregate Scores: 
+			> Precision: 0.5577 (1406 / 2521)
+			> Recall: 0.6145 (1406 / 2288)
+			> F1: 0.5847
+		- Sample 22: Aggregate Scores: 
+			> Precision: 0.5723 (1365 / 2385)
+			> Recall: 0.6094 (1365 / 2240)
+			> F1: 0.5903
+		- Sample 23: Aggregate Scores: 
+			> Precision: 0.5687 (1312 / 2307)
+			> Recall: 0.6094 (1312 / 2153)
+			> F1: 0.5883
+		- Sample 24: Aggregate Scores: 
+			> Precision: 0.5893 (1438 / 2440)
+			> Recall: 0.6469 (1438 / 2223)
+			> F1: 0.6168
+		- Sample 25: Aggregate Scores: 
+			> Precision: 0.5516 (1234 / 2237)
+			> Recall: 0.6127 (1234 / 2014)
+			> F1: 0.5806
+		- Sample 26: Aggregate Scores: 
+			> Precision: 0.5671 (1381 / 2435)
+			> Recall: 0.5976 (1381 / 2311)
+			> F1: 0.5820
+		- Sample 27: Aggregate Scores: 
+			> Precision: 0.6139 (1418 / 2310)
+			> Recall: 0.6817 (1418 / 2080)
+			> F1: 0.6460
+		- Sample 28: Aggregate Scores: 
+			> Precision: 0.5525 (1299 / 2351)
+			> Recall: 0.5970 (1299 / 2176)
+			> F1: 0.5739
+		- Sample 29: Aggregate Scores: 
+			> Precision: 0.5608 (1369 / 2441)
+			> Recall: 0.5876 (1369 / 2330)
+			> F1: 0.5739
+		- Sample 30: Aggregate Scores: 
+			> Precision: 0.5747 (1404 / 2443)
+			> Recall: 0.5995 (1404 / 2342)
+			> F1: 0.5868
+		- Sample 31: Aggregate Scores: 
+			> Precision: 0.5440 (1255 / 2307)
+			> Recall: 0.5736 (1255 / 2188)
+			> F1: 0.5584
+		- Sample 32: Aggregate Scores: 
+			> Precision: 0.5910 (1464 / 2477)
+			> Recall: 0.6577 (1464 / 2226)
+			> F1: 0.6226
+		- Sample 33: Aggregate Scores: 
+			> Precision: 0.4566 (1093 / 2394)
+			> Recall: 0.5067 (1093 / 2157)
+			> F1: 0.4803
+		- Sample 34: Aggregate Scores: 
+			> Precision: 0.6112 (1465 / 2397)
+			> Recall: 0.6437 (1465 / 2276)
+			> F1: 0.6270
+		- Sample 35: Aggregate Scores: 
+			> Precision: 0.5974 (1488 / 2491)
+			> Recall: 0.6963 (1488 / 2137)
+			> F1: 0.6430
+		- Sample 36: Aggregate Scores: 
+			> Precision: 0.6244 (1518 / 2431)
+			> Recall: 0.6900 (1518 / 2200)
+			> F1: 0.6556
+		- Sample 37: Aggregate Scores: 
+			> Precision: 0.6182 (1386 / 2242)
+			> Recall: 0.6125 (1386 / 2263)
+			> F1: 0.6153
+		- Sample 38: Aggregate Scores: 
+			> Precision: 0.5328 (1309 / 2457)
+			> Recall: 0.5565 (1309 / 2352)
+			> F1: 0.5444
+		- Sample 39: Aggregate Scores: 
+			> Precision: 0.5812 (1438 / 2474)
+			> Recall: 0.6451 (1438 / 2229)
+			> F1: 0.6115
+		- Sample 40: Aggregate Scores: 
+			> Precision: 0.5281 (1304 / 2469)
+			> Recall: 0.5832 (1304 / 2236)
+			> F1: 0.5543
+		- Sample 41: Aggregate Scores: 
+			> Precision: 0.5794 (1437 / 2480)
+			> Recall: 0.6165 (1437 / 2331)
+			> F1: 0.5974
+		- Sample 42: Aggregate Scores: 
+			> Precision: 0.5545 (1419 / 2559)
+			> Recall: 0.6232 (1419 / 2277)
+			> F1: 0.5868
+		- Sample 43: Aggregate Scores: 
+			> Precision: 0.5426 (1331 / 2453)
+			> Recall: 0.6402 (1331 / 2079)
+			> F1: 0.5874
+		- Sample 44: Aggregate Scores: 
+			> Precision: 0.5880 (1426 / 2425)
+			> Recall: 0.6633 (1426 / 2150)
+			> F1: 0.6234
+		- Sample 45: Aggregate Scores: 
+			> Precision: 0.5043 (1295 / 2568)
+			> Recall: 0.5745 (1295 / 2254)
+			> F1: 0.5371
+		- Sample 46: Aggregate Scores: 
+			> Precision: 0.6039 (1450 / 2401)
+			> Recall: 0.6313 (1450 / 2297)
+			> F1: 0.6173
+		- Sample 47: Aggregate Scores: 
+			> Precision: 0.5728 (1291 / 2254)
+			> Recall: 0.6394 (1291 / 2019)
+			> F1: 0.6043
+		- Sample 48: Aggregate Scores: 
+			> Precision: 0.6092 (1557 / 2556)
+			> Recall: 0.6556 (1557 / 2375)
+			> F1: 0.6315
+		- Sample 49: Aggregate Scores: 
+			> Precision: 0.5333 (1312 / 2460)
+			> Recall: 0.6005 (1312 / 2185)
+			> F1: 0.5649
+		- Sample 50: Aggregate Scores: 
+			> Precision: 0.5701 (1378 / 2417)
+			> Recall: 0.5955 (1378 / 2314)
+			> F1: 0.5825
+		- Sample 51: Aggregate Scores: 
+			> Precision: 0.5120 (1173 / 2291)
+			> Recall: 0.5567 (1173 / 2107)
+			> F1: 0.5334
+		- Sample 52: Aggregate Scores: 
+			> Precision: 0.5823 (1411 / 2423)
+			> Recall: 0.6175 (1411 / 2285)
+			> F1: 0.5994
+		- Sample 53: Aggregate Scores: 
+			> Precision: 0.5930 (1333 / 2248)
+			> Recall: 0.6255 (1333 / 2131)
+			> F1: 0.6088
+		- Sample 54: Aggregate Scores: 
+			> Precision: 0.5637 (1371 / 2432)
+			> Recall: 0.6093 (1371 / 2250)
+			> F1: 0.5856
+		- Sample 55: Aggregate Scores: 
+			> Precision: 0.5426 (1275 / 2350)
+			> Recall: 0.5859 (1275 / 2176)
+			> F1: 0.5634
+		- Sample 56: Aggregate Scores: 
+			> Precision: 0.6005 (1434 / 2388)
+			> Recall: 0.6071 (1434 / 2362)
+			> F1: 0.6038
+		- Sample 57: Aggregate Scores: 
+			> Precision: 0.5292 (1297 / 2451)
+			> Recall: 0.6016 (1297 / 2156)
+			> F1: 0.5631
+		- Sample 58: Aggregate Scores: 
+			> Precision: 0.5641 (1377 / 2441)
+			> Recall: 0.6542 (1377 / 2105)
+			> F1: 0.6058
+		- Sample 59: Aggregate Scores: 
+			> Precision: 0.4765 (1107 / 2323)
+			> Recall: 0.5403 (1107 / 2049)
+			> F1: 0.5064
+		- Sample 60: Aggregate Scores: 
+			> Precision: 0.6120 (1443 / 2358)
+			> Recall: 0.6274 (1443 / 2300)
+			> F1: 0.6196
+		- Sample 61: Aggregate Scores: 
+			> Precision: 0.5676 (1235 / 2176)
+			> Recall: 0.5915 (1235 / 2088)
+			> F1: 0.5793
+		- Sample 62: Aggregate Scores: 
+			> Precision: 0.6495 (1566 / 2411)
+			> Recall: 0.6951 (1566 / 2253)
+			> F1: 0.6715
+		- Sample 63: Aggregate Scores: 
+			> Precision: 0.5825 (1412 / 2424)
+			> Recall: 0.6139 (1412 / 2300)
+			> F1: 0.5978
+		- Sample 64: Aggregate Scores: 
+			> Precision: 0.5832 (1381 / 2368)
+			> Recall: 0.6399 (1381 / 2158)
+			> F1: 0.6103
+		- Sample 65: Aggregate Scores: 
+			> Precision: 0.5346 (1321 / 2471)
+			> Recall: 0.6150 (1321 / 2148)
+			> F1: 0.5720
+		- Sample 66: Aggregate Scores: 
+			> Precision: 0.5913 (1380 / 2334)
+			> Recall: 0.6354 (1380 / 2172)
+			> F1: 0.6125
+		- Sample 67: Aggregate Scores: 
+			> Precision: 0.6057 (1378 / 2275)
+			> Recall: 0.6424 (1378 / 2145)
+			> F1: 0.6235
+		- Sample 68: Aggregate Scores: 
+			> Precision: 0.5981 (1411 / 2359)
+			> Recall: 0.6098 (1411 / 2314)
+			> F1: 0.6039
+		- Sample 69: Aggregate Scores: 
+			> Precision: 0.5574 (1336 / 2397)
+			> Recall: 0.6092 (1336 / 2193)
+			> F1: 0.5821
+		- Sample 70: Aggregate Scores: 
+			> Precision: 0.5587 (1323 / 2368)
+			> Recall: 0.6100 (1323 / 2169)
+			> F1: 0.5832
+		- Sample 71: Aggregate Scores: 
+			> Precision: 0.5928 (1492 / 2517)
+			> Recall: 0.6530 (1492 / 2285)
+			> F1: 0.6214
+		- Sample 72: Aggregate Scores: 
+			> Precision: 0.5977 (1590 / 2660)
+			> Recall: 0.6958 (1590 / 2285)
+			> F1: 0.6431
+		- Sample 73: Aggregate Scores: 
+			> Precision: 0.5441 (1270 / 2334)
+			> Recall: 0.5752 (1270 / 2208)
+			> F1: 0.5592
+		- Sample 74: Aggregate Scores: 
+			> Precision: 0.5459 (1379 / 2526)
+			> Recall: 0.5689 (1379 / 2424)
+			> F1: 0.5572
+		- Sample 75: Aggregate Scores: 
+			> Precision: 0.5123 (1248 / 2436)
+			> Recall: 0.5794 (1248 / 2154)
+			> F1: 0.5438
+		- Sample 76: Aggregate Scores: 
+			> Precision: 0.6032 (1496 / 2480)
+			> Recall: 0.6878 (1496 / 2175)
+			> F1: 0.6427
+		- Sample 77: Aggregate Scores: 
+			> Precision: 0.5721 (1313 / 2295)
+			> Recall: 0.6065 (1313 / 2165)
+			> F1: 0.5888
+		- Sample 78: Aggregate Scores: 
+			> Precision: 0.5608 (1355 / 2416)
+			> Recall: 0.5894 (1355 / 2299)
+			> F1: 0.5748
+		- Sample 79: Aggregate Scores: 
+			> Precision: 0.5766 (1434 / 2487)
+			> Recall: 0.6105 (1434 / 2349)
+			> F1: 0.5931
+		- Sample 80: Aggregate Scores: 
+			> Precision: 0.6369 (1542 / 2421)
+			> Recall: 0.6924 (1542 / 2227)
+			> F1: 0.6635
+		- Sample 81: Aggregate Scores: 
+			> Precision: 0.6091 (1418 / 2328)
+			> Recall: 0.6396 (1418 / 2217)
+			> F1: 0.6240
+		- Sample 82: Aggregate Scores: 
+			> Precision: 0.5167 (1225 / 2371)
+			> Recall: 0.5425 (1225 / 2258)
+			> F1: 0.5293
+		- Sample 83: Aggregate Scores: 
+			> Precision: 0.5883 (1382 / 2349)
+			> Recall: 0.6369 (1382 / 2170)
+			> F1: 0.6116
+		- Sample 84: Aggregate Scores: 
+			> Precision: 0.6280 (1558 / 2481)
+			> Recall: 0.6675 (1558 / 2334)
+			> F1: 0.6471
+		- Sample 85: Aggregate Scores: 
+			> Precision: 0.5804 (1346 / 2319)
+			> Recall: 0.6047 (1346 / 2226)
+			> F1: 0.5923
+		- Sample 86: Aggregate Scores: 
+			> Precision: 0.4977 (1172 / 2355)
+			> Recall: 0.5662 (1172 / 2070)
+			> F1: 0.5297
+		- Sample 87: Aggregate Scores: 
+			> Precision: 0.5822 (1388 / 2384)
+			> Recall: 0.6390 (1388 / 2172)
+			> F1: 0.6093
+		- Sample 88: Aggregate Scores: 
+			> Precision: 0.5456 (1298 / 2379)
+			> Recall: 0.6187 (1298 / 2098)
+			> F1: 0.5799
+		- Sample 89: Aggregate Scores: 
+			> Precision: 0.5929 (1481 / 2498)
+			> Recall: 0.6260 (1481 / 2366)
+			> F1: 0.6090
+		- Sample 90: Aggregate Scores: 
+			> Precision: 0.6301 (1518 / 2409)
+			> Recall: 0.6594 (1518 / 2302)
+			> F1: 0.6444
+		- Sample 91: Aggregate Scores: 
+			> Precision: 0.4910 (1096 / 2232)
+			> Recall: 0.5412 (1096 / 2025)
+			> F1: 0.5149
+		- Sample 92: Aggregate Scores: 
+			> Precision: 0.5346 (1313 / 2456)
+			> Recall: 0.5734 (1313 / 2290)
+			> F1: 0.5533
+		- Sample 93: Aggregate Scores: 
+			> Precision: 0.5592 (1295 / 2316)
+			> Recall: 0.6220 (1295 / 2082)
+			> F1: 0.5889
+		- Sample 94: Aggregate Scores: 
+			> Precision: 0.5262 (1227 / 2332)
+			> Recall: 0.6111 (1227 / 2008)
+			> F1: 0.5654
+		- Sample 95: Aggregate Scores: 
+			> Precision: 0.5468 (1315 / 2405)
+			> Recall: 0.5868 (1315 / 2241)
+			> F1: 0.5661
+		- Sample 96: Aggregate Scores: 
+			> Precision: 0.5448 (1247 / 2289)
+			> Recall: 0.5792 (1247 / 2153)
+			> F1: 0.5615
+		- Sample 97: Aggregate Scores: 
+			> Precision: 0.5531 (1312 / 2372)
+			> Recall: 0.5876 (1312 / 2233)
+			> F1: 0.5698
+		- Sample 98: Aggregate Scores: 
+			> Precision: 0.5586 (1301 / 2329)
+			> Recall: 0.6125 (1301 / 2124)
+			> F1: 0.5843
+		- Sample 99: Aggregate Scores: 
+			> Precision: 0.5962 (1491 / 2501)
+			> Recall: 0.6560 (1491 / 2273)
+			> F1: 0.6246
+		- Sample 100: Aggregate Scores: 
+			> Precision: 0.6114 (1443 / 2360)
+			> Recall: 0.6571 (1443 / 2196)
+			> F1: 0.6335
+		- Sample 101: Aggregate Scores: 
+			> Precision: 0.6048 (1474 / 2437)
+			> Recall: 0.6254 (1474 / 2357)
+			> F1: 0.6149
+		- Sample 102: Aggregate Scores: 
+			> Precision: 0.5421 (1320 / 2435)
+			> Recall: 0.5838 (1320 / 2261)
+			> F1: 0.5622
+		- Sample 103: Aggregate Scores: 
+			> Precision: 0.6211 (1410 / 2270)
+			> Recall: 0.6354 (1410 / 2219)
+			> F1: 0.6282
+		- Sample 104: Aggregate Scores: 
+			> Precision: 0.6117 (1448 / 2367)
+			> Recall: 0.6199 (1448 / 2336)
+			> F1: 0.6158
+		- Sample 105: Aggregate Scores: 
+			> Precision: 0.5657 (1343 / 2374)
+			> Recall: 0.6118 (1343 / 2195)
+			> F1: 0.5879
+		- Sample 106: Aggregate Scores: 
+			> Precision: 0.5198 (1219 / 2345)
+			> Recall: 0.5361 (1219 / 2274)
+			> F1: 0.5278
+		- Sample 107: Aggregate Scores: 
+			> Precision: 0.5706 (1406 / 2464)
+			> Recall: 0.6950 (1406 / 2023)
+			> F1: 0.6267
+		- Sample 108: Aggregate Scores: 
+			> Precision: 0.5725 (1421 / 2482)
+			> Recall: 0.6021 (1421 / 2360)
+			> F1: 0.5869
+		- Sample 109: Aggregate Scores: 
+			> Precision: 0.5911 (1382 / 2338)
+			> Recall: 0.6181 (1382 / 2236)
+			> F1: 0.6043
+		- Sample 110: Aggregate Scores: 
+			> Precision: 0.5721 (1420 / 2482)
+			> Recall: 0.6264 (1420 / 2267)
+			> F1: 0.5980
+		- Sample 111: Aggregate Scores: 
+			> Precision: 0.5618 (1355 / 2412)
+			> Recall: 0.6098 (1355 / 2222)
+			> F1: 0.5848
+		- Sample 112: Aggregate Scores: 
+			> Precision: 0.6077 (1484 / 2442)
+			> Recall: 0.6782 (1484 / 2188)
+			> F1: 0.6410
+		- Sample 113: Aggregate Scores: 
+			> Precision: 0.5160 (1274 / 2469)
+			> Recall: 0.5901 (1274 / 2159)
+			> F1: 0.5506
+		- Sample 114: Aggregate Scores: 
+			> Precision: 0.6011 (1430 / 2379)
+			> Recall: 0.6291 (1430 / 2273)
+			> F1: 0.6148
+		- Sample 115: Aggregate Scores: 
+			> Precision: 0.5585 (1342 / 2403)
+			> Recall: 0.6372 (1342 / 2106)
+			> F1: 0.5953
+		- Sample 116: Aggregate Scores: 
+			> Precision: 0.5629 (1239 / 2201)
+			> Recall: 0.5755 (1239 / 2153)
+			> F1: 0.5691
+		- Sample 117: Aggregate Scores: 
+			> Precision: 0.5734 (1351 / 2356)
+			> Recall: 0.6514 (1351 / 2074)
+			> F1: 0.6099
+		- Sample 118: Aggregate Scores: 
+			> Precision: 0.5693 (1445 / 2538)
+			> Recall: 0.6023 (1445 / 2399)
+			> F1: 0.5854
+		- Sample 119: Aggregate Scores: 
+			> Precision: 0.5577 (1373 / 2462)
+			> Recall: 0.6440 (1373 / 2132)
+			> F1: 0.5977
+		- Sample 120: Aggregate Scores: 
+			> Precision: 0.5566 (1397 / 2510)
+			> Recall: 0.6074 (1397 / 2300)
+			> F1: 0.5809
+		- Sample 121: Aggregate Scores: 
+			> Precision: 0.5613 (1414 / 2519)
+			> Recall: 0.6069 (1414 / 2330)
+			> F1: 0.5832
+		- Sample 122: Aggregate Scores: 
+			> Precision: 0.6090 (1587 / 2606)
+			> Recall: 0.6288 (1587 / 2524)
+			> F1: 0.6187
+		- Sample 123: Aggregate Scores: 
+			> Precision: 0.5818 (1469 / 2525)
+			> Recall: 0.6291 (1469 / 2335)
+			> F1: 0.6045
+		- Sample 124: Aggregate Scores: 
+			> Precision: 0.5880 (1397 / 2376)
+			> Recall: 0.6225 (1397 / 2244)
+			> F1: 0.6048
+		- Sample 125: Aggregate Scores: 
+			> Precision: 0.6325 (1437 / 2272)
+			> Recall: 0.6028 (1437 / 2384)
+			> F1: 0.6173
+		- Sample 126: Aggregate Scores: 
+			> Precision: 0.5783 (1415 / 2447)
+			> Recall: 0.6374 (1415 / 2220)
+			> F1: 0.6064
+		- Sample 127: Aggregate Scores: 
+			> Precision: 0.5888 (1472 / 2500)
+			> Recall: 0.6589 (1472 / 2234)
+			> F1: 0.6219
+		- Sample 128: Aggregate Scores: 
+			> Precision: 0.5930 (1450 / 2445)
+			> Recall: 0.6567 (1450 / 2208)
+			> F1: 0.6233
+		- Sample 129: Aggregate Scores: 
+			> Precision: 0.5629 (1351 / 2400)
+			> Recall: 0.6455 (1351 / 2093)
+			> F1: 0.6014
+		- Sample 130: Aggregate Scores: 
+			> Precision: 0.6051 (1390 / 2297)
+			> Recall: 0.6175 (1390 / 2251)
+			> F1: 0.6113
+		- Sample 131: Aggregate Scores: 
+			> Precision: 0.5927 (1487 / 2509)
+			> Recall: 0.6638 (1487 / 2240)
+			> F1: 0.6262
+		- Sample 132: Aggregate Scores: 
+			> Precision: 0.5381 (1215 / 2258)
+			> Recall: 0.6302 (1215 / 1928)
+			> F1: 0.5805
+		- Sample 133: Aggregate Scores: 
+			> Precision: 0.6114 (1427 / 2334)
+			> Recall: 0.6582 (1427 / 2168)
+			> F1: 0.6339
+		- Sample 134: Aggregate Scores: 
+			> Precision: 0.6212 (1656 / 2666)
+			> Recall: 0.7191 (1656 / 2303)
+			> F1: 0.6665
+		- Sample 135: Aggregate Scores: 
+			> Precision: 0.5258 (1263 / 2402)
+			> Recall: 0.5751 (1263 / 2196)
+			> F1: 0.5494
+		- Sample 136: Aggregate Scores: 
+			> Precision: 0.5667 (1415 / 2497)
+			> Recall: 0.6494 (1415 / 2179)
+			> F1: 0.6052
+		- Sample 137: Aggregate Scores: 
+			> Precision: 0.5681 (1352 / 2380)
+			> Recall: 0.6242 (1352 / 2166)
+			> F1: 0.5948
+		- Sample 138: Aggregate Scores: 
+			> Precision: 0.5929 (1410 / 2378)
+			> Recall: 0.6085 (1410 / 2317)
+			> F1: 0.6006
+		- Sample 139: Aggregate Scores: 
+			> Precision: 0.5778 (1460 / 2527)
+			> Recall: 0.6762 (1460 / 2159)
+			> F1: 0.6231
+		- Sample 140: Aggregate Scores: 
+			> Precision: 0.5887 (1308 / 2222)
+			> Recall: 0.5945 (1308 / 2200)
+			> F1: 0.5916
+		- Sample 141: Aggregate Scores: 
+			> Precision: 0.5302 (1342 / 2531)
+			> Recall: 0.6521 (1342 / 2058)
+			> F1: 0.5849
+		- Sample 142: Aggregate Scores: 
+			> Precision: 0.6097 (1534 / 2516)
+			> Recall: 0.6558 (1534 / 2339)
+			> F1: 0.6319
+		- Sample 143: Aggregate Scores: 
+			> Precision: 0.5342 (1288 / 2411)
+			> Recall: 0.5677 (1288 / 2269)
+			> F1: 0.5504
+		- Sample 144: Aggregate Scores: 
+			> Precision: 0.5911 (1431 / 2421)
+			> Recall: 0.6352 (1431 / 2253)
+			> F1: 0.6123
+		- Sample 145: Aggregate Scores: 
+			> Precision: 0.6306 (1574 / 2496)
+			> Recall: 0.6955 (1574 / 2263)
+			> F1: 0.6615
+		- Sample 146: Aggregate Scores: 
+			> Precision: 0.5964 (1454 / 2438)
+			> Recall: 0.6308 (1454 / 2305)
+			> F1: 0.6131
+		- Sample 147: Aggregate Scores: 
+			> Precision: 0.5124 (1176 / 2295)
+			> Recall: 0.5695 (1176 / 2065)
+			> F1: 0.5394
+		- Sample 148: Aggregate Scores: 
+			> Precision: 0.6004 (1456 / 2425)
+			> Recall: 0.6642 (1456 / 2192)
+			> F1: 0.6307
+		- Sample 149: Aggregate Scores: 
+			> Precision: 0.5695 (1311 / 2302)
+			> Recall: 0.6234 (1311 / 2103)
+			> F1: 0.5952
+		- Sample 150: Aggregate Scores: 
+			> Precision: 0.6111 (1485 / 2430)
+			> Recall: 0.6443 (1485 / 2305)
+			> F1: 0.6272
+		- Sample 151: Aggregate Scores: 
+			> Precision: 0.5655 (1356 / 2398)
+			> Recall: 0.6220 (1356 / 2180)
+			> F1: 0.5924
+		- Sample 152: Aggregate Scores: 
+			> Precision: 0.6355 (1639 / 2579)
+			> Recall: 0.6804 (1639 / 2409)
+			> F1: 0.6572
+		- Sample 153: Aggregate Scores: 
+			> Precision: 0.5771 (1348 / 2336)
+			> Recall: 0.5830 (1348 / 2312)
+			> F1: 0.5800
+		- Sample 154: Aggregate Scores: 
+			> Precision: 0.6149 (1480 / 2407)
+			> Recall: 0.6709 (1480 / 2206)
+			> F1: 0.6417
+		- Sample 155: Aggregate Scores: 
+			> Precision: 0.6422 (1642 / 2557)
+			> Recall: 0.6743 (1642 / 2435)
+			> F1: 0.6579
+		- Sample 156: Aggregate Scores: 
+			> Precision: 0.5946 (1367 / 2299)
+			> Recall: 0.6149 (1367 / 2223)
+			> F1: 0.6046
+		- Sample 157: Aggregate Scores: 
+			> Precision: 0.6258 (1607 / 2568)
+			> Recall: 0.6789 (1607 / 2367)
+			> F1: 0.6513
+		- Sample 158: Aggregate Scores: 
+			> Precision: 0.5290 (1186 / 2242)
+			> Recall: 0.5653 (1186 / 2098)
+			> F1: 0.5465
+		- Sample 159: Aggregate Scores: 
+			> Precision: 0.6139 (1420 / 2313)
+			> Recall: 0.6417 (1420 / 2213)
+			> F1: 0.6275
+		- Sample 160: Aggregate Scores: 
+			> Precision: 0.5113 (1308 / 2558)
+			> Recall: 0.5943 (1308 / 2201)
+			> F1: 0.5497
+		- Sample 161: Aggregate Scores: 
+			> Precision: 0.5940 (1535 / 2584)
+			> Recall: 0.6631 (1535 / 2315)
+			> F1: 0.6267
+		- Sample 162: Aggregate Scores: 
+			> Precision: 0.5934 (1458 / 2457)
+			> Recall: 0.6356 (1458 / 2294)
+			> F1: 0.6138
+		- Sample 163: Aggregate Scores: 
+			> Precision: 0.5958 (1477 / 2479)
+			> Recall: 0.6562 (1477 / 2251)
+			> F1: 0.6245
+		- Sample 164: Aggregate Scores: 
+			> Precision: 0.5540 (1359 / 2453)
+			> Recall: 0.6091 (1359 / 2231)
+			> F1: 0.5803
+		- Sample 165: Aggregate Scores: 
+			> Precision: 0.6042 (1534 / 2539)
+			> Recall: 0.6731 (1534 / 2279)
+			> F1: 0.6368
+		- Sample 166: Aggregate Scores: 
+			> Precision: 0.6048 (1454 / 2404)
+			> Recall: 0.7031 (1454 / 2068)
+			> F1: 0.6503
+		- Sample 167: Aggregate Scores: 
+			> Precision: 0.5832 (1448 / 2483)
+			> Recall: 0.6318 (1448 / 2292)
+			> F1: 0.6065
+		- Sample 168: Aggregate Scores: 
+			> Precision: 0.6671 (1603 / 2403)
+			> Recall: 0.7280 (1603 / 2202)
+			> F1: 0.6962
+		- Sample 169: Aggregate Scores: 
+			> Precision: 0.5897 (1423 / 2413)
+			> Recall: 0.6646 (1423 / 2141)
+			> F1: 0.6249
+		- Sample 170: Aggregate Scores: 
+			> Precision: 0.5774 (1503 / 2603)
+			> Recall: 0.6521 (1503 / 2305)
+			> F1: 0.6125
+		- Sample 171: Aggregate Scores: 
+			> Precision: 0.5458 (1311 / 2402)
+			> Recall: 0.6075 (1311 / 2158)
+			> F1: 0.5750
+		- Sample 172: Aggregate Scores: 
+			> Precision: 0.5327 (1385 / 2600)
+			> Recall: 0.6630 (1385 / 2089)
+			> F1: 0.5907
+		- Sample 173: Aggregate Scores: 
+			> Precision: 0.5572 (1291 / 2317)
+			> Recall: 0.6207 (1291 / 2080)
+			> F1: 0.5872
+		- Sample 174: Aggregate Scores: 
+			> Precision: 0.5514 (1320 / 2394)
+			> Recall: 0.6286 (1320 / 2100)
+			> F1: 0.5874
+		- Sample 175: Aggregate Scores: 
+			> Precision: 0.5982 (1529 / 2556)
+			> Recall: 0.6765 (1529 / 2260)
+			> F1: 0.6350
+		- Sample 176: Aggregate Scores: 
+			> Precision: 0.5681 (1360 / 2394)
+			> Recall: 0.6182 (1360 / 2200)
+			> F1: 0.5921
+		- Sample 177: Aggregate Scores: 
+			> Precision: 0.6452 (1484 / 2300)
+			> Recall: 0.6758 (1484 / 2196)
+			> F1: 0.6601
+		- Sample 178: Aggregate Scores: 
+			> Precision: 0.5817 (1467 / 2522)
+			> Recall: 0.6494 (1467 / 2259)
+			> F1: 0.6137
+		- Sample 179: Aggregate Scores: 
+			> Precision: 0.5532 (1321 / 2388)
+			> Recall: 0.6018 (1321 / 2195)
+			> F1: 0.5765
+		- Sample 180: Aggregate Scores: 
+			> Precision: 0.4994 (1228 / 2459)
+			> Recall: 0.5738 (1228 / 2140)
+			> F1: 0.5340
+		- Sample 181: Aggregate Scores: 
+			> Precision: 0.5700 (1274 / 2235)
+			> Recall: 0.6146 (1274 / 2073)
+			> F1: 0.5915
+		- Sample 182: Aggregate Scores: 
+			> Precision: 0.5837 (1444 / 2474)
+			> Recall: 0.6339 (1444 / 2278)
+			> F1: 0.6077
+		- Sample 183: Aggregate Scores: 
+			> Precision: 0.5297 (1241 / 2343)
+			> Recall: 0.6077 (1241 / 2042)
+			> F1: 0.5660
+		- Sample 184: Aggregate Scores: 
+			> Precision: 0.6187 (1514 / 2447)
+			> Recall: 0.6385 (1514 / 2371)
+			> F1: 0.6285
+		- Sample 185: Aggregate Scores: 
+			> Precision: 0.5868 (1436 / 2447)
+			> Recall: 0.6087 (1436 / 2359)
+			> F1: 0.5976
+		- Sample 186: Aggregate Scores: 
+			> Precision: 0.5382 (1290 / 2397)
+			> Recall: 0.5874 (1290 / 2196)
+			> F1: 0.5617
+		- Sample 187: Aggregate Scores: 
+			> Precision: 0.6328 (1449 / 2290)
+			> Recall: 0.6060 (1449 / 2391)
+			> F1: 0.6191
+		- Sample 188: Aggregate Scores: 
+			> Precision: 0.5962 (1367 / 2293)
+			> Recall: 0.6659 (1367 / 2053)
+			> F1: 0.6291
+		- Sample 189: Aggregate Scores: 
+			> Precision: 0.5996 (1436 / 2395)
+			> Recall: 0.6348 (1436 / 2262)
+			> F1: 0.6167
+		- Sample 190: Aggregate Scores: 
+			> Precision: 0.6274 (1549 / 2469)
+			> Recall: 0.6674 (1549 / 2321)
+			> F1: 0.6468
+		- Sample 191: Aggregate Scores: 
+			> Precision: 0.4996 (1219 / 2440)
+			> Recall: 0.5707 (1219 / 2136)
+			> F1: 0.5328
+		- Sample 192: Aggregate Scores: 
+			> Precision: 0.5506 (1355 / 2461)
+			> Recall: 0.6156 (1355 / 2201)
+			> F1: 0.5813
+		- Sample 193: Aggregate Scores: 
+			> Precision: 0.5813 (1309 / 2252)
+			> Recall: 0.6131 (1309 / 2135)
+			> F1: 0.5968
+		- Sample 194: Aggregate Scores: 
+			> Precision: 0.6007 (1449 / 2412)
+			> Recall: 0.6434 (1449 / 2252)
+			> F1: 0.6214
+		- Sample 195: Aggregate Scores: 
+			> Precision: 0.5585 (1408 / 2521)
+			> Recall: 0.6374 (1408 / 2209)
+			> F1: 0.5953
+		- Sample 196: Aggregate Scores: 
+			> Precision: 0.5784 (1372 / 2372)
+			> Recall: 0.5932 (1372 / 2313)
+			> F1: 0.5857
+		- Sample 197: Aggregate Scores: 
+			> Precision: 0.6026 (1492 / 2476)
+			> Recall: 0.6631 (1492 / 2250)
+			> F1: 0.6314
+		- Sample 198: Aggregate Scores: 
+			> Precision: 0.6110 (1437 / 2352)
+			> Recall: 0.6905 (1437 / 2081)
+			> F1: 0.6483
+		- Sample 199: Aggregate Scores: 
+			> Precision: 0.5273 (1228 / 2329)
+			> Recall: 0.5667 (1228 / 2167)
+			> F1: 0.5463
+		- Sample 200: Aggregate Scores: 
+			> Precision: 0.6163 (1529 / 2481)
+			> Recall: 0.6780 (1529 / 2255)
+			> F1: 0.6457
+		- Sample 201: Aggregate Scores: 
+			> Precision: 0.5943 (1428 / 2403)
+			> Recall: 0.6409 (1428 / 2228)
+			> F1: 0.6167
+		- Sample 202: Aggregate Scores: 
+			> Precision: 0.6172 (1514 / 2453)
+			> Recall: 0.6543 (1514 / 2314)
+			> F1: 0.6352
+		- Sample 203: Aggregate Scores: 
+			> Precision: 0.5464 (1255 / 2297)
+			> Recall: 0.6107 (1255 / 2055)
+			> F1: 0.5767
+		- Sample 204: Aggregate Scores: 
+			> Precision: 0.5882 (1441 / 2450)
+			> Recall: 0.6749 (1441 / 2135)
+			> F1: 0.6286
+		- Sample 205: Aggregate Scores: 
+			> Precision: 0.6257 (1578 / 2522)
+			> Recall: 0.7183 (1578 / 2197)
+			> F1: 0.6688
+		- Sample 206: Aggregate Scores: 
+			> Precision: 0.5647 (1274 / 2256)
+			> Recall: 0.6513 (1274 / 1956)
+			> F1: 0.6049
+		- Sample 207: Aggregate Scores: 
+			> Precision: 0.5852 (1446 / 2471)
+			> Recall: 0.6158 (1446 / 2348)
+			> F1: 0.6001
+		- Sample 208: Aggregate Scores: 
+			> Precision: 0.6331 (1532 / 2420)
+			> Recall: 0.7070 (1532 / 2167)
+			> F1: 0.6680
+		- Sample 209: Aggregate Scores: 
+			> Precision: 0.6313 (1575 / 2495)
+			> Recall: 0.6911 (1575 / 2279)
+			> F1: 0.6598
+		- Sample 210: Aggregate Scores: 
+			> Precision: 0.5521 (1410 / 2554)
+			> Recall: 0.6165 (1410 / 2287)
+			> F1: 0.5825
+		- Sample 211: Aggregate Scores: 
+			> Precision: 0.5296 (1349 / 2547)
+			> Recall: 0.5822 (1349 / 2317)
+			> F1: 0.5547
+		- Sample 212: Aggregate Scores: 
+			> Precision: 0.5638 (1357 / 2407)
+			> Recall: 0.6061 (1357 / 2239)
+			> F1: 0.5842
+		- Sample 213: Aggregate Scores: 
+			> Precision: 0.5957 (1453 / 2439)
+			> Recall: 0.6455 (1453 / 2251)
+			> F1: 0.6196
+		- Sample 214: Aggregate Scores: 
+			> Precision: 0.5397 (1313 / 2433)
+			> Recall: 0.5580 (1313 / 2353)
+			> F1: 0.5487
+		- Sample 215: Aggregate Scores: 
+			> Precision: 0.5699 (1369 / 2402)
+			> Recall: 0.6007 (1369 / 2279)
+			> F1: 0.5849
+		- Sample 216: Aggregate Scores: 
+			> Precision: 0.5487 (1385 / 2524)
+			> Recall: 0.6394 (1385 / 2166)
+			> F1: 0.5906
+		- Sample 217: Aggregate Scores: 
+			> Precision: 0.5667 (1390 / 2453)
+			> Recall: 0.6321 (1390 / 2199)
+			> F1: 0.5976
+		- Sample 218: Aggregate Scores: 
+			> Precision: 0.6023 (1443 / 2396)
+			> Recall: 0.6482 (1443 / 2226)
+			> F1: 0.6244
+		- Sample 219: Aggregate Scores: 
+			> Precision: 0.5618 (1336 / 2378)
+			> Recall: 0.5956 (1336 / 2243)
+			> F1: 0.5782
+		- Sample 220: Aggregate Scores: 
+			> Precision: 0.6163 (1518 / 2463)
+			> Recall: 0.6705 (1518 / 2264)
+			> F1: 0.6423
+		- Sample 221: Aggregate Scores: 
+			> Precision: 0.5980 (1407 / 2353)
+			> Recall: 0.5995 (1407 / 2347)
+			> F1: 0.5987
+		- Sample 222: Aggregate Scores: 
+			> Precision: 0.5477 (1291 / 2357)
+			> Recall: 0.5844 (1291 / 2209)
+			> F1: 0.5655
+		- Sample 223: Aggregate Scores: 
+			> Precision: 0.6256 (1442 / 2305)
+			> Recall: 0.6627 (1442 / 2176)
+			> F1: 0.6436
+		- Sample 224: Aggregate Scores: 
+			> Precision: 0.6069 (1377 / 2269)
+			> Recall: 0.6375 (1377 / 2160)
+			> F1: 0.6218
+		- Sample 225: Aggregate Scores: 
+			> Precision: 0.6262 (1479 / 2362)
+			> Recall: 0.6741 (1479 / 2194)
+			> F1: 0.6493
+		- Sample 226: Aggregate Scores: 
+			> Precision: 0.5287 (1308 / 2474)
+			> Recall: 0.6196 (1308 / 2111)
+			> F1: 0.5706
+		- Sample 227: Aggregate Scores: 
+			> Precision: 0.5240 (1253 / 2391)
+			> Recall: 0.5493 (1253 / 2281)
+			> F1: 0.5364
+		- Sample 228: Aggregate Scores: 
+			> Precision: 0.5355 (1208 / 2256)
+			> Recall: 0.5763 (1208 / 2096)
+			> F1: 0.5551
+		- Sample 229: Aggregate Scores: 
+			> Precision: 0.5757 (1471 / 2555)
+			> Recall: 0.6435 (1471 / 2286)
+			> F1: 0.6077
+		- Sample 230: Aggregate Scores: 
+			> Precision: 0.6402 (1685 / 2632)
+			> Recall: 0.6710 (1685 / 2511)
+			> F1: 0.6553
+		- Sample 231: Aggregate Scores: 
+			> Precision: 0.5642 (1401 / 2483)
+			> Recall: 0.6252 (1401 / 2241)
+			> F1: 0.5931
+		- Sample 232: Aggregate Scores: 
+			> Precision: 0.4896 (1173 / 2396)
+			> Recall: 0.5361 (1173 / 2188)
+			> F1: 0.5118
+		- Sample 233: Aggregate Scores: 
+			> Precision: 0.6307 (1506 / 2388)
+			> Recall: 0.6007 (1506 / 2507)
+			> F1: 0.6153
+		- Sample 234: Aggregate Scores: 
+			> Precision: 0.5879 (1441 / 2451)
+			> Recall: 0.6362 (1441 / 2265)
+			> F1: 0.6111
+		- Sample 235: Aggregate Scores: 
+			> Precision: 0.5766 (1494 / 2591)
+			> Recall: 0.6907 (1494 / 2163)
+			> F1: 0.6285
+		- Sample 236: Aggregate Scores: 
+			> Precision: 0.6176 (1568 / 2539)
+			> Recall: 0.6762 (1568 / 2319)
+			> F1: 0.6455
+		- Sample 237: Aggregate Scores: 
+			> Precision: 0.5841 (1503 / 2573)
+			> Recall: 0.6914 (1503 / 2174)
+			> F1: 0.6332
+		- Sample 238: Aggregate Scores: 
+			> Precision: 0.5636 (1360 / 2413)
+			> Recall: 0.6126 (1360 / 2220)
+			> F1: 0.5871
+		- Sample 239: Aggregate Scores: 
+			> Precision: 0.5745 (1434 / 2496)
+			> Recall: 0.6433 (1434 / 2229)
+			> F1: 0.6070
+		- Sample 240: Aggregate Scores: 
+			> Precision: 0.5818 (1383 / 2377)
+			> Recall: 0.5969 (1383 / 2317)
+			> F1: 0.5893
+		- Sample 241: Aggregate Scores: 
+			> Precision: 0.5865 (1346 / 2295)
+			> Recall: 0.6004 (1346 / 2242)
+			> F1: 0.5933
+		- Sample 242: Aggregate Scores: 
+			> Precision: 0.5782 (1368 / 2366)
+			> Recall: 0.6096 (1368 / 2244)
+			> F1: 0.5935
+		- Sample 243: Aggregate Scores: 
+			> Precision: 0.5323 (1245 / 2339)
+			> Recall: 0.5669 (1245 / 2196)
+			> F1: 0.5491
+		- Sample 244: Aggregate Scores: 
+			> Precision: 0.6314 (1499 / 2374)
+			> Recall: 0.6817 (1499 / 2199)
+			> F1: 0.6556
+		- Sample 245: Aggregate Scores: 
+			> Precision: 0.6507 (1552 / 2385)
+			> Recall: 0.6713 (1552 / 2312)
+			> F1: 0.6608
+		- Sample 246: Aggregate Scores: 
+			> Precision: 0.5639 (1345 / 2385)
+			> Recall: 0.6114 (1345 / 2200)
+			> F1: 0.5867
+		- Sample 247: Aggregate Scores: 
+			> Precision: 0.5646 (1315 / 2329)
+			> Recall: 0.6168 (1315 / 2132)
+			> F1: 0.5896
+		- Sample 248: Aggregate Scores: 
+			> Precision: 0.5478 (1260 / 2300)
+			> Recall: 0.5994 (1260 / 2102)
+			> F1: 0.5725
+		- Sample 249: Aggregate Scores: 
+			> Precision: 0.6010 (1410 / 2346)
+			> Recall: 0.6395 (1410 / 2205)
+			> F1: 0.6196
+		- Sample 250: Aggregate Scores: 
+			> Precision: 0.6208 (1480 / 2384)
+			> Recall: 0.6352 (1480 / 2330)
+			> F1: 0.6279
+		- Sample 251: Aggregate Scores: 
+			> Precision: 0.5538 (1224 / 2210)
+			> Recall: 0.5682 (1224 / 2154)
+			> F1: 0.5610
+		- Sample 252: Aggregate Scores: 
+			> Precision: 0.5859 (1385 / 2364)
+			> Recall: 0.6512 (1385 / 2127)
+			> F1: 0.6168
+		- Sample 253: Aggregate Scores: 
+			> Precision: 0.5751 (1440 / 2504)
+			> Recall: 0.6313 (1440 / 2281)
+			> F1: 0.6019
+		- Sample 254: Aggregate Scores: 
+			> Precision: 0.5555 (1342 / 2416)
+			> Recall: 0.6029 (1342 / 2226)
+			> F1: 0.5782
+		- Sample 255: Aggregate Scores: 
+			> Precision: 0.5510 (1329 / 2412)
+			> Recall: 0.5694 (1329 / 2334)
+			> F1: 0.5601
+		- Sample 256: Aggregate Scores: 
+			> Precision: 0.5808 (1495 / 2574)
+			> Recall: 0.6221 (1495 / 2403)
+			> F1: 0.6008
+		- Sample 257: Aggregate Scores: 
+			> Precision: 0.5348 (1321 / 2470)
+			> Recall: 0.5900 (1321 / 2239)
+			> F1: 0.5611
+		- Sample 258: Aggregate Scores: 
+			> Precision: 0.5772 (1435 / 2486)
+			> Recall: 0.6172 (1435 / 2325)
+			> F1: 0.5965
+		- Sample 259: Aggregate Scores: 
+			> Precision: 0.5694 (1461 / 2566)
+			> Recall: 0.6308 (1461 / 2316)
+			> F1: 0.5985
+		- Sample 260: Aggregate Scores: 
+			> Precision: 0.6164 (1462 / 2372)
+			> Recall: 0.6775 (1462 / 2158)
+			> F1: 0.6455
+		- Sample 261: Aggregate Scores: 
+			> Precision: 0.6170 (1426 / 2311)
+			> Recall: 0.6099 (1426 / 2338)
+			> F1: 0.6135
+		- Sample 262: Aggregate Scores: 
+			> Precision: 0.5181 (1185 / 2287)
+			> Recall: 0.5686 (1185 / 2084)
+			> F1: 0.5422
+		- Sample 263: Aggregate Scores: 
+			> Precision: 0.5301 (1312 / 2475)
+			> Recall: 0.6227 (1312 / 2107)
+			> F1: 0.5727
+		- Sample 264: Aggregate Scores: 
+			> Precision: 0.5072 (1194 / 2354)
+			> Recall: 0.6190 (1194 / 1929)
+			> F1: 0.5576
+		- Sample 265: Aggregate Scores: 
+			> Precision: 0.6037 (1485 / 2460)
+			> Recall: 0.7041 (1485 / 2109)
+			> F1: 0.6500
+		- Sample 266: Aggregate Scores: 
+			> Precision: 0.5547 (1282 / 2311)
+			> Recall: 0.6223 (1282 / 2060)
+			> F1: 0.5866
+		- Sample 267: Aggregate Scores: 
+			> Precision: 0.5520 (1348 / 2442)
+			> Recall: 0.6141 (1348 / 2195)
+			> F1: 0.5814
+		- Sample 268: Aggregate Scores: 
+			> Precision: 0.5826 (1305 / 2240)
+			> Recall: 0.6448 (1305 / 2024)
+			> F1: 0.6121
+		- Sample 269: Aggregate Scores: 
+			> Precision: 0.5899 (1463 / 2480)
+			> Recall: 0.6517 (1463 / 2245)
+			> F1: 0.6193
+		- Sample 270: Aggregate Scores: 
+			> Precision: 0.5491 (1359 / 2475)
+			> Recall: 0.5883 (1359 / 2310)
+			> F1: 0.5680
+		- Sample 271: Aggregate Scores: 
+			> Precision: 0.6130 (1435 / 2341)
+			> Recall: 0.6953 (1435 / 2064)
+			> F1: 0.6515
+		- Sample 272: Aggregate Scores: 
+			> Precision: 0.6215 (1504 / 2420)
+			> Recall: 0.6591 (1504 / 2282)
+			> F1: 0.6397
+		- Sample 273: Aggregate Scores: 
+			> Precision: 0.6006 (1513 / 2519)
+			> Recall: 0.6302 (1513 / 2401)
+			> F1: 0.6150
+		- Sample 274: Aggregate Scores: 
+			> Precision: 0.5983 (1406 / 2350)
+			> Recall: 0.5991 (1406 / 2347)
+			> F1: 0.5987
+		- Sample 275: Aggregate Scores: 
+			> Precision: 0.6038 (1416 / 2345)
+			> Recall: 0.6338 (1416 / 2234)
+			> F1: 0.6185
+		- Sample 276: Aggregate Scores: 
+			> Precision: 0.5660 (1304 / 2304)
+			> Recall: 0.6309 (1304 / 2067)
+			> F1: 0.5967
+		- Sample 277: Aggregate Scores: 
+			> Precision: 0.5563 (1369 / 2461)
+			> Recall: 0.6245 (1369 / 2192)
+			> F1: 0.5884
+		- Sample 278: Aggregate Scores: 
+			> Precision: 0.5158 (1338 / 2594)
+			> Recall: 0.5777 (1338 / 2316)
+			> F1: 0.5450
+		- Sample 279: Aggregate Scores: 
+			> Precision: 0.5829 (1357 / 2328)
+			> Recall: 0.6422 (1357 / 2113)
+			> F1: 0.6111
+		- Sample 280: Aggregate Scores: 
+			> Precision: 0.5951 (1467 / 2465)
+			> Recall: 0.6448 (1467 / 2275)
+			> F1: 0.6190
+		- Sample 281: Aggregate Scores: 
+			> Precision: 0.5263 (1359 / 2582)
+			> Recall: 0.6374 (1359 / 2132)
+			> F1: 0.5766
+		- Sample 282: Aggregate Scores: 
+			> Precision: 0.5987 (1371 / 2290)
+			> Recall: 0.6341 (1371 / 2162)
+			> F1: 0.6159
+		- Sample 283: Aggregate Scores: 
+			> Precision: 0.5369 (1354 / 2522)
+			> Recall: 0.6345 (1354 / 2134)
+			> F1: 0.5816
+		- Sample 284: Aggregate Scores: 
+			> Precision: 0.5769 (1365 / 2366)
+			> Recall: 0.6337 (1365 / 2154)
+			> F1: 0.6040
+		- Sample 285: Aggregate Scores: 
+			> Precision: 0.6446 (1473 / 2285)
+			> Recall: 0.6635 (1473 / 2220)
+			> F1: 0.6539
+		- Sample 286: Aggregate Scores: 
+			> Precision: 0.5673 (1336 / 2355)
+			> Recall: 0.6258 (1336 / 2135)
+			> F1: 0.5951
+		- Sample 287: Aggregate Scores: 
+			> Precision: 0.5864 (1497 / 2553)
+			> Recall: 0.6713 (1497 / 2230)
+			> F1: 0.6260
+		- Sample 288: Aggregate Scores: 
+			> Precision: 0.5873 (1373 / 2338)
+			> Recall: 0.6204 (1373 / 2213)
+			> F1: 0.6034
+		- Sample 289: Aggregate Scores: 
+			> Precision: 0.5358 (1331 / 2484)
+			> Recall: 0.6368 (1331 / 2090)
+			> F1: 0.5820
+		- Sample 290: Aggregate Scores: 
+			> Precision: 0.5336 (1359 / 2547)
+			> Recall: 0.6102 (1359 / 2227)
+			> F1: 0.5693
+		- Sample 291: Aggregate Scores: 
+			> Precision: 0.5893 (1363 / 2313)
+			> Recall: 0.6162 (1363 / 2212)
+			> F1: 0.6024
+		- Sample 292: Aggregate Scores: 
+			> Precision: 0.5270 (1202 / 2281)
+			> Recall: 0.5439 (1202 / 2210)
+			> F1: 0.5353
+		- Sample 293: Aggregate Scores: 
+			> Precision: 0.5845 (1415 / 2421)
+			> Recall: 0.6244 (1415 / 2266)
+			> F1: 0.6038
+		- Sample 294: Aggregate Scores: 
+			> Precision: 0.5367 (1383 / 2577)
+			> Recall: 0.6278 (1383 / 2203)
+			> F1: 0.5787
+		- Sample 295: Aggregate Scores: 
+			> Precision: 0.5836 (1389 / 2380)
+			> Recall: 0.6383 (1389 / 2176)
+			> F1: 0.6097
+		- Sample 296: Aggregate Scores: 
+			> Precision: 0.5417 (1209 / 2232)
+			> Recall: 0.6088 (1209 / 1986)
+			> F1: 0.5733
+		- Sample 297: Aggregate Scores: 
+			> Precision: 0.5670 (1358 / 2395)
+			> Recall: 0.6430 (1358 / 2112)
+			> F1: 0.6026
+		- Sample 298: Aggregate Scores: 
+			> Precision: 0.5705 (1335 / 2340)
+			> Recall: 0.5989 (1335 / 2229)
+			> F1: 0.5844
+		- Sample 299: Aggregate Scores: 
+			> Precision: 0.6193 (1428 / 2306)
+			> Recall: 0.6249 (1428 / 2285)
+			> F1: 0.6221
+		- Sample 300: Aggregate Scores: 
+			> Precision: 0.6623 (1653 / 2496)
+			> Recall: 0.7292 (1653 / 2267)
+			> F1: 0.6941
+		- Sample 301: Aggregate Scores: 
+			> Precision: 0.5734 (1324 / 2309)
+			> Recall: 0.6107 (1324 / 2168)
+			> F1: 0.5915
+		- Sample 302: Aggregate Scores: 
+			> Precision: 0.4909 (1184 / 2412)
+			> Recall: 0.5736 (1184 / 2064)
+			> F1: 0.5290
+		- Sample 303: Aggregate Scores: 
+			> Precision: 0.5762 (1346 / 2336)
+			> Recall: 0.5733 (1346 / 2348)
+			> F1: 0.5747
+		- Sample 304: Aggregate Scores: 
+			> Precision: 0.5529 (1312 / 2373)
+			> Recall: 0.5747 (1312 / 2283)
+			> F1: 0.5636
+		- Sample 305: Aggregate Scores: 
+			> Precision: 0.5103 (1258 / 2465)
+			> Recall: 0.5739 (1258 / 2192)
+			> F1: 0.5403
+		- Sample 306: Aggregate Scores: 
+			> Precision: 0.6082 (1476 / 2427)
+			> Recall: 0.6217 (1476 / 2374)
+			> F1: 0.6149
+		- Sample 307: Aggregate Scores: 
+			> Precision: 0.6050 (1498 / 2476)
+			> Recall: 0.6139 (1498 / 2440)
+			> F1: 0.6094
+		- Sample 308: Aggregate Scores: 
+			> Precision: 0.5630 (1385 / 2460)
+			> Recall: 0.6394 (1385 / 2166)
+			> F1: 0.5988
+		- Sample 309: Aggregate Scores: 
+			> Precision: 0.5827 (1388 / 2382)
+			> Recall: 0.6216 (1388 / 2233)
+			> F1: 0.6015
+		- Sample 310: Aggregate Scores: 
+			> Precision: 0.5289 (1236 / 2337)
+			> Recall: 0.5889 (1236 / 2099)
+			> F1: 0.5573
+		- Sample 311: Aggregate Scores: 
+			> Precision: 0.5863 (1359 / 2318)
+			> Recall: 0.6277 (1359 / 2165)
+			> F1: 0.6063
+		- Sample 312: Aggregate Scores: 
+			> Precision: 0.6090 (1486 / 2440)
+			> Recall: 0.6475 (1486 / 2295)
+			> F1: 0.6277
+		- Sample 313: Aggregate Scores: 
+			> Precision: 0.6201 (1598 / 2577)
+			> Recall: 0.7012 (1598 / 2279)
+			> F1: 0.6582
+		- Sample 314: Aggregate Scores: 
+			> Precision: 0.5848 (1331 / 2276)
+			> Recall: 0.6375 (1331 / 2088)
+			> F1: 0.6100
+		- Sample 315: Aggregate Scores: 
+			> Precision: 0.6321 (1409 / 2229)
+			> Recall: 0.6794 (1409 / 2074)
+			> F1: 0.6549
+		- Sample 316: Aggregate Scores: 
+			> Precision: 0.5708 (1423 / 2493)
+			> Recall: 0.6206 (1423 / 2293)
+			> F1: 0.5947
+		- Sample 317: Aggregate Scores: 
+			> Precision: 0.5868 (1420 / 2420)
+			> Recall: 0.6496 (1420 / 2186)
+			> F1: 0.6166
+		- Sample 318: Aggregate Scores: 
+			> Precision: 0.5565 (1295 / 2327)
+			> Recall: 0.6386 (1295 / 2028)
+			> F1: 0.5947
+		- Sample 319: Aggregate Scores: 
+			> Precision: 0.5745 (1349 / 2348)
+			> Recall: 0.6006 (1349 / 2246)
+			> F1: 0.5873
+		- Sample 320: Aggregate Scores: 
+			> Precision: 0.5732 (1319 / 2301)
+			> Recall: 0.5974 (1319 / 2208)
+			> F1: 0.5851
+		- Sample 321: Aggregate Scores: 
+			> Precision: 0.5811 (1466 / 2523)
+			> Recall: 0.6333 (1466 / 2315)
+			> F1: 0.6060
+		- Sample 322: Aggregate Scores: 
+			> Precision: 0.5018 (1241 / 2473)
+			> Recall: 0.5695 (1241 / 2179)
+			> F1: 0.5335
+		- Sample 323: Aggregate Scores: 
+			> Precision: 0.4987 (1179 / 2364)
+			> Recall: 0.5509 (1179 / 2140)
+			> F1: 0.5235
+		- Sample 324: Aggregate Scores: 
+			> Precision: 0.5541 (1433 / 2586)
+			> Recall: 0.6291 (1433 / 2278)
+			> F1: 0.5892
+		- Sample 325: Aggregate Scores: 
+			> Precision: 0.5911 (1479 / 2502)
+			> Recall: 0.6478 (1479 / 2283)
+			> F1: 0.6182
+		- Sample 326: Aggregate Scores: 
+			> Precision: 0.6073 (1373 / 2261)
+			> Recall: 0.6244 (1373 / 2199)
+			> F1: 0.6157
+		- Sample 327: Aggregate Scores: 
+			> Precision: 0.5862 (1367 / 2332)
+			> Recall: 0.6017 (1367 / 2272)
+			> F1: 0.5938
+		- Sample 328: Aggregate Scores: 
+			> Precision: 0.5804 (1361 / 2345)
+			> Recall: 0.6175 (1361 / 2204)
+			> F1: 0.5984
+		- Sample 329: Aggregate Scores: 
+			> Precision: 0.5590 (1308 / 2340)
+			> Recall: 0.6220 (1308 / 2103)
+			> F1: 0.5888
+		- Sample 330: Aggregate Scores: 
+			> Precision: 0.5526 (1329 / 2405)
+			> Recall: 0.6335 (1329 / 2098)
+			> F1: 0.5903
+		- Sample 331: Aggregate Scores: 
+			> Precision: 0.6237 (1455 / 2333)
+			> Recall: 0.6452 (1455 / 2255)
+			> F1: 0.6343
+		- Sample 332: Aggregate Scores: 
+			> Precision: 0.5237 (1314 / 2509)
+			> Recall: 0.5824 (1314 / 2256)
+			> F1: 0.5515
+		- Sample 333: Aggregate Scores: 
+			> Precision: 0.6346 (1504 / 2370)
+			> Recall: 0.6921 (1504 / 2173)
+			> F1: 0.6621
+		- Sample 334: Aggregate Scores: 
+			> Precision: 0.5599 (1518 / 2711)
+			> Recall: 0.6161 (1518 / 2464)
+			> F1: 0.5867
+		- Sample 335: Aggregate Scores: 
+			> Precision: 0.5243 (1232 / 2350)
+			> Recall: 0.5744 (1232 / 2145)
+			> F1: 0.5482
+		- Sample 336: Aggregate Scores: 
+			> Precision: 0.5264 (1278 / 2428)
+			> Recall: 0.5780 (1278 / 2211)
+			> F1: 0.5510
+		- Sample 337: Aggregate Scores: 
+			> Precision: 0.6318 (1582 / 2504)
+			> Recall: 0.6633 (1582 / 2385)
+			> F1: 0.6472
+		- Sample 338: Aggregate Scores: 
+			> Precision: 0.5746 (1279 / 2226)
+			> Recall: 0.6059 (1279 / 2111)
+			> F1: 0.5898
+		- Sample 339: Aggregate Scores: 
+			> Precision: 0.5720 (1370 / 2395)
+			> Recall: 0.6308 (1370 / 2172)
+			> F1: 0.6000
+		- Sample 340: Aggregate Scores: 
+			> Precision: 0.5663 (1354 / 2391)
+			> Recall: 0.5989 (1354 / 2261)
+			> F1: 0.5821
+		- Sample 341: Aggregate Scores: 
+			> Precision: 0.4873 (1113 / 2284)
+			> Recall: 0.5551 (1113 / 2005)
+			> F1: 0.5190
+		- Sample 342: Aggregate Scores: 
+			> Precision: 0.5826 (1305 / 2240)
+			> Recall: 0.6006 (1305 / 2173)
+			> F1: 0.5914
+		- Sample 343: Aggregate Scores: 
+			> Precision: 0.5560 (1300 / 2338)
+			> Recall: 0.6179 (1300 / 2104)
+			> F1: 0.5853
+		- Sample 344: Aggregate Scores: 
+			> Precision: 0.6083 (1444 / 2374)
+			> Recall: 0.6879 (1444 / 2099)
+			> F1: 0.6457
+		- Sample 345: Aggregate Scores: 
+			> Precision: 0.5501 (1344 / 2443)
+			> Recall: 0.5984 (1344 / 2246)
+			> F1: 0.5733
+		- Sample 346: Aggregate Scores: 
+			> Precision: 0.5572 (1431 / 2568)
+			> Recall: 0.6725 (1431 / 2128)
+			> F1: 0.6095
+		- Sample 347: Aggregate Scores: 
+			> Precision: 0.5578 (1332 / 2388)
+			> Recall: 0.5670 (1332 / 2349)
+			> F1: 0.5624
+		- Sample 348: Aggregate Scores: 
+			> Precision: 0.5692 (1329 / 2335)
+			> Recall: 0.6014 (1329 / 2210)
+			> F1: 0.5848
+		- Sample 349: Aggregate Scores: 
+			> Precision: 0.5917 (1403 / 2371)
+			> Recall: 0.6095 (1403 / 2302)
+			> F1: 0.6005
+		- Sample 350: Aggregate Scores: 
+			> Precision: 0.5630 (1484 / 2636)
+			> Recall: 0.6561 (1484 / 2262)
+			> F1: 0.6060
+		- Sample 351: Aggregate Scores: 
+			> Precision: 0.4921 (1191 / 2420)
+			> Recall: 0.5532 (1191 / 2153)
+			> F1: 0.5209
+		- Sample 352: Aggregate Scores: 
+			> Precision: 0.6127 (1582 / 2582)
+			> Recall: 0.6896 (1582 / 2294)
+			> F1: 0.6489
+		- Sample 353: Aggregate Scores: 
+			> Precision: 0.5712 (1344 / 2353)
+			> Recall: 0.5866 (1344 / 2291)
+			> F1: 0.5788
+		- Sample 354: Aggregate Scores: 
+			> Precision: 0.5398 (1376 / 2549)
+			> Recall: 0.6038 (1376 / 2279)
+			> F1: 0.5700
+		- Sample 355: Aggregate Scores: 
+			> Precision: 0.5298 (1297 / 2448)
+			> Recall: 0.5816 (1297 / 2230)
+			> F1: 0.5545
+		- Sample 356: Aggregate Scores: 
+			> Precision: 0.5523 (1268 / 2296)
+			> Recall: 0.6064 (1268 / 2091)
+			> F1: 0.5781
+		- Sample 357: Aggregate Scores: 
+			> Precision: 0.5814 (1347 / 2317)
+			> Recall: 0.5908 (1347 / 2280)
+			> F1: 0.5860
+		- Sample 358: Aggregate Scores: 
+			> Precision: 0.5581 (1317 / 2360)
+			> Recall: 0.6022 (1317 / 2187)
+			> F1: 0.5793
+		- Sample 359: Aggregate Scores: 
+			> Precision: 0.5640 (1427 / 2530)
+			> Recall: 0.6186 (1427 / 2307)
+			> F1: 0.5900
+		- Sample 360: Aggregate Scores: 
+			> Precision: 0.5602 (1358 / 2424)
+			> Recall: 0.5876 (1358 / 2311)
+			> F1: 0.5736
+		- Sample 361: Aggregate Scores: 
+			> Precision: 0.5567 (1345 / 2416)
+			> Recall: 0.5943 (1345 / 2263)
+			> F1: 0.5749
+		- Sample 362: Aggregate Scores: 
+			> Precision: 0.6309 (1559 / 2471)
+			> Recall: 0.6206 (1559 / 2512)
+			> F1: 0.6257
+		- Sample 363: Aggregate Scores: 
+			> Precision: 0.6203 (1519 / 2449)
+			> Recall: 0.6319 (1519 / 2404)
+			> F1: 0.6260
+		- Sample 364: Aggregate Scores: 
+			> Precision: 0.5329 (1232 / 2312)
+			> Recall: 0.5881 (1232 / 2095)
+			> F1: 0.5591
+		- Sample 365: Aggregate Scores: 
+			> Precision: 0.5423 (1185 / 2185)
+			> Recall: 0.5835 (1185 / 2031)
+			> F1: 0.5621
+		- Sample 366: Aggregate Scores: 
+			> Precision: 0.5918 (1389 / 2347)
+			> Recall: 0.6437 (1389 / 2158)
+			> F1: 0.6166
+		- Sample 367: Aggregate Scores: 
+			> Precision: 0.5775 (1356 / 2348)
+			> Recall: 0.6339 (1356 / 2139)
+			> F1: 0.6044
+		- Sample 368: Aggregate Scores: 
+			> Precision: 0.6083 (1435 / 2359)
+			> Recall: 0.6078 (1435 / 2361)
+			> F1: 0.6081
+		- Sample 369: Aggregate Scores: 
+			> Precision: 0.5389 (1218 / 2260)
+			> Recall: 0.5649 (1218 / 2156)
+			> F1: 0.5516
+		- Sample 370: Aggregate Scores: 
+			> Precision: 0.5826 (1450 / 2489)
+			> Recall: 0.5997 (1450 / 2418)
+			> F1: 0.5910
+		- Sample 371: Aggregate Scores: 
+			> Precision: 0.5084 (1117 / 2197)
+			> Recall: 0.5150 (1117 / 2169)
+			> F1: 0.5117
+		- Sample 372: Aggregate Scores: 
+			> Precision: 0.5443 (1322 / 2429)
+			> Recall: 0.5985 (1322 / 2209)
+			> F1: 0.5701
+		- Sample 373: Aggregate Scores: 
+			> Precision: 0.5935 (1412 / 2379)
+			> Recall: 0.6401 (1412 / 2206)
+			> F1: 0.6159
+		- Sample 374: Aggregate Scores: 
+			> Precision: 0.5571 (1302 / 2337)
+			> Recall: 0.6096 (1302 / 2136)
+			> F1: 0.5822
+		- Sample 375: Aggregate Scores: 
+			> Precision: 0.5582 (1376 / 2465)
+			> Recall: 0.5811 (1376 / 2368)
+			> F1: 0.5694
+		- Sample 376: Aggregate Scores: 
+			> Precision: 0.5278 (1338 / 2535)
+			> Recall: 0.5765 (1338 / 2321)
+			> F1: 0.5511
+		- Sample 377: Aggregate Scores: 
+			> Precision: 0.5970 (1443 / 2417)
+			> Recall: 0.6279 (1443 / 2298)
+			> F1: 0.6121
+		- Sample 378: Aggregate Scores: 
+			> Precision: 0.5122 (1259 / 2458)
+			> Recall: 0.6010 (1259 / 2095)
+			> F1: 0.5530
+		- Sample 379: Aggregate Scores: 
+			> Precision: 0.5952 (1479 / 2485)
+			> Recall: 0.6112 (1479 / 2420)
+			> F1: 0.6031
+		- Sample 380: Aggregate Scores: 
+			> Precision: 0.6046 (1358 / 2246)
+			> Recall: 0.6586 (1358 / 2062)
+			> F1: 0.6305
+		- Sample 381: Aggregate Scores: 
+			> Precision: 0.5978 (1406 / 2352)
+			> Recall: 0.6521 (1406 / 2156)
+			> F1: 0.6238
+		- Sample 382: Aggregate Scores: 
+			> Precision: 0.5778 (1326 / 2295)
+			> Recall: 0.6125 (1326 / 2165)
+			> F1: 0.5946
+		- Sample 383: Aggregate Scores: 
+			> Precision: 0.5670 (1367 / 2411)
+			> Recall: 0.6340 (1367 / 2156)
+			> F1: 0.5986
+		- Sample 384: Aggregate Scores: 
+			> Precision: 0.5924 (1365 / 2304)
+			> Recall: 0.6636 (1365 / 2057)
+			> F1: 0.6260
+		- Sample 385: Aggregate Scores: 
+			> Precision: 0.5510 (1301 / 2361)
+			> Recall: 0.5818 (1301 / 2236)
+			> F1: 0.5660
+		- Sample 386: Aggregate Scores: 
+			> Precision: 0.6381 (1599 / 2506)
+			> Recall: 0.6591 (1599 / 2426)
+			> F1: 0.6484
+		- Sample 387: Aggregate Scores: 
+			> Precision: 0.5887 (1410 / 2395)
+			> Recall: 0.6782 (1410 / 2079)
+			> F1: 0.6303
+		- Sample 388: Aggregate Scores: 
+			> Precision: 0.5748 (1322 / 2300)
+			> Recall: 0.6101 (1322 / 2167)
+			> F1: 0.5919
+		- Sample 389: Aggregate Scores: 
+			> Precision: 0.5449 (1293 / 2373)
+			> Recall: 0.5721 (1293 / 2260)
+			> F1: 0.5582
+		- Sample 390: Aggregate Scores: 
+			> Precision: 0.5975 (1446 / 2420)
+			> Recall: 0.6670 (1446 / 2168)
+			> F1: 0.6303
+		- Sample 391: Aggregate Scores: 
+			> Precision: 0.5413 (1272 / 2350)
+			> Recall: 0.6226 (1272 / 2043)
+			> F1: 0.5791
+		- Sample 392: Aggregate Scores: 
+			> Precision: 0.6212 (1571 / 2529)
+			> Recall: 0.6598 (1571 / 2381)
+			> F1: 0.6399
+		- Sample 393: Aggregate Scores: 
+			> Precision: 0.5968 (1403 / 2351)
+			> Recall: 0.6050 (1403 / 2319)
+			> F1: 0.6009
+		- Sample 394: Aggregate Scores: 
+			> Precision: 0.5544 (1274 / 2298)
+			> Recall: 0.5945 (1274 / 2143)
+			> F1: 0.5737
+		- Sample 395: Aggregate Scores: 
+			> Precision: 0.5162 (1276 / 2472)
+			> Recall: 0.6094 (1276 / 2094)
+			> F1: 0.5589
+		- Sample 396: Aggregate Scores: 
+			> Precision: 0.5644 (1279 / 2266)
+			> Recall: 0.6370 (1279 / 2008)
+			> F1: 0.5985
+		- Sample 397: Aggregate Scores: 
+			> Precision: 0.6074 (1405 / 2313)
+			> Recall: 0.6004 (1405 / 2340)
+			> F1: 0.6039
+		- Sample 398: Aggregate Scores: 
+			> Precision: 0.5796 (1471 / 2538)
+			> Recall: 0.6544 (1471 / 2248)
+			> F1: 0.6147
+		- Sample 399: Aggregate Scores: 
+			> Precision: 0.5888 (1340 / 2276)
+			> Recall: 0.6091 (1340 / 2200)
+			> F1: 0.5987
+		- Sample 400: Aggregate Scores: 
+			> Precision: 0.5762 (1421 / 2466)
+			> Recall: 0.6576 (1421 / 2161)
+			> F1: 0.6142
+		- Sample 401: Aggregate Scores: 
+			> Precision: 0.5580 (1304 / 2337)
+			> Recall: 0.6315 (1304 / 2065)
+			> F1: 0.5925
+		- Sample 402: Aggregate Scores: 
+			> Precision: 0.6076 (1499 / 2467)
+			> Recall: 0.6656 (1499 / 2252)
+			> F1: 0.6353
+		- Sample 403: Aggregate Scores: 
+			> Precision: 0.5752 (1357 / 2359)
+			> Recall: 0.6233 (1357 / 2177)
+			> F1: 0.5983
+		- Sample 404: Aggregate Scores: 
+			> Precision: 0.5384 (1312 / 2437)
+			> Recall: 0.5956 (1312 / 2203)
+			> F1: 0.5655
+		- Sample 405: Aggregate Scores: 
+			> Precision: 0.5884 (1394 / 2369)
+			> Recall: 0.6185 (1394 / 2254)
+			> F1: 0.6031
+		- Sample 406: Aggregate Scores: 
+			> Precision: 0.6008 (1418 / 2360)
+			> Recall: 0.6123 (1418 / 2316)
+			> F1: 0.6065
+		- Sample 407: Aggregate Scores: 
+			> Precision: 0.6272 (1617 / 2578)
+			> Recall: 0.6961 (1617 / 2323)
+			> F1: 0.6599
+		- Sample 408: Aggregate Scores: 
+			> Precision: 0.5243 (1275 / 2432)
+			> Recall: 0.5838 (1275 / 2184)
+			> F1: 0.5524
+		- Sample 409: Aggregate Scores: 
+			> Precision: 0.5157 (1249 / 2422)
+			> Recall: 0.5836 (1249 / 2140)
+			> F1: 0.5476
+		- Sample 410: Aggregate Scores: 
+			> Precision: 0.5696 (1473 / 2586)
+			> Recall: 0.6327 (1473 / 2328)
+			> F1: 0.5995
+		- Sample 411: Aggregate Scores: 
+			> Precision: 0.6224 (1477 / 2373)
+			> Recall: 0.6717 (1477 / 2199)
+			> F1: 0.6461
+		- Sample 412: Aggregate Scores: 
+			> Precision: 0.6263 (1483 / 2368)
+			> Recall: 0.6568 (1483 / 2258)
+			> F1: 0.6412
+		- Sample 413: Aggregate Scores: 
+			> Precision: 0.5807 (1353 / 2330)
+			> Recall: 0.5898 (1353 / 2294)
+			> F1: 0.5852
+		- Sample 414: Aggregate Scores: 
+			> Precision: 0.5402 (1296 / 2399)
+			> Recall: 0.5763 (1296 / 2249)
+			> F1: 0.5577
+		- Sample 415: Aggregate Scores: 
+			> Precision: 0.5887 (1424 / 2419)
+			> Recall: 0.6583 (1424 / 2163)
+			> F1: 0.6216
+		- Sample 416: Aggregate Scores: 
+			> Precision: 0.5832 (1409 / 2416)
+			> Recall: 0.6147 (1409 / 2292)
+			> F1: 0.5986
+		- Sample 417: Aggregate Scores: 
+			> Precision: 0.6074 (1442 / 2374)
+			> Recall: 0.6294 (1442 / 2291)
+			> F1: 0.6182
+		- Sample 418: Aggregate Scores: 
+			> Precision: 0.6091 (1547 / 2540)
+			> Recall: 0.6662 (1547 / 2322)
+			> F1: 0.6364
+		- Sample 419: Aggregate Scores: 
+			> Precision: 0.5461 (1380 / 2527)
+			> Recall: 0.6222 (1380 / 2218)
+			> F1: 0.5817
+		- Sample 420: Aggregate Scores: 
+			> Precision: 0.5145 (1261 / 2451)
+			> Recall: 0.5937 (1261 / 2124)
+			> F1: 0.5513
+		- Sample 421: Aggregate Scores: 
+			> Precision: 0.5491 (1313 / 2391)
+			> Recall: 0.6205 (1313 / 2116)
+			> F1: 0.5826
+		- Sample 422: Aggregate Scores: 
+			> Precision: 0.5727 (1422 / 2483)
+			> Recall: 0.6461 (1422 / 2201)
+			> F1: 0.6072
+		- Sample 423: Aggregate Scores: 
+			> Precision: 0.4969 (1294 / 2604)
+			> Recall: 0.5648 (1294 / 2291)
+			> F1: 0.5287
+		- Sample 424: Aggregate Scores: 
+			> Precision: 0.5501 (1334 / 2425)
+			> Recall: 0.5815 (1334 / 2294)
+			> F1: 0.5654
+		- Sample 425: Aggregate Scores: 
+			> Precision: 0.5302 (1220 / 2301)
+			> Recall: 0.6007 (1220 / 2031)
+			> F1: 0.5633
+		- Sample 426: Aggregate Scores: 
+			> Precision: 0.5968 (1446 / 2423)
+			> Recall: 0.6624 (1446 / 2183)
+			> F1: 0.6279
+		- Sample 427: Aggregate Scores: 
+			> Precision: 0.5880 (1416 / 2408)
+			> Recall: 0.6559 (1416 / 2159)
+			> F1: 0.6201
+		- Sample 428: Aggregate Scores: 
+			> Precision: 0.5557 (1233 / 2219)
+			> Recall: 0.5971 (1233 / 2065)
+			> F1: 0.5756
+		- Sample 429: Aggregate Scores: 
+			> Precision: 0.5481 (1373 / 2505)
+			> Recall: 0.5923 (1373 / 2318)
+			> F1: 0.5694
+		- Sample 430: Aggregate Scores: 
+			> Precision: 0.5843 (1355 / 2319)
+			> Recall: 0.6282 (1355 / 2157)
+			> F1: 0.6055
+		- Sample 431: Aggregate Scores: 
+			> Precision: 0.5576 (1340 / 2403)
+			> Recall: 0.6521 (1340 / 2055)
+			> F1: 0.6012
+		- Sample 432: Aggregate Scores: 
+			> Precision: 0.5206 (1314 / 2524)
+			> Recall: 0.5809 (1314 / 2262)
+			> F1: 0.5491
+		- Sample 433: Aggregate Scores: 
+			> Precision: 0.5797 (1364 / 2353)
+			> Recall: 0.6125 (1364 / 2227)
+			> F1: 0.5956
+		- Sample 434: Aggregate Scores: 
+			> Precision: 0.5909 (1459 / 2469)
+			> Recall: 0.6566 (1459 / 2222)
+			> F1: 0.6220
+		- Sample 435: Aggregate Scores: 
+			> Precision: 0.6148 (1483 / 2412)
+			> Recall: 0.6428 (1483 / 2307)
+			> F1: 0.6285
+		- Sample 436: Aggregate Scores: 
+			> Precision: 0.5421 (1346 / 2483)
+			> Recall: 0.6012 (1346 / 2239)
+			> F1: 0.5701
+		- Sample 437: Aggregate Scores: 
+			> Precision: 0.5616 (1286 / 2290)
+			> Recall: 0.6310 (1286 / 2038)
+			> F1: 0.5943
+		- Sample 438: Aggregate Scores: 
+			> Precision: 0.5368 (1328 / 2474)
+			> Recall: 0.6006 (1328 / 2211)
+			> F1: 0.5669
+		- Sample 439: Aggregate Scores: 
+			> Precision: 0.5952 (1469 / 2468)
+			> Recall: 0.6529 (1469 / 2250)
+			> F1: 0.6227
+		- Sample 440: Aggregate Scores: 
+			> Precision: 0.5965 (1437 / 2409)
+			> Recall: 0.6604 (1437 / 2176)
+			> F1: 0.6268
+		- Sample 441: Aggregate Scores: 
+			> Precision: 0.5870 (1387 / 2363)
+			> Recall: 0.6776 (1387 / 2047)
+			> F1: 0.6290
+		- Sample 442: Aggregate Scores: 
+			> Precision: 0.5820 (1516 / 2605)
+			> Recall: 0.6617 (1516 / 2291)
+			> F1: 0.6193
+		- Sample 443: Aggregate Scores: 
+			> Precision: 0.5895 (1433 / 2431)
+			> Recall: 0.6269 (1433 / 2286)
+			> F1: 0.6076
+		- Sample 444: Aggregate Scores: 
+			> Precision: 0.5837 (1391 / 2383)
+			> Recall: 0.6199 (1391 / 2244)
+			> F1: 0.6013
+		- Sample 445: Aggregate Scores: 
+			> Precision: 0.5413 (1323 / 2444)
+			> Recall: 0.5917 (1323 / 2236)
+			> F1: 0.5654
+		- Sample 446: Aggregate Scores: 
+			> Precision: 0.6191 (1479 / 2389)
+			> Recall: 0.6513 (1479 / 2271)
+			> F1: 0.6348
+		- Sample 447: Aggregate Scores: 
+			> Precision: 0.6207 (1450 / 2336)
+			> Recall: 0.6576 (1450 / 2205)
+			> F1: 0.6386
+		- Sample 448: Aggregate Scores: 
+			> Precision: 0.6095 (1622 / 2661)
+			> Recall: 0.6893 (1622 / 2353)
+			> F1: 0.6470
+		- Sample 449: Aggregate Scores: 
+			> Precision: 0.5666 (1497 / 2642)
+			> Recall: 0.6808 (1497 / 2199)
+			> F1: 0.6185
+		- Sample 450: Aggregate Scores: 
+			> Precision: 0.5827 (1480 / 2540)
+			> Recall: 0.6454 (1480 / 2293)
+			> F1: 0.6125
+		- Sample 451: Aggregate Scores: 
+			> Precision: 0.5692 (1378 / 2421)
+			> Recall: 0.6556 (1378 / 2102)
+			> F1: 0.6093
+		- Sample 452: Aggregate Scores: 
+			> Precision: 0.5840 (1377 / 2358)
+			> Recall: 0.6357 (1377 / 2166)
+			> F1: 0.6088
+		- Sample 453: Aggregate Scores: 
+			> Precision: 0.5327 (1182 / 2219)
+			> Recall: 0.6003 (1182 / 1969)
+			> F1: 0.5645
+		- Sample 454: Aggregate Scores: 
+			> Precision: 0.6217 (1530 / 2461)
+			> Recall: 0.6758 (1530 / 2264)
+			> F1: 0.6476
+		- Sample 455: Aggregate Scores: 
+			> Precision: 0.5371 (1282 / 2387)
+			> Recall: 0.5526 (1282 / 2320)
+			> F1: 0.5447
+		- Sample 456: Aggregate Scores: 
+			> Precision: 0.5736 (1438 / 2507)
+			> Recall: 0.6145 (1438 / 2340)
+			> F1: 0.5934
+		- Sample 457: Aggregate Scores: 
+			> Precision: 0.5808 (1416 / 2438)
+			> Recall: 0.6151 (1416 / 2302)
+			> F1: 0.5975
+		- Sample 458: Aggregate Scores: 
+			> Precision: 0.5918 (1435 / 2425)
+			> Recall: 0.6161 (1435 / 2329)
+			> F1: 0.6037
+		- Sample 459: Aggregate Scores: 
+			> Precision: 0.4743 (1188 / 2505)
+			> Recall: 0.5734 (1188 / 2072)
+			> F1: 0.5191
+		- Sample 460: Aggregate Scores: 
+			> Precision: 0.6263 (1594 / 2545)
+			> Recall: 0.6695 (1594 / 2381)
+			> F1: 0.6472
+		- Sample 461: Aggregate Scores: 
+			> Precision: 0.5870 (1477 / 2516)
+			> Recall: 0.6778 (1477 / 2179)
+			> F1: 0.6292
+		- Sample 462: Aggregate Scores: 
+			> Precision: 0.5748 (1379 / 2399)
+			> Recall: 0.6198 (1379 / 2225)
+			> F1: 0.5965
+		- Sample 463: Aggregate Scores: 
+			> Precision: 0.6520 (1645 / 2523)
+			> Recall: 0.6964 (1645 / 2362)
+			> F1: 0.6735
+		- Sample 464: Aggregate Scores: 
+			> Precision: 0.6000 (1500 / 2500)
+			> Recall: 0.6573 (1500 / 2282)
+			> F1: 0.6274
+		- Sample 465: Aggregate Scores: 
+			> Precision: 0.5847 (1419 / 2427)
+			> Recall: 0.6315 (1419 / 2247)
+			> F1: 0.6072
+		- Sample 466: Aggregate Scores: 
+			> Precision: 0.5460 (1275 / 2335)
+			> Recall: 0.6051 (1275 / 2107)
+			> F1: 0.5741
+		- Sample 467: Aggregate Scores: 
+			> Precision: 0.5740 (1362 / 2373)
+			> Recall: 0.6409 (1362 / 2125)
+			> F1: 0.6056
+		- Sample 468: Aggregate Scores: 
+			> Precision: 0.5811 (1354 / 2330)
+			> Recall: 0.6257 (1354 / 2164)
+			> F1: 0.6026
+		- Sample 469: Aggregate Scores: 
+			> Precision: 0.5715 (1335 / 2336)
+			> Recall: 0.6146 (1335 / 2172)
+			> F1: 0.5923
+		- Sample 470: Aggregate Scores: 
+			> Precision: 0.4521 (1105 / 2444)
+			> Recall: 0.5449 (1105 / 2028)
+			> F1: 0.4942
+		- Sample 471: Aggregate Scores: 
+			> Precision: 0.6312 (1436 / 2275)
+			> Recall: 0.6676 (1436 / 2151)
+			> F1: 0.6489
+		- Sample 472: Aggregate Scores: 
+			> Precision: 0.5775 (1457 / 2523)
+			> Recall: 0.5959 (1457 / 2445)
+			> F1: 0.5866
+		- Sample 473: Aggregate Scores: 
+			> Precision: 0.5471 (1302 / 2380)
+			> Recall: 0.6200 (1302 / 2100)
+			> F1: 0.5813
+		- Sample 474: Aggregate Scores: 
+			> Precision: 0.5957 (1320 / 2216)
+			> Recall: 0.5658 (1320 / 2333)
+			> F1: 0.5803
+		- Sample 475: Aggregate Scores: 
+			> Precision: 0.5949 (1411 / 2372)
+			> Recall: 0.6364 (1411 / 2217)
+			> F1: 0.6149
+		- Sample 476: Aggregate Scores: 
+			> Precision: 0.5926 (1443 / 2435)
+			> Recall: 0.6474 (1443 / 2229)
+			> F1: 0.6188
+		- Sample 477: Aggregate Scores: 
+			> Precision: 0.5316 (1278 / 2404)
+			> Recall: 0.5518 (1278 / 2316)
+			> F1: 0.5415
+		- Sample 478: Aggregate Scores: 
+			> Precision: 0.5748 (1472 / 2561)
+			> Recall: 0.6583 (1472 / 2236)
+			> F1: 0.6137
+		- Sample 479: Aggregate Scores: 
+			> Precision: 0.5436 (1284 / 2362)
+			> Recall: 0.6236 (1284 / 2059)
+			> F1: 0.5809
+		- Sample 480: Aggregate Scores: 
+			> Precision: 0.5773 (1341 / 2323)
+			> Recall: 0.6398 (1341 / 2096)
+			> F1: 0.6069
+		- Sample 481: Aggregate Scores: 
+			> Precision: 0.5753 (1288 / 2239)
+			> Recall: 0.6335 (1288 / 2033)
+			> F1: 0.6030
+		- Sample 482: Aggregate Scores: 
+			> Precision: 0.5950 (1581 / 2657)
+			> Recall: 0.6585 (1581 / 2401)
+			> F1: 0.6251
+		- Sample 483: Aggregate Scores: 
+			> Precision: 0.5701 (1398 / 2452)
+			> Recall: 0.5849 (1398 / 2390)
+			> F1: 0.5774
+		- Sample 484: Aggregate Scores: 
+			> Precision: 0.5665 (1337 / 2360)
+			> Recall: 0.5795 (1337 / 2307)
+			> F1: 0.5730
+		- Sample 485: Aggregate Scores: 
+			> Precision: 0.5536 (1255 / 2267)
+			> Recall: 0.5911 (1255 / 2123)
+			> F1: 0.5718
+		- Sample 486: Aggregate Scores: 
+			> Precision: 0.5984 (1380 / 2306)
+			> Recall: 0.6516 (1380 / 2118)
+			> F1: 0.6239
+		- Sample 487: Aggregate Scores: 
+			> Precision: 0.5101 (1263 / 2476)
+			> Recall: 0.5780 (1263 / 2185)
+			> F1: 0.5419
+		- Sample 488: Aggregate Scores: 
+			> Precision: 0.5700 (1404 / 2463)
+			> Recall: 0.6657 (1404 / 2109)
+			> F1: 0.6142
+		- Sample 489: Aggregate Scores: 
+			> Precision: 0.5930 (1355 / 2285)
+			> Recall: 0.5998 (1355 / 2259)
+			> F1: 0.5964
+		- Sample 490: Aggregate Scores: 
+			> Precision: 0.5268 (1316 / 2498)
+			> Recall: 0.5963 (1316 / 2207)
+			> F1: 0.5594
+		- Sample 491: Aggregate Scores: 
+			> Precision: 0.5158 (1174 / 2276)
+			> Recall: 0.5102 (1174 / 2301)
+			> F1: 0.5130
+		- Sample 492: Aggregate Scores: 
+			> Precision: 0.5828 (1400 / 2402)
+			> Recall: 0.6264 (1400 / 2235)
+			> F1: 0.6038
+		- Sample 493: Aggregate Scores: 
+			> Precision: 0.5476 (1289 / 2354)
+			> Recall: 0.6089 (1289 / 2117)
+			> F1: 0.5766
+		- Sample 494: Aggregate Scores: 
+			> Precision: 0.5757 (1445 / 2510)
+			> Recall: 0.6250 (1445 / 2312)
+			> F1: 0.5993
+		- Sample 495: Aggregate Scores: 
+			> Precision: 0.5729 (1478 / 2580)
+			> Recall: 0.6407 (1478 / 2307)
+			> F1: 0.6049
+		- Sample 496: Aggregate Scores: 
+			> Precision: 0.6125 (1334 / 2178)
+			> Recall: 0.6307 (1334 / 2115)
+			> F1: 0.6215
+		- Sample 497: Aggregate Scores: 
+			> Precision: 0.6034 (1395 / 2312)
+			> Recall: 0.6435 (1395 / 2168)
+			> F1: 0.6228
+		- Sample 498: Aggregate Scores: 
+			> Precision: 0.5577 (1440 / 2582)
+			> Recall: 0.6115 (1440 / 2355)
+			> F1: 0.5834
+		- Sample 499: Aggregate Scores: 
+			> Precision: 0.5194 (1247 / 2401)
+			> Recall: 0.5697 (1247 / 2189)
+			> F1: 0.5434
+		- Sample 500: Aggregate Scores: 
+			> Precision: 0.5602 (1307 / 2333)
+			> Recall: 0.5697 (1307 / 2294)
+			> F1: 0.5649
+		- Sample 501: Aggregate Scores: 
+			> Precision: 0.5594 (1341 / 2397)
+			> Recall: 0.6174 (1341 / 2172)
+			> F1: 0.5870
+		- Sample 502: Aggregate Scores: 
+			> Precision: 0.5243 (1285 / 2451)
+			> Recall: 0.6181 (1285 / 2079)
+			> F1: 0.5673
+		- Sample 503: Aggregate Scores: 
+			> Precision: 0.5491 (1381 / 2515)
+			> Recall: 0.5882 (1381 / 2348)
+			> F1: 0.5680
+		- Sample 504: Aggregate Scores: 
+			> Precision: 0.5333 (1274 / 2389)
+			> Recall: 0.6070 (1274 / 2099)
+			> F1: 0.5677
+		- Sample 505: Aggregate Scores: 
+			> Precision: 0.5850 (1352 / 2311)
+			> Recall: 0.5959 (1352 / 2269)
+			> F1: 0.5904
+		- Sample 506: Aggregate Scores: 
+			> Precision: 0.5893 (1419 / 2408)
+			> Recall: 0.5955 (1419 / 2383)
+			> F1: 0.5924
+		- Sample 507: Aggregate Scores: 
+			> Precision: 0.5030 (1192 / 2370)
+			> Recall: 0.5486 (1192 / 2173)
+			> F1: 0.5248
+		- Sample 508: Aggregate Scores: 
+			> Precision: 0.5415 (1193 / 2203)
+			> Recall: 0.5521 (1193 / 2161)
+			> F1: 0.5467
+		- Sample 509: Aggregate Scores: 
+			> Precision: 0.6087 (1414 / 2323)
+			> Recall: 0.6341 (1414 / 2230)
+			> F1: 0.6211
+		- Sample 510: Aggregate Scores: 
+			> Precision: 0.5704 (1353 / 2372)
+			> Recall: 0.6412 (1353 / 2110)
+			> F1: 0.6037
+		- Sample 511: Aggregate Scores: 
+			> Precision: 0.5593 (1428 / 2553)
+			> Recall: 0.6020 (1428 / 2372)
+			> F1: 0.5799
+		- Sample 512: Aggregate Scores: 
+			> Precision: 0.6192 (1501 / 2424)
+			> Recall: 0.6823 (1501 / 2200)
+			> F1: 0.6492
+		- Sample 513: Aggregate Scores: 
+			> Precision: 0.5730 (1323 / 2309)
+			> Recall: 0.6300 (1323 / 2100)
+			> F1: 0.6001
+		- Sample 514: Aggregate Scores: 
+			> Precision: 0.5592 (1252 / 2239)
+			> Recall: 0.5169 (1252 / 2422)
+			> F1: 0.5372
+		- Sample 515: Aggregate Scores: 
+			> Precision: 0.6241 (1441 / 2309)
+			> Recall: 0.6503 (1441 / 2216)
+			> F1: 0.6369
+		- Sample 516: Aggregate Scores: 
+			> Precision: 0.6091 (1518 / 2492)
+			> Recall: 0.6427 (1518 / 2362)
+			> F1: 0.6255
+		- Sample 517: Aggregate Scores: 
+			> Precision: 0.5448 (1308 / 2401)
+			> Recall: 0.5997 (1308 / 2181)
+			> F1: 0.5709
+		- Sample 518: Aggregate Scores: 
+			> Precision: 0.6163 (1489 / 2416)
+			> Recall: 0.6449 (1489 / 2309)
+			> F1: 0.6303
+		- Sample 519: Aggregate Scores: 
+			> Precision: 0.6137 (1414 / 2304)
+			> Recall: 0.6172 (1414 / 2291)
+			> F1: 0.6155
+		- Sample 520: Aggregate Scores: 
+			> Precision: 0.5592 (1337 / 2391)
+			> Recall: 0.5945 (1337 / 2249)
+			> F1: 0.5763
+		- Sample 521: Aggregate Scores: 
+			> Precision: 0.6313 (1512 / 2395)
+			> Recall: 0.6393 (1512 / 2365)
+			> F1: 0.6353
+		- Sample 522: Aggregate Scores: 
+			> Precision: 0.5911 (1415 / 2394)
+			> Recall: 0.6774 (1415 / 2089)
+			> F1: 0.6313
+		- Sample 523: Aggregate Scores: 
+			> Precision: 0.6010 (1505 / 2504)
+			> Recall: 0.6659 (1505 / 2260)
+			> F1: 0.6318
+		- Sample 524: Aggregate Scores: 
+			> Precision: 0.5670 (1299 / 2291)
+			> Recall: 0.6050 (1299 / 2147)
+			> F1: 0.5854
+		- Sample 525: Aggregate Scores: 
+			> Precision: 0.5416 (1270 / 2345)
+			> Recall: 0.5918 (1270 / 2146)
+			> F1: 0.5656
+		- Sample 526: Aggregate Scores: 
+			> Precision: 0.5791 (1366 / 2359)
+			> Recall: 0.6301 (1366 / 2168)
+			> F1: 0.6035
+		- Sample 527: Aggregate Scores: 
+			> Precision: 0.5950 (1428 / 2400)
+			> Recall: 0.6698 (1428 / 2132)
+			> F1: 0.6302
+		- Sample 528: Aggregate Scores: 
+			> Precision: 0.5701 (1419 / 2489)
+			> Recall: 0.6191 (1419 / 2292)
+			> F1: 0.5936
+		- Sample 529: Aggregate Scores: 
+			> Precision: 0.5532 (1358 / 2455)
+			> Recall: 0.6060 (1358 / 2241)
+			> F1: 0.5784
+		- Sample 530: Aggregate Scores: 
+			> Precision: 0.6081 (1409 / 2317)
+			> Recall: 0.6560 (1409 / 2148)
+			> F1: 0.6311
+		- Sample 531: Aggregate Scores: 
+			> Precision: 0.5178 (1222 / 2360)
+			> Recall: 0.5673 (1222 / 2154)
+			> F1: 0.5414
+		- Sample 532: Aggregate Scores: 
+			> Precision: 0.6262 (1491 / 2381)
+			> Recall: 0.6551 (1491 / 2276)
+			> F1: 0.6403
+		- Sample 533: Aggregate Scores: 
+			> Precision: 0.5820 (1466 / 2519)
+			> Recall: 0.6464 (1466 / 2268)
+			> F1: 0.6125
+		- Sample 534: Aggregate Scores: 
+			> Precision: 0.5916 (1340 / 2265)
+			> Recall: 0.6004 (1340 / 2232)
+			> F1: 0.5960
+		- Sample 535: Aggregate Scores: 
+			> Precision: 0.6059 (1428 / 2357)
+			> Recall: 0.6118 (1428 / 2334)
+			> F1: 0.6088
+		- Sample 536: Aggregate Scores: 
+			> Precision: 0.5293 (1338 / 2528)
+			> Recall: 0.5631 (1338 / 2376)
+			> F1: 0.5457
+		- Sample 537: Aggregate Scores: 
+			> Precision: 0.5179 (1157 / 2234)
+			> Recall: 0.5930 (1157 / 1951)
+			> F1: 0.5529
+		- Sample 538: Aggregate Scores: 
+			> Precision: 0.5580 (1327 / 2378)
+			> Recall: 0.5747 (1327 / 2309)
+			> F1: 0.5662
+		- Sample 539: Aggregate Scores: 
+			> Precision: 0.5856 (1307 / 2232)
+			> Recall: 0.6054 (1307 / 2159)
+			> F1: 0.5953
+		- Sample 540: Aggregate Scores: 
+			> Precision: 0.5700 (1360 / 2386)
+			> Recall: 0.5970 (1360 / 2278)
+			> F1: 0.5832
+		- Sample 541: Aggregate Scores: 
+			> Precision: 0.6017 (1482 / 2463)
+			> Recall: 0.6393 (1482 / 2318)
+			> F1: 0.6200
+		- Sample 542: Aggregate Scores: 
+			> Precision: 0.5789 (1475 / 2548)
+			> Recall: 0.6547 (1475 / 2253)
+			> F1: 0.6145
+		- Sample 543: Aggregate Scores: 
+			> Precision: 0.5189 (1288 / 2482)
+			> Recall: 0.5900 (1288 / 2183)
+			> F1: 0.5522
+		- Sample 544: Aggregate Scores: 
+			> Precision: 0.5707 (1432 / 2509)
+			> Recall: 0.6407 (1432 / 2235)
+			> F1: 0.6037
+		- Sample 545: Aggregate Scores: 
+			> Precision: 0.5414 (1255 / 2318)
+			> Recall: 0.5568 (1255 / 2254)
+			> F1: 0.5490
+		- Sample 546: Aggregate Scores: 
+			> Precision: 0.5585 (1360 / 2435)
+			> Recall: 0.5960 (1360 / 2282)
+			> F1: 0.5766
+		- Sample 547: Aggregate Scores: 
+			> Precision: 0.5604 (1360 / 2427)
+			> Recall: 0.6247 (1360 / 2177)
+			> F1: 0.5908
+		- Sample 548: Aggregate Scores: 
+			> Precision: 0.5393 (1358 / 2518)
+			> Recall: 0.5990 (1358 / 2267)
+			> F1: 0.5676
+		- Sample 549: Aggregate Scores: 
+			> Precision: 0.5596 (1380 / 2466)
+			> Recall: 0.6319 (1380 / 2184)
+			> F1: 0.5935
+		- Sample 550: Aggregate Scores: 
+			> Precision: 0.5640 (1343 / 2381)
+			> Recall: 0.6335 (1343 / 2120)
+			> F1: 0.5968
+		- Sample 551: Aggregate Scores: 
+			> Precision: 0.6089 (1532 / 2516)
+			> Recall: 0.6539 (1532 / 2343)
+			> F1: 0.6306
+		- Sample 552: Aggregate Scores: 
+			> Precision: 0.6028 (1431 / 2374)
+			> Recall: 0.6811 (1431 / 2101)
+			> F1: 0.6396
+		- Sample 553: Aggregate Scores: 
+			> Precision: 0.6201 (1397 / 2253)
+			> Recall: 0.6426 (1397 / 2174)
+			> F1: 0.6311
+		- Sample 554: Aggregate Scores: 
+			> Precision: 0.5797 (1389 / 2396)
+			> Recall: 0.6340 (1389 / 2191)
+			> F1: 0.6056
+		- Sample 555: Aggregate Scores: 
+			> Precision: 0.5713 (1306 / 2286)
+			> Recall: 0.6172 (1306 / 2116)
+			> F1: 0.5934
+		- Sample 556: Aggregate Scores: 
+			> Precision: 0.5470 (1310 / 2395)
+			> Recall: 0.5804 (1310 / 2257)
+			> F1: 0.5632
+		- Sample 557: Aggregate Scores: 
+			> Precision: 0.5665 (1393 / 2459)
+			> Recall: 0.6147 (1393 / 2266)
+			> F1: 0.5896
+		- Sample 558: Aggregate Scores: 
+			> Precision: 0.5855 (1452 / 2480)
+			> Recall: 0.6505 (1452 / 2232)
+			> F1: 0.6163
+		- Sample 559: Aggregate Scores: 
+			> Precision: 0.5701 (1322 / 2319)
+			> Recall: 0.5847 (1322 / 2261)
+			> F1: 0.5773
+		- Sample 560: Aggregate Scores: 
+			> Precision: 0.5278 (1251 / 2370)
+			> Recall: 0.5810 (1251 / 2153)
+			> F1: 0.5532
+		- Sample 561: Aggregate Scores: 
+			> Precision: 0.6312 (1588 / 2516)
+			> Recall: 0.6653 (1588 / 2387)
+			> F1: 0.6478
+		- Sample 562: Aggregate Scores: 
+			> Precision: 0.5482 (1392 / 2539)
+			> Recall: 0.6026 (1392 / 2310)
+			> F1: 0.5741
+		- Sample 563: Aggregate Scores: 
+			> Precision: 0.5683 (1389 / 2444)
+			> Recall: 0.6317 (1389 / 2199)
+			> F1: 0.5983
+		- Sample 564: Aggregate Scores: 
+			> Precision: 0.5967 (1509 / 2529)
+			> Recall: 0.6770 (1509 / 2229)
+			> F1: 0.6343
+		- Sample 565: Aggregate Scores: 
+			> Precision: 0.5645 (1339 / 2372)
+			> Recall: 0.6051 (1339 / 2213)
+			> F1: 0.5841
+		- Sample 566: Aggregate Scores: 
+			> Precision: 0.5624 (1410 / 2507)
+			> Recall: 0.6236 (1410 / 2261)
+			> F1: 0.5914
+		- Sample 567: Aggregate Scores: 
+			> Precision: 0.5256 (1304 / 2481)
+			> Recall: 0.6009 (1304 / 2170)
+			> F1: 0.5607
+		- Sample 568: Aggregate Scores: 
+			> Precision: 0.5377 (1278 / 2377)
+			> Recall: 0.6419 (1278 / 1991)
+			> F1: 0.5852
+		- Sample 569: Aggregate Scores: 
+			> Precision: 0.5406 (1284 / 2375)
+			> Recall: 0.6643 (1284 / 1933)
+			> F1: 0.5961
+		- Sample 570: Aggregate Scores: 
+			> Precision: 0.5792 (1400 / 2417)
+			> Recall: 0.6244 (1400 / 2242)
+			> F1: 0.6010
+		- Sample 571: Aggregate Scores: 
+			> Precision: 0.5407 (1268 / 2345)
+			> Recall: 0.6035 (1268 / 2101)
+			> F1: 0.5704
+		- Sample 572: Aggregate Scores: 
+			> Precision: 0.4720 (1204 / 2551)
+			> Recall: 0.5356 (1204 / 2248)
+			> F1: 0.5018
+		- Sample 573: Aggregate Scores: 
+			> Precision: 0.5907 (1475 / 2497)
+			> Recall: 0.6110 (1475 / 2414)
+			> F1: 0.6007
+		- Sample 574: Aggregate Scores: 
+			> Precision: 0.5780 (1422 / 2460)
+			> Recall: 0.6262 (1422 / 2271)
+			> F1: 0.6011
+		- Sample 575: Aggregate Scores: 
+			> Precision: 0.5152 (1272 / 2469)
+			> Recall: 0.5908 (1272 / 2153)
+			> F1: 0.5504
+		- Sample 576: Aggregate Scores: 
+			> Precision: 0.5996 (1493 / 2490)
+			> Recall: 0.6045 (1493 / 2470)
+			> F1: 0.6020
+		- Sample 577: Aggregate Scores: 
+			> Precision: 0.5957 (1385 / 2325)
+			> Recall: 0.5909 (1385 / 2344)
+			> F1: 0.5933
+		- Sample 578: Aggregate Scores: 
+			> Precision: 0.6028 (1612 / 2674)
+			> Recall: 0.6369 (1612 / 2531)
+			> F1: 0.6194
+		- Sample 579: Aggregate Scores: 
+			> Precision: 0.5623 (1422 / 2529)
+			> Recall: 0.6121 (1422 / 2323)
+			> F1: 0.5862
+		- Sample 580: Aggregate Scores: 
+			> Precision: 0.5985 (1479 / 2471)
+			> Recall: 0.6375 (1479 / 2320)
+			> F1: 0.6174
+		- Sample 581: Aggregate Scores: 
+			> Precision: 0.5697 (1356 / 2380)
+			> Recall: 0.6333 (1356 / 2141)
+			> F1: 0.5999
+		- Sample 582: Aggregate Scores: 
+			> Precision: 0.5426 (1337 / 2464)
+			> Recall: 0.5841 (1337 / 2289)
+			> F1: 0.5626
+		- Sample 583: Aggregate Scores: 
+			> Precision: 0.5817 (1378 / 2369)
+			> Recall: 0.5723 (1378 / 2408)
+			> F1: 0.5769
+		- Sample 584: Aggregate Scores: 
+			> Precision: 0.5391 (1267 / 2350)
+			> Recall: 0.5621 (1267 / 2254)
+			> F1: 0.5504
+		- Sample 585: Aggregate Scores: 
+			> Precision: 0.6418 (1539 / 2398)
+			> Recall: 0.6712 (1539 / 2293)
+			> F1: 0.6562
+		- Sample 586: Aggregate Scores: 
+			> Precision: 0.6430 (1533 / 2384)
+			> Recall: 0.6619 (1533 / 2316)
+			> F1: 0.6523
+		- Sample 587: Aggregate Scores: 
+			> Precision: 0.6005 (1425 / 2373)
+			> Recall: 0.6220 (1425 / 2291)
+			> F1: 0.6111
+		- Sample 588: Aggregate Scores: 
+			> Precision: 0.5513 (1311 / 2378)
+			> Recall: 0.6207 (1311 / 2112)
+			> F1: 0.5840
+		- Sample 589: Aggregate Scores: 
+			> Precision: 0.5683 (1298 / 2284)
+			> Recall: 0.5892 (1298 / 2203)
+			> F1: 0.5786
+		- Sample 590: Aggregate Scores: 
+			> Precision: 0.5346 (1250 / 2338)
+			> Recall: 0.5737 (1250 / 2179)
+			> F1: 0.5535
+		- Sample 591: Aggregate Scores: 
+			> Precision: 0.5737 (1366 / 2381)
+			> Recall: 0.6625 (1366 / 2062)
+			> F1: 0.6149
+		- Sample 592: Aggregate Scores: 
+			> Precision: 0.5389 (1253 / 2325)
+			> Recall: 0.5542 (1253 / 2261)
+			> F1: 0.5464
+		- Sample 593: Aggregate Scores: 
+			> Precision: 0.6040 (1336 / 2212)
+			> Recall: 0.5978 (1336 / 2235)
+			> F1: 0.6009
+		- Sample 594: Aggregate Scores: 
+			> Precision: 0.6180 (1474 / 2385)
+			> Recall: 0.6563 (1474 / 2246)
+			> F1: 0.6366
+		- Sample 595: Aggregate Scores: 
+			> Precision: 0.6290 (1555 / 2472)
+			> Recall: 0.6779 (1555 / 2294)
+			> F1: 0.6525
+		- Sample 596: Aggregate Scores: 
+			> Precision: 0.5983 (1513 / 2529)
+			> Recall: 0.6299 (1513 / 2402)
+			> F1: 0.6137
+		- Sample 597: Aggregate Scores: 
+			> Precision: 0.5450 (1405 / 2578)
+			> Recall: 0.6165 (1405 / 2279)
+			> F1: 0.5785
+		- Sample 598: Aggregate Scores: 
+			> Precision: 0.5700 (1332 / 2337)
+			> Recall: 0.6523 (1332 / 2042)
+			> F1: 0.6084
+		- Sample 599: Aggregate Scores: 
+			> Precision: 0.5552 (1368 / 2464)
+			> Recall: 0.6021 (1368 / 2272)
+			> F1: 0.5777
+		- Sample 600: Aggregate Scores: 
+			> Precision: 0.5946 (1427 / 2400)
+			> Recall: 0.6169 (1427 / 2313)
+			> F1: 0.6056
+		- Sample 601: Aggregate Scores: 
+			> Precision: 0.5731 (1443 / 2518)
+			> Recall: 0.6321 (1443 / 2283)
+			> F1: 0.6011
+		- Sample 602: Aggregate Scores: 
+			> Precision: 0.5923 (1466 / 2475)
+			> Recall: 0.6507 (1466 / 2253)
+			> F1: 0.6201
+		- Sample 603: Aggregate Scores: 
+			> Precision: 0.6286 (1547 / 2461)
+			> Recall: 0.6709 (1547 / 2306)
+			> F1: 0.6490
+		- Sample 604: Aggregate Scores: 
+			> Precision: 0.5830 (1517 / 2602)
+			> Recall: 0.6177 (1517 / 2456)
+			> F1: 0.5998
+		- Sample 605: Aggregate Scores: 
+			> Precision: 0.5500 (1402 / 2549)
+			> Recall: 0.6361 (1402 / 2204)
+			> F1: 0.5899
+		- Sample 606: Aggregate Scores: 
+			> Precision: 0.6093 (1447 / 2375)
+			> Recall: 0.6420 (1447 / 2254)
+			> F1: 0.6252
+		- Sample 607: Aggregate Scores: 
+			> Precision: 0.6131 (1526 / 2489)
+			> Recall: 0.6301 (1526 / 2422)
+			> F1: 0.6215
+		- Sample 608: Aggregate Scores: 
+			> Precision: 0.5447 (1256 / 2306)
+			> Recall: 0.5650 (1256 / 2223)
+			> F1: 0.5546
+		- Sample 609: Aggregate Scores: 
+			> Precision: 0.4996 (1255 / 2512)
+			> Recall: 0.5352 (1255 / 2345)
+			> F1: 0.5168
+		- Sample 610: Aggregate Scores: 
+			> Precision: 0.6053 (1494 / 2468)
+			> Recall: 0.6333 (1494 / 2359)
+			> F1: 0.6190
+		- Sample 611: Aggregate Scores: 
+			> Precision: 0.5616 (1345 / 2395)
+			> Recall: 0.5866 (1345 / 2293)
+			> F1: 0.5738
+		- Sample 612: Aggregate Scores: 
+			> Precision: 0.5913 (1464 / 2476)
+			> Recall: 0.6621 (1464 / 2211)
+			> F1: 0.6247
+		- Sample 613: Aggregate Scores: 
+			> Precision: 0.5486 (1297 / 2364)
+			> Recall: 0.5996 (1297 / 2163)
+			> F1: 0.5730
+		- Sample 614: Aggregate Scores: 
+			> Precision: 0.5652 (1318 / 2332)
+			> Recall: 0.6113 (1318 / 2156)
+			> F1: 0.5873
+		- Sample 615: Aggregate Scores: 
+			> Precision: 0.6139 (1479 / 2409)
+			> Recall: 0.6348 (1479 / 2330)
+			> F1: 0.6242
+		- Sample 616: Aggregate Scores: 
+			> Precision: 0.5513 (1252 / 2271)
+			> Recall: 0.5545 (1252 / 2258)
+			> F1: 0.5529
+		- Sample 617: Aggregate Scores: 
+			> Precision: 0.6039 (1453 / 2406)
+			> Recall: 0.6472 (1453 / 2245)
+			> F1: 0.6248
+		- Sample 618: Aggregate Scores: 
+			> Precision: 0.6080 (1421 / 2337)
+			> Recall: 0.6332 (1421 / 2244)
+			> F1: 0.6204
+		- Sample 619: Aggregate Scores: 
+			> Precision: 0.5706 (1419 / 2487)
+			> Recall: 0.6082 (1419 / 2333)
+			> F1: 0.5888
+		- Sample 620: Aggregate Scores: 
+			> Precision: 0.6044 (1528 / 2528)
+			> Recall: 0.6612 (1528 / 2311)
+			> F1: 0.6315
+		- Sample 621: Aggregate Scores: 
+			> Precision: 0.5899 (1394 / 2363)
+			> Recall: 0.6563 (1394 / 2124)
+			> F1: 0.6214
+		- Sample 622: Aggregate Scores: 
+			> Precision: 0.5575 (1367 / 2452)
+			> Recall: 0.6271 (1367 / 2180)
+			> F1: 0.5902
+		- Sample 623: Aggregate Scores: 
+			> Precision: 0.5783 (1396 / 2414)
+			> Recall: 0.6229 (1396 / 2241)
+			> F1: 0.5998
+		- Sample 624: Aggregate Scores: 
+			> Precision: 0.6084 (1470 / 2416)
+			> Recall: 0.6746 (1470 / 2179)
+			> F1: 0.6398
+		- Sample 625: Aggregate Scores: 
+			> Precision: 0.5731 (1352 / 2359)
+			> Recall: 0.6028 (1352 / 2243)
+			> F1: 0.5876
+		- Sample 626: Aggregate Scores: 
+			> Precision: 0.5785 (1430 / 2472)
+			> Recall: 0.6533 (1430 / 2189)
+			> F1: 0.6136
+		- Sample 627: Aggregate Scores: 
+			> Precision: 0.5903 (1451 / 2458)
+			> Recall: 0.6443 (1451 / 2252)
+			> F1: 0.6161
+		- Sample 628: Aggregate Scores: 
+			> Precision: 0.6365 (1597 / 2509)
+			> Recall: 0.7060 (1597 / 2262)
+			> F1: 0.6695
+		- Sample 629: Aggregate Scores: 
+			> Precision: 0.5965 (1406 / 2357)
+			> Recall: 0.6747 (1406 / 2084)
+			> F1: 0.6332
+		- Sample 630: Aggregate Scores: 
+			> Precision: 0.5962 (1481 / 2484)
+			> Recall: 0.6238 (1481 / 2374)
+			> F1: 0.6097
+		- Sample 631: Aggregate Scores: 
+			> Precision: 0.5701 (1440 / 2526)
+			> Recall: 0.5975 (1440 / 2410)
+			> F1: 0.5835
+		- Sample 632: Aggregate Scores: 
+			> Precision: 0.5786 (1410 / 2437)
+			> Recall: 0.6295 (1410 / 2240)
+			> F1: 0.6030
+		- Sample 633: Aggregate Scores: 
+			> Precision: 0.5946 (1395 / 2346)
+			> Recall: 0.5964 (1395 / 2339)
+			> F1: 0.5955
+		- Sample 634: Aggregate Scores: 
+			> Precision: 0.5671 (1474 / 2599)
+			> Recall: 0.6386 (1474 / 2308)
+			> F1: 0.6008
+		- Sample 635: Aggregate Scores: 
+			> Precision: 0.6120 (1607 / 2626)
+			> Recall: 0.6704 (1607 / 2397)
+			> F1: 0.6399
+		- Sample 636: Aggregate Scores: 
+			> Precision: 0.5438 (1197 / 2201)
+			> Recall: 0.5946 (1197 / 2013)
+			> F1: 0.5681
+		- Sample 637: Aggregate Scores: 
+			> Precision: 0.5595 (1416 / 2531)
+			> Recall: 0.6075 (1416 / 2331)
+			> F1: 0.5825
+		- Sample 638: Aggregate Scores: 
+			> Precision: 0.6009 (1474 / 2453)
+			> Recall: 0.6712 (1474 / 2196)
+			> F1: 0.6341
+		- Sample 639: Aggregate Scores: 
+			> Precision: 0.5569 (1287 / 2311)
+			> Recall: 0.5961 (1287 / 2159)
+			> F1: 0.5758
+		- Sample 640: Aggregate Scores: 
+			> Precision: 0.5730 (1362 / 2377)
+			> Recall: 0.6053 (1362 / 2250)
+			> F1: 0.5887
+		- Sample 641: Aggregate Scores: 
+			> Precision: 0.5632 (1367 / 2427)
+			> Recall: 0.6169 (1367 / 2216)
+			> F1: 0.5888
+		- Sample 642: Aggregate Scores: 
+			> Precision: 0.5323 (1366 / 2566)
+			> Recall: 0.5885 (1366 / 2321)
+			> F1: 0.5590
+		- Sample 643: Aggregate Scores: 
+			> Precision: 0.5750 (1392 / 2421)
+			> Recall: 0.6436 (1392 / 2163)
+			> F1: 0.6073
+		- Sample 644: Aggregate Scores: 
+			> Precision: 0.5621 (1422 / 2530)
+			> Recall: 0.5970 (1422 / 2382)
+			> F1: 0.5790
+		- Sample 645: Aggregate Scores: 
+			> Precision: 0.6726 (1701 / 2529)
+			> Recall: 0.7217 (1701 / 2357)
+			> F1: 0.6963
+		- Sample 646: Aggregate Scores: 
+			> Precision: 0.5997 (1456 / 2428)
+			> Recall: 0.6183 (1456 / 2355)
+			> F1: 0.6088
+		- Sample 647: Aggregate Scores: 
+			> Precision: 0.6437 (1541 / 2394)
+			> Recall: 0.6557 (1541 / 2350)
+			> F1: 0.6497
+		- Sample 648: Aggregate Scores: 
+			> Precision: 0.5398 (1282 / 2375)
+			> Recall: 0.6152 (1282 / 2084)
+			> F1: 0.5750
+		- Sample 649: Aggregate Scores: 
+			> Precision: 0.6014 (1412 / 2348)
+			> Recall: 0.6105 (1412 / 2313)
+			> F1: 0.6059
+		- Sample 650: Aggregate Scores: 
+			> Precision: 0.5353 (1243 / 2322)
+			> Recall: 0.5498 (1243 / 2261)
+			> F1: 0.5424
+		- Sample 651: Aggregate Scores: 
+			> Precision: 0.4683 (1130 / 2413)
+			> Recall: 0.5198 (1130 / 2174)
+			> F1: 0.4927
+		- Sample 652: Aggregate Scores: 
+			> Precision: 0.5129 (1232 / 2402)
+			> Recall: 0.5861 (1232 / 2102)
+			> F1: 0.5471
+		- Sample 653: Aggregate Scores: 
+			> Precision: 0.5976 (1420 / 2376)
+			> Recall: 0.6325 (1420 / 2245)
+			> F1: 0.6146
+		- Sample 654: Aggregate Scores: 
+			> Precision: 0.5477 (1400 / 2556)
+			> Recall: 0.6189 (1400 / 2262)
+			> F1: 0.5812
+		- Sample 655: Aggregate Scores: 
+			> Precision: 0.5409 (1276 / 2359)
+			> Recall: 0.6002 (1276 / 2126)
+			> F1: 0.5690
+		- Sample 656: Aggregate Scores: 
+			> Precision: 0.6064 (1482 / 2444)
+			> Recall: 0.6655 (1482 / 2227)
+			> F1: 0.6346
+		- Sample 657: Aggregate Scores: 
+			> Precision: 0.5795 (1451 / 2504)
+			> Recall: 0.6233 (1451 / 2328)
+			> F1: 0.6006
+		- Sample 658: Aggregate Scores: 
+			> Precision: 0.6105 (1575 / 2580)
+			> Recall: 0.7022 (1575 / 2243)
+			> F1: 0.6531
+		- Sample 659: Aggregate Scores: 
+			> Precision: 0.5799 (1328 / 2290)
+			> Recall: 0.6312 (1328 / 2104)
+			> F1: 0.6045
+		- Sample 660: Aggregate Scores: 
+			> Precision: 0.6047 (1513 / 2502)
+			> Recall: 0.6491 (1513 / 2331)
+			> F1: 0.6261
+		- Sample 661: Aggregate Scores: 
+			> Precision: 0.5966 (1340 / 2246)
+			> Recall: 0.6424 (1340 / 2086)
+			> F1: 0.6187
+		- Sample 662: Aggregate Scores: 
+			> Precision: 0.6258 (1502 / 2400)
+			> Recall: 0.6416 (1502 / 2341)
+			> F1: 0.6336
+		- Sample 663: Aggregate Scores: 
+			> Precision: 0.6138 (1432 / 2333)
+			> Recall: 0.6199 (1432 / 2310)
+			> F1: 0.6168
+		- Sample 664: Aggregate Scores: 
+			> Precision: 0.5987 (1435 / 2397)
+			> Recall: 0.6791 (1435 / 2113)
+			> F1: 0.6364
+		- Sample 665: Aggregate Scores: 
+			> Precision: 0.6027 (1391 / 2308)
+			> Recall: 0.6805 (1391 / 2044)
+			> F1: 0.6392
+		- Sample 666: Aggregate Scores: 
+			> Precision: 0.6251 (1467 / 2347)
+			> Recall: 0.6581 (1467 / 2229)
+			> F1: 0.6412
+		- Sample 667: Aggregate Scores: 
+			> Precision: 0.5702 (1422 / 2494)
+			> Recall: 0.6196 (1422 / 2295)
+			> F1: 0.5939
+		- Sample 668: Aggregate Scores: 
+			> Precision: 0.5755 (1364 / 2370)
+			> Recall: 0.6062 (1364 / 2250)
+			> F1: 0.5905
+		- Sample 669: Aggregate Scores: 
+			> Precision: 0.5969 (1528 / 2560)
+			> Recall: 0.6867 (1528 / 2225)
+			> F1: 0.6387
+		- Sample 670: Aggregate Scores: 
+			> Precision: 0.6169 (1507 / 2443)
+			> Recall: 0.6369 (1507 / 2366)
+			> F1: 0.6267
+		- Sample 671: Aggregate Scores: 
+			> Precision: 0.6209 (1379 / 2221)
+			> Recall: 0.6176 (1379 / 2233)
+			> F1: 0.6192
+		- Sample 672: Aggregate Scores: 
+			> Precision: 0.5427 (1323 / 2438)
+			> Recall: 0.6241 (1323 / 2120)
+			> F1: 0.5805
+		- Sample 673: Aggregate Scores: 
+			> Precision: 0.5965 (1341 / 2248)
+			> Recall: 0.5876 (1341 / 2282)
+			> F1: 0.5921
+		- Sample 674: Aggregate Scores: 
+			> Precision: 0.5965 (1542 / 2585)
+			> Recall: 0.6787 (1542 / 2272)
+			> F1: 0.6350
+		- Sample 675: Aggregate Scores: 
+			> Precision: 0.5508 (1258 / 2284)
+			> Recall: 0.5923 (1258 / 2124)
+			> F1: 0.5708
+		- Sample 676: Aggregate Scores: 
+			> Precision: 0.5515 (1355 / 2457)
+			> Recall: 0.6065 (1355 / 2234)
+			> F1: 0.5777
+		- Sample 677: Aggregate Scores: 
+			> Precision: 0.5532 (1346 / 2433)
+			> Recall: 0.6223 (1346 / 2163)
+			> F1: 0.5857
+		- Sample 678: Aggregate Scores: 
+			> Precision: 0.5940 (1473 / 2480)
+			> Recall: 0.6529 (1473 / 2256)
+			> F1: 0.6220
+		- Sample 679: Aggregate Scores: 
+			> Precision: 0.5858 (1437 / 2453)
+			> Recall: 0.6395 (1437 / 2247)
+			> F1: 0.6115
+		- Sample 680: Aggregate Scores: 
+			> Precision: 0.6127 (1511 / 2466)
+			> Recall: 0.6449 (1511 / 2343)
+			> F1: 0.6284
+		- Sample 681: Aggregate Scores: 
+			> Precision: 0.5505 (1264 / 2296)
+			> Recall: 0.5999 (1264 / 2107)
+			> F1: 0.5742
+		- Sample 682: Aggregate Scores: 
+			> Precision: 0.5449 (1299 / 2384)
+			> Recall: 0.5712 (1299 / 2274)
+			> F1: 0.5578
+		- Sample 683: Aggregate Scores: 
+			> Precision: 0.5676 (1435 / 2528)
+			> Recall: 0.5896 (1435 / 2434)
+			> F1: 0.5784
+		- Sample 684: Aggregate Scores: 
+			> Precision: 0.6256 (1464 / 2340)
+			> Recall: 0.6248 (1464 / 2343)
+			> F1: 0.6252
+		- Sample 685: Aggregate Scores: 
+			> Precision: 0.5778 (1433 / 2480)
+			> Recall: 0.6665 (1433 / 2150)
+			> F1: 0.6190
+		- Sample 686: Aggregate Scores: 
+			> Precision: 0.5931 (1459 / 2460)
+			> Recall: 0.5948 (1459 / 2453)
+			> F1: 0.5939
+		- Sample 687: Aggregate Scores: 
+			> Precision: 0.5396 (1295 / 2400)
+			> Recall: 0.5836 (1295 / 2219)
+			> F1: 0.5607
+		- Sample 688: Aggregate Scores: 
+			> Precision: 0.5594 (1285 / 2297)
+			> Recall: 0.6374 (1285 / 2016)
+			> F1: 0.5959
+		- Sample 689: Aggregate Scores: 
+			> Precision: 0.6836 (1560 / 2282)
+			> Recall: 0.6503 (1560 / 2399)
+			> F1: 0.6665
+		- Sample 690: Aggregate Scores: 
+			> Precision: 0.5290 (1386 / 2620)
+			> Recall: 0.6037 (1386 / 2296)
+			> F1: 0.5639
+		- Sample 691: Aggregate Scores: 
+			> Precision: 0.6078 (1458 / 2399)
+			> Recall: 0.6606 (1458 / 2207)
+			> F1: 0.6331
+		- Sample 692: Aggregate Scores: 
+			> Precision: 0.5355 (1328 / 2480)
+			> Recall: 0.6103 (1328 / 2176)
+			> F1: 0.5704
+		- Sample 693: Aggregate Scores: 
+			> Precision: 0.5689 (1458 / 2563)
+			> Recall: 0.6772 (1458 / 2153)
+			> F1: 0.6183
+		- Sample 694: Aggregate Scores: 
+			> Precision: 0.5704 (1426 / 2500)
+			> Recall: 0.6397 (1426 / 2229)
+			> F1: 0.6031
+		- Sample 695: Aggregate Scores: 
+			> Precision: 0.6105 (1517 / 2485)
+			> Recall: 0.6601 (1517 / 2298)
+			> F1: 0.6343
+		- Sample 696: Aggregate Scores: 
+			> Precision: 0.6091 (1496 / 2456)
+			> Recall: 0.6676 (1496 / 2241)
+			> F1: 0.6370
+		- Sample 697: Aggregate Scores: 
+			> Precision: 0.4928 (1135 / 2303)
+			> Recall: 0.5394 (1135 / 2104)
+			> F1: 0.5151
+		- Sample 698: Aggregate Scores: 
+			> Precision: 0.5482 (1381 / 2519)
+			> Recall: 0.6100 (1381 / 2264)
+			> F1: 0.5775
+		- Sample 699: Aggregate Scores: 
+			> Precision: 0.6494 (1463 / 2253)
+			> Recall: 0.6505 (1463 / 2249)
+			> F1: 0.6499
+		- Sample 700: Aggregate Scores: 
+			> Precision: 0.6074 (1470 / 2420)
+			> Recall: 0.6242 (1470 / 2355)
+			> F1: 0.6157
+		- Sample 701: Aggregate Scores: 
+			> Precision: 0.5455 (1217 / 2231)
+			> Recall: 0.5779 (1217 / 2106)
+			> F1: 0.5612
+		- Sample 702: Aggregate Scores: 
+			> Precision: 0.5897 (1489 / 2525)
+			> Recall: 0.6374 (1489 / 2336)
+			> F1: 0.6126
+		- Sample 703: Aggregate Scores: 
+			> Precision: 0.6050 (1406 / 2324)
+			> Recall: 0.6079 (1406 / 2313)
+			> F1: 0.6064
+		- Sample 704: Aggregate Scores: 
+			> Precision: 0.5515 (1354 / 2455)
+			> Recall: 0.5791 (1354 / 2338)
+			> F1: 0.5650
+		- Sample 705: Aggregate Scores: 
+			> Precision: 0.5589 (1342 / 2401)
+			> Recall: 0.6176 (1342 / 2173)
+			> F1: 0.5868
+		- Sample 706: Aggregate Scores: 
+			> Precision: 0.5491 (1337 / 2435)
+			> Recall: 0.6391 (1337 / 2092)
+			> F1: 0.5907
+		- Sample 707: Aggregate Scores: 
+			> Precision: 0.5257 (1298 / 2469)
+			> Recall: 0.5857 (1298 / 2216)
+			> F1: 0.5541
+		- Sample 708: Aggregate Scores: 
+			> Precision: 0.6069 (1490 / 2455)
+			> Recall: 0.6157 (1490 / 2420)
+			> F1: 0.6113
+		- Sample 709: Aggregate Scores: 
+			> Precision: 0.6043 (1524 / 2522)
+			> Recall: 0.6300 (1524 / 2419)
+			> F1: 0.6169
+		- Sample 710: Aggregate Scores: 
+			> Precision: 0.5889 (1348 / 2289)
+			> Recall: 0.6122 (1348 / 2202)
+			> F1: 0.6003
+		- Sample 711: Aggregate Scores: 
+			> Precision: 0.5720 (1382 / 2416)
+			> Recall: 0.6118 (1382 / 2259)
+			> F1: 0.5912
+		- Sample 712: Aggregate Scores: 
+			> Precision: 0.5499 (1384 / 2517)
+			> Recall: 0.6137 (1384 / 2255)
+			> F1: 0.5801
+		- Sample 713: Aggregate Scores: 
+			> Precision: 0.6065 (1341 / 2211)
+			> Recall: 0.5949 (1341 / 2254)
+			> F1: 0.6007
+		- Sample 714: Aggregate Scores: 
+			> Precision: 0.5911 (1453 / 2458)
+			> Recall: 0.6705 (1453 / 2167)
+			> F1: 0.6283
+		- Sample 715: Aggregate Scores: 
+			> Precision: 0.5571 (1258 / 2258)
+			> Recall: 0.5848 (1258 / 2151)
+			> F1: 0.5707
+		- Sample 716: Aggregate Scores: 
+			> Precision: 0.5790 (1356 / 2342)
+			> Recall: 0.6100 (1356 / 2223)
+			> F1: 0.5941
+		- Sample 717: Aggregate Scores: 
+			> Precision: 0.5606 (1387 / 2474)
+			> Recall: 0.6325 (1387 / 2193)
+			> F1: 0.5944
+		- Sample 718: Aggregate Scores: 
+			> Precision: 0.6214 (1584 / 2549)
+			> Recall: 0.6686 (1584 / 2369)
+			> F1: 0.6442
+		- Sample 719: Aggregate Scores: 
+			> Precision: 0.5529 (1390 / 2514)
+			> Recall: 0.6036 (1390 / 2303)
+			> F1: 0.5771
+		- Sample 720: Aggregate Scores: 
+			> Precision: 0.6148 (1451 / 2360)
+			> Recall: 0.6768 (1451 / 2144)
+			> F1: 0.6443
+		- Sample 721: Aggregate Scores: 
+			> Precision: 0.5819 (1456 / 2502)
+			> Recall: 0.6460 (1456 / 2254)
+			> F1: 0.6123
+		- Sample 722: Aggregate Scores: 
+			> Precision: 0.5497 (1305 / 2374)
+			> Recall: 0.5994 (1305 / 2177)
+			> F1: 0.5735
+		- Sample 723: Aggregate Scores: 
+			> Precision: 0.5440 (1231 / 2263)
+			> Recall: 0.5755 (1231 / 2139)
+			> F1: 0.5593
+		- Sample 724: Aggregate Scores: 
+			> Precision: 0.5805 (1384 / 2384)
+			> Recall: 0.6455 (1384 / 2144)
+			> F1: 0.6113
+		- Sample 725: Aggregate Scores: 
+			> Precision: 0.5755 (1417 / 2462)
+			> Recall: 0.6215 (1417 / 2280)
+			> F1: 0.5976
+		- Sample 726: Aggregate Scores: 
+			> Precision: 0.5139 (1298 / 2526)
+			> Recall: 0.5726 (1298 / 2267)
+			> F1: 0.5416
+		- Sample 727: Aggregate Scores: 
+			> Precision: 0.5728 (1290 / 2252)
+			> Recall: 0.5975 (1290 / 2159)
+			> F1: 0.5849
+		- Sample 728: Aggregate Scores: 
+			> Precision: 0.6036 (1468 / 2432)
+			> Recall: 0.6391 (1468 / 2297)
+			> F1: 0.6209
+		- Sample 729: Aggregate Scores: 
+			> Precision: 0.5457 (1271 / 2329)
+			> Recall: 0.5814 (1271 / 2186)
+			> F1: 0.5630
+		- Sample 730: Aggregate Scores: 
+			> Precision: 0.5561 (1352 / 2431)
+			> Recall: 0.6213 (1352 / 2176)
+			> F1: 0.5869
+		- Sample 731: Aggregate Scores: 
+			> Precision: 0.5535 (1314 / 2374)
+			> Recall: 0.5890 (1314 / 2231)
+			> F1: 0.5707
+		- Sample 732: Aggregate Scores: 
+			> Precision: 0.6077 (1498 / 2465)
+			> Recall: 0.6576 (1498 / 2278)
+			> F1: 0.6317
+		- Sample 733: Aggregate Scores: 
+			> Precision: 0.6099 (1482 / 2430)
+			> Recall: 0.6631 (1482 / 2235)
+			> F1: 0.6354
+		- Sample 734: Aggregate Scores: 
+			> Precision: 0.5765 (1455 / 2524)
+			> Recall: 0.6113 (1455 / 2380)
+			> F1: 0.5934
+		- Sample 735: Aggregate Scores: 
+			> Precision: 0.5360 (1236 / 2306)
+			> Recall: 0.5603 (1236 / 2206)
+			> F1: 0.5479
+		- Sample 736: Aggregate Scores: 
+			> Precision: 0.5531 (1204 / 2177)
+			> Recall: 0.5814 (1204 / 2071)
+			> F1: 0.5669
+		- Sample 737: Aggregate Scores: 
+			> Precision: 0.5410 (1228 / 2270)
+			> Recall: 0.5529 (1228 / 2221)
+			> F1: 0.5469
+		- Sample 738: Aggregate Scores: 
+			> Precision: 0.5327 (1288 / 2418)
+			> Recall: 0.6192 (1288 / 2080)
+			> F1: 0.5727
+		- Sample 739: Aggregate Scores: 
+			> Precision: 0.6313 (1442 / 2284)
+			> Recall: 0.6300 (1442 / 2289)
+			> F1: 0.6307
+		- Sample 740: Aggregate Scores: 
+			> Precision: 0.6136 (1475 / 2404)
+			> Recall: 0.6708 (1475 / 2199)
+			> F1: 0.6409
+		- Sample 741: Aggregate Scores: 
+			> Precision: 0.5209 (1307 / 2509)
+			> Recall: 0.6171 (1307 / 2118)
+			> F1: 0.5649
+		- Sample 742: Aggregate Scores: 
+			> Precision: 0.5635 (1322 / 2346)
+			> Recall: 0.6186 (1322 / 2137)
+			> F1: 0.5898
+		- Sample 743: Aggregate Scores: 
+			> Precision: 0.5782 (1405 / 2430)
+			> Recall: 0.6206 (1405 / 2264)
+			> F1: 0.5986
+		- Sample 744: Aggregate Scores: 
+			> Precision: 0.5714 (1325 / 2319)
+			> Recall: 0.6143 (1325 / 2157)
+			> F1: 0.5920
+		- Sample 745: Aggregate Scores: 
+			> Precision: 0.5412 (1393 / 2574)
+			> Recall: 0.5807 (1393 / 2399)
+			> F1: 0.5602
+		- Sample 746: Aggregate Scores: 
+			> Precision: 0.5850 (1390 / 2376)
+			> Recall: 0.6230 (1390 / 2231)
+			> F1: 0.6034
+		- Sample 747: Aggregate Scores: 
+			> Precision: 0.5570 (1470 / 2639)
+			> Recall: 0.6266 (1470 / 2346)
+			> F1: 0.5898
+		- Sample 748: Aggregate Scores: 
+			> Precision: 0.5432 (1294 / 2382)
+			> Recall: 0.6024 (1294 / 2148)
+			> F1: 0.5713
+		- Sample 749: Aggregate Scores: 
+			> Precision: 0.5659 (1263 / 2232)
+			> Recall: 0.5718 (1263 / 2209)
+			> F1: 0.5688
+		- Sample 750: Aggregate Scores: 
+			> Precision: 0.6014 (1370 / 2278)
+			> Recall: 0.6552 (1370 / 2091)
+			> F1: 0.6271
+		- Sample 751: Aggregate Scores: 
+			> Precision: 0.6125 (1486 / 2426)
+			> Recall: 0.6225 (1486 / 2387)
+			> F1: 0.6175
+		- Sample 752: Aggregate Scores: 
+			> Precision: 0.5288 (1266 / 2394)
+			> Recall: 0.5977 (1266 / 2118)
+			> F1: 0.5612
+		- Sample 753: Aggregate Scores: 
+			> Precision: 0.5761 (1400 / 2430)
+			> Recall: 0.6071 (1400 / 2306)
+			> F1: 0.5912
+		- Sample 754: Aggregate Scores: 
+			> Precision: 0.5954 (1423 / 2390)
+			> Recall: 0.6344 (1423 / 2243)
+			> F1: 0.6143
+		- Sample 755: Aggregate Scores: 
+			> Precision: 0.6044 (1421 / 2351)
+			> Recall: 0.6418 (1421 / 2214)
+			> F1: 0.6226
+		- Sample 756: Aggregate Scores: 
+			> Precision: 0.5826 (1403 / 2408)
+			> Recall: 0.6032 (1403 / 2326)
+			> F1: 0.5927
+		- Sample 757: Aggregate Scores: 
+			> Precision: 0.5936 (1439 / 2424)
+			> Recall: 0.6797 (1439 / 2117)
+			> F1: 0.6338
+		- Sample 758: Aggregate Scores: 
+			> Precision: 0.5741 (1359 / 2367)
+			> Recall: 0.6268 (1359 / 2168)
+			> F1: 0.5993
+		- Sample 759: Aggregate Scores: 
+			> Precision: 0.5924 (1484 / 2505)
+			> Recall: 0.6377 (1484 / 2327)
+			> F1: 0.6142
+		- Sample 760: Aggregate Scores: 
+			> Precision: 0.6078 (1474 / 2425)
+			> Recall: 0.6637 (1474 / 2221)
+			> F1: 0.6345
+		- Sample 761: Aggregate Scores: 
+			> Precision: 0.5655 (1369 / 2421)
+			> Recall: 0.6052 (1369 / 2262)
+			> F1: 0.5847
+		- Sample 762: Aggregate Scores: 
+			> Precision: 0.5571 (1297 / 2328)
+			> Recall: 0.5960 (1297 / 2176)
+			> F1: 0.5759
+		- Sample 763: Aggregate Scores: 
+			> Precision: 0.6421 (1444 / 2249)
+			> Recall: 0.6609 (1444 / 2185)
+			> F1: 0.6513
+		- Sample 764: Aggregate Scores: 
+			> Precision: 0.6220 (1626 / 2614)
+			> Recall: 0.6815 (1626 / 2386)
+			> F1: 0.6504
+		- Sample 765: Aggregate Scores: 
+			> Precision: 0.5437 (1456 / 2678)
+			> Recall: 0.6284 (1456 / 2317)
+			> F1: 0.5830
+		- Sample 766: Aggregate Scores: 
+			> Precision: 0.5901 (1461 / 2476)
+			> Recall: 0.6546 (1461 / 2232)
+			> F1: 0.6206
+		- Sample 767: Aggregate Scores: 
+			> Precision: 0.5635 (1385 / 2458)
+			> Recall: 0.6150 (1385 / 2252)
+			> F1: 0.5881
+		- Sample 768: Aggregate Scores: 
+			> Precision: 0.5631 (1360 / 2415)
+			> Recall: 0.6358 (1360 / 2139)
+			> F1: 0.5973
+		- Sample 769: Aggregate Scores: 
+			> Precision: 0.5890 (1536 / 2608)
+			> Recall: 0.6641 (1536 / 2313)
+			> F1: 0.6243
+		- Sample 770: Aggregate Scores: 
+			> Precision: 0.4924 (1194 / 2425)
+			> Recall: 0.5721 (1194 / 2087)
+			> F1: 0.5293
+		- Sample 771: Aggregate Scores: 
+			> Precision: 0.5675 (1391 / 2451)
+			> Recall: 0.6122 (1391 / 2272)
+			> F1: 0.5890
+		- Sample 772: Aggregate Scores: 
+			> Precision: 0.5794 (1471 / 2539)
+			> Recall: 0.6520 (1471 / 2256)
+			> F1: 0.6136
+		- Sample 773: Aggregate Scores: 
+			> Precision: 0.5864 (1439 / 2454)
+			> Recall: 0.6139 (1439 / 2344)
+			> F1: 0.5998
+		- Sample 774: Aggregate Scores: 
+			> Precision: 0.5837 (1388 / 2378)
+			> Recall: 0.6286 (1388 / 2208)
+			> F1: 0.6053
+		- Sample 775: Aggregate Scores: 
+			> Precision: 0.5343 (1254 / 2347)
+			> Recall: 0.5926 (1254 / 2116)
+			> F1: 0.5620
+		- Sample 776: Aggregate Scores: 
+			> Precision: 0.5637 (1464 / 2597)
+			> Recall: 0.6198 (1464 / 2362)
+			> F1: 0.5904
+		- Sample 777: Aggregate Scores: 
+			> Precision: 0.5801 (1369 / 2360)
+			> Recall: 0.6430 (1369 / 2129)
+			> F1: 0.6099
+		- Sample 778: Aggregate Scores: 
+			> Precision: 0.6111 (1518 / 2484)
+			> Recall: 0.6738 (1518 / 2253)
+			> F1: 0.6409
+		- Sample 779: Aggregate Scores: 
+			> Precision: 0.5836 (1351 / 2315)
+			> Recall: 0.5991 (1351 / 2255)
+			> F1: 0.5912
+		- Sample 780: Aggregate Scores: 
+			> Precision: 0.5565 (1355 / 2435)
+			> Recall: 0.6253 (1355 / 2167)
+			> F1: 0.5889
+		- Sample 781: Aggregate Scores: 
+			> Precision: 0.5867 (1380 / 2352)
+			> Recall: 0.5830 (1380 / 2367)
+			> F1: 0.5849
+		- Sample 782: Aggregate Scores: 
+			> Precision: 0.5716 (1289 / 2255)
+			> Recall: 0.5626 (1289 / 2291)
+			> F1: 0.5671
+		- Sample 783: Aggregate Scores: 
+			> Precision: 0.5256 (1324 / 2519)
+			> Recall: 0.6158 (1324 / 2150)
+			> F1: 0.5671
+		- Sample 784: Aggregate Scores: 
+			> Precision: 0.6127 (1588 / 2592)
+			> Recall: 0.6703 (1588 / 2369)
+			> F1: 0.6402
+		- Sample 785: Aggregate Scores: 
+			> Precision: 0.5434 (1333 / 2453)
+			> Recall: 0.5680 (1333 / 2347)
+			> F1: 0.5554
+		- Sample 786: Aggregate Scores: 
+			> Precision: 0.5883 (1286 / 2186)
+			> Recall: 0.6133 (1286 / 2097)
+			> F1: 0.6005
+		- Sample 787: Aggregate Scores: 
+			> Precision: 0.5527 (1384 / 2504)
+			> Recall: 0.6277 (1384 / 2205)
+			> F1: 0.5878
+		- Sample 788: Aggregate Scores: 
+			> Precision: 0.6039 (1441 / 2386)
+			> Recall: 0.6473 (1441 / 2226)
+			> F1: 0.6249
+		- Sample 789: Aggregate Scores: 
+			> Precision: 0.5478 (1283 / 2342)
+			> Recall: 0.5973 (1283 / 2148)
+			> F1: 0.5715
+		- Sample 790: Aggregate Scores: 
+			> Precision: 0.6224 (1477 / 2373)
+			> Recall: 0.6573 (1477 / 2247)
+			> F1: 0.6394
+		- Sample 791: Aggregate Scores: 
+			> Precision: 0.5685 (1312 / 2308)
+			> Recall: 0.5829 (1312 / 2251)
+			> F1: 0.5756
+		- Sample 792: Aggregate Scores: 
+			> Precision: 0.5857 (1333 / 2276)
+			> Recall: 0.6461 (1333 / 2063)
+			> F1: 0.6144
+		- Sample 793: Aggregate Scores: 
+			> Precision: 0.5498 (1330 / 2419)
+			> Recall: 0.6186 (1330 / 2150)
+			> F1: 0.5822
+		- Sample 794: Aggregate Scores: 
+			> Precision: 0.5859 (1470 / 2509)
+			> Recall: 0.6221 (1470 / 2363)
+			> F1: 0.6034
+		- Sample 795: Aggregate Scores: 
+			> Precision: 0.6069 (1607 / 2648)
+			> Recall: 0.6570 (1607 / 2446)
+			> F1: 0.6309
+		- Sample 796: Aggregate Scores: 
+			> Precision: 0.5267 (1232 / 2339)
+			> Recall: 0.5683 (1232 / 2168)
+			> F1: 0.5467
+		- Sample 797: Aggregate Scores: 
+			> Precision: 0.6201 (1425 / 2298)
+			> Recall: 0.6513 (1425 / 2188)
+			> F1: 0.6353
+		- Sample 798: Aggregate Scores: 
+			> Precision: 0.5604 (1346 / 2402)
+			> Recall: 0.6044 (1346 / 2227)
+			> F1: 0.5816
+		- Sample 799: Aggregate Scores: 
+			> Precision: 0.5600 (1274 / 2275)
+			> Recall: 0.6254 (1274 / 2037)
+			> F1: 0.5909
+		- Sample 800: Aggregate Scores: 
+			> Precision: 0.5839 (1462 / 2504)
+			> Recall: 0.5955 (1462 / 2455)
+			> F1: 0.5896
+		- Sample 801: Aggregate Scores: 
+			> Precision: 0.5955 (1465 / 2460)
+			> Recall: 0.6089 (1465 / 2406)
+			> F1: 0.6021
+		- Sample 802: Aggregate Scores: 
+			> Precision: 0.5890 (1403 / 2382)
+			> Recall: 0.6615 (1403 / 2121)
+			> F1: 0.6231
+		- Sample 803: Aggregate Scores: 
+			> Precision: 0.5417 (1428 / 2636)
+			> Recall: 0.6103 (1428 / 2340)
+			> F1: 0.5740
+		- Sample 804: Aggregate Scores: 
+			> Precision: 0.5683 (1436 / 2527)
+			> Recall: 0.5909 (1436 / 2430)
+			> F1: 0.5794
+		- Sample 805: Aggregate Scores: 
+			> Precision: 0.6200 (1447 / 2334)
+			> Recall: 0.6355 (1447 / 2277)
+			> F1: 0.6276
+		- Sample 806: Aggregate Scores: 
+			> Precision: 0.5390 (1313 / 2436)
+			> Recall: 0.5998 (1313 / 2189)
+			> F1: 0.5678
+		- Sample 807: Aggregate Scores: 
+			> Precision: 0.5638 (1423 / 2524)
+			> Recall: 0.6564 (1423 / 2168)
+			> F1: 0.6066
+		- Sample 808: Aggregate Scores: 
+			> Precision: 0.5775 (1464 / 2535)
+			> Recall: 0.6248 (1464 / 2343)
+			> F1: 0.6002
+		- Sample 809: Aggregate Scores: 
+			> Precision: 0.5538 (1276 / 2304)
+			> Recall: 0.5943 (1276 / 2147)
+			> F1: 0.5734
+		- Sample 810: Aggregate Scores: 
+			> Precision: 0.5721 (1408 / 2461)
+			> Recall: 0.6146 (1408 / 2291)
+			> F1: 0.5926
+		- Sample 811: Aggregate Scores: 
+			> Precision: 0.5572 (1344 / 2412)
+			> Recall: 0.6162 (1344 / 2181)
+			> F1: 0.5852
+		- Sample 812: Aggregate Scores: 
+			> Precision: 0.5698 (1351 / 2371)
+			> Recall: 0.5833 (1351 / 2316)
+			> F1: 0.5765
+		- Sample 813: Aggregate Scores: 
+			> Precision: 0.5443 (1283 / 2357)
+			> Recall: 0.5549 (1283 / 2312)
+			> F1: 0.5496
+		- Sample 814: Aggregate Scores: 
+			> Precision: 0.5560 (1424 / 2561)
+			> Recall: 0.6149 (1424 / 2316)
+			> F1: 0.5840
+		- Sample 815: Aggregate Scores: 
+			> Precision: 0.6148 (1462 / 2378)
+			> Recall: 0.6791 (1462 / 2153)
+			> F1: 0.6453
+		- Sample 816: Aggregate Scores: 
+			> Precision: 0.5880 (1293 / 2199)
+			> Recall: 0.6258 (1293 / 2066)
+			> F1: 0.6063
+		- Sample 817: Aggregate Scores: 
+			> Precision: 0.5845 (1505 / 2575)
+			> Recall: 0.6404 (1505 / 2350)
+			> F1: 0.6112
+		- Sample 818: Aggregate Scores: 
+			> Precision: 0.5578 (1278 / 2291)
+			> Recall: 0.5632 (1278 / 2269)
+			> F1: 0.5605
+		- Sample 819: Aggregate Scores: 
+			> Precision: 0.5111 (1199 / 2346)
+			> Recall: 0.5231 (1199 / 2292)
+			> F1: 0.5170
+		- Sample 820: Aggregate Scores: 
+			> Precision: 0.5270 (1288 / 2444)
+			> Recall: 0.6151 (1288 / 2094)
+			> F1: 0.5677
+		- Sample 821: Aggregate Scores: 
+			> Precision: 0.5663 (1414 / 2497)
+			> Recall: 0.6364 (1414 / 2222)
+			> F1: 0.5993
+		- Sample 822: Aggregate Scores: 
+			> Precision: 0.5642 (1433 / 2540)
+			> Recall: 0.6018 (1433 / 2381)
+			> F1: 0.5824
+		- Sample 823: Aggregate Scores: 
+			> Precision: 0.5549 (1147 / 2067)
+			> Recall: 0.5609 (1147 / 2045)
+			> F1: 0.5579
+		- Sample 824: Aggregate Scores: 
+			> Precision: 0.5787 (1364 / 2357)
+			> Recall: 0.6404 (1364 / 2130)
+			> F1: 0.6080
+		- Sample 825: Aggregate Scores: 
+			> Precision: 0.6089 (1378 / 2263)
+			> Recall: 0.6324 (1378 / 2179)
+			> F1: 0.6204
+		- Sample 826: Aggregate Scores: 
+			> Precision: 0.5555 (1336 / 2405)
+			> Recall: 0.6272 (1336 / 2130)
+			> F1: 0.5892
+		- Sample 827: Aggregate Scores: 
+			> Precision: 0.5544 (1386 / 2500)
+			> Recall: 0.6584 (1386 / 2105)
+			> F1: 0.6020
+		- Sample 828: Aggregate Scores: 
+			> Precision: 0.5935 (1469 / 2475)
+			> Recall: 0.6267 (1469 / 2344)
+			> F1: 0.6097
+		- Sample 829: Aggregate Scores: 
+			> Precision: 0.5582 (1348 / 2415)
+			> Recall: 0.6556 (1348 / 2056)
+			> F1: 0.6030
+		- Sample 830: Aggregate Scores: 
+			> Precision: 0.5448 (1277 / 2344)
+			> Recall: 0.5882 (1277 / 2171)
+			> F1: 0.5657
+		- Sample 831: Aggregate Scores: 
+			> Precision: 0.5718 (1445 / 2527)
+			> Recall: 0.6480 (1445 / 2230)
+			> F1: 0.6075
+		- Sample 832: Aggregate Scores: 
+			> Precision: 0.5927 (1451 / 2448)
+			> Recall: 0.6154 (1451 / 2358)
+			> F1: 0.6038
+		- Sample 833: Aggregate Scores: 
+			> Precision: 0.6144 (1412 / 2298)
+			> Recall: 0.6450 (1412 / 2189)
+			> F1: 0.6294
+		- Sample 834: Aggregate Scores: 
+			> Precision: 0.6042 (1421 / 2352)
+			> Recall: 0.6459 (1421 / 2200)
+			> F1: 0.6243
+		- Sample 835: Aggregate Scores: 
+			> Precision: 0.5413 (1200 / 2217)
+			> Recall: 0.5631 (1200 / 2131)
+			> F1: 0.5520
+		- Sample 836: Aggregate Scores: 
+			> Precision: 0.5414 (1394 / 2575)
+			> Recall: 0.5932 (1394 / 2350)
+			> F1: 0.5661
+		- Sample 837: Aggregate Scores: 
+			> Precision: 0.5817 (1377 / 2367)
+			> Recall: 0.6545 (1377 / 2104)
+			> F1: 0.6160
+		- Sample 838: Aggregate Scores: 
+			> Precision: 0.5949 (1395 / 2345)
+			> Recall: 0.6162 (1395 / 2264)
+			> F1: 0.6053
+		- Sample 839: Aggregate Scores: 
+			> Precision: 0.6288 (1560 / 2481)
+			> Recall: 0.7192 (1560 / 2169)
+			> F1: 0.6710
+		- Sample 840: Aggregate Scores: 
+			> Precision: 0.5731 (1337 / 2333)
+			> Recall: 0.6219 (1337 / 2150)
+			> F1: 0.5965
+		- Sample 841: Aggregate Scores: 
+			> Precision: 0.5638 (1440 / 2554)
+			> Recall: 0.6296 (1440 / 2287)
+			> F1: 0.5949
+		- Sample 842: Aggregate Scores: 
+			> Precision: 0.5572 (1358 / 2437)
+			> Recall: 0.5644 (1358 / 2406)
+			> F1: 0.5608
+		- Sample 843: Aggregate Scores: 
+			> Precision: 0.5394 (1302 / 2414)
+			> Recall: 0.6096 (1302 / 2136)
+			> F1: 0.5723
+		- Sample 844: Aggregate Scores: 
+			> Precision: 0.5274 (1233 / 2338)
+			> Recall: 0.5687 (1233 / 2168)
+			> F1: 0.5473
+		- Sample 845: Aggregate Scores: 
+			> Precision: 0.5585 (1328 / 2378)
+			> Recall: 0.6400 (1328 / 2075)
+			> F1: 0.5965
+		- Sample 846: Aggregate Scores: 
+			> Precision: 0.5846 (1378 / 2357)
+			> Recall: 0.5978 (1378 / 2305)
+			> F1: 0.5912
+		- Sample 847: Aggregate Scores: 
+			> Precision: 0.5251 (1213 / 2310)
+			> Recall: 0.5835 (1213 / 2079)
+			> F1: 0.5527
+		- Sample 848: Aggregate Scores: 
+			> Precision: 0.5932 (1553 / 2618)
+			> Recall: 0.6514 (1553 / 2384)
+			> F1: 0.6210
+		- Sample 849: Aggregate Scores: 
+			> Precision: 0.5693 (1495 / 2626)
+			> Recall: 0.5997 (1495 / 2493)
+			> F1: 0.5841
+		- Sample 850: Aggregate Scores: 
+			> Precision: 0.5886 (1534 / 2606)
+			> Recall: 0.6791 (1534 / 2259)
+			> F1: 0.6306
+		- Sample 851: Aggregate Scores: 
+			> Precision: 0.6007 (1474 / 2454)
+			> Recall: 0.6799 (1474 / 2168)
+			> F1: 0.6378
+		- Sample 852: Aggregate Scores: 
+			> Precision: 0.5716 (1282 / 2243)
+			> Recall: 0.5596 (1282 / 2291)
+			> F1: 0.5655
+		- Sample 853: Aggregate Scores: 
+			> Precision: 0.6140 (1484 / 2417)
+			> Recall: 0.6712 (1484 / 2211)
+			> F1: 0.6413
+		- Sample 854: Aggregate Scores: 
+			> Precision: 0.6129 (1506 / 2457)
+			> Recall: 0.7041 (1506 / 2139)
+			> F1: 0.6554
+		- Sample 855: Aggregate Scores: 
+			> Precision: 0.6484 (1525 / 2352)
+			> Recall: 0.6489 (1525 / 2350)
+			> F1: 0.6487
+		- Sample 856: Aggregate Scores: 
+			> Precision: 0.6038 (1440 / 2385)
+			> Recall: 0.6383 (1440 / 2256)
+			> F1: 0.6206
+		- Sample 857: Aggregate Scores: 
+			> Precision: 0.5870 (1417 / 2414)
+			> Recall: 0.6014 (1417 / 2356)
+			> F1: 0.5941
+		- Sample 858: Aggregate Scores: 
+			> Precision: 0.5770 (1454 / 2520)
+			> Recall: 0.6402 (1454 / 2271)
+			> F1: 0.6070
+		- Sample 859: Aggregate Scores: 
+			> Precision: 0.6275 (1504 / 2397)
+			> Recall: 0.6522 (1504 / 2306)
+			> F1: 0.6396
+		- Sample 860: Aggregate Scores: 
+			> Precision: 0.6054 (1442 / 2382)
+			> Recall: 0.6420 (1442 / 2246)
+			> F1: 0.6232
+		- Sample 861: Aggregate Scores: 
+			> Precision: 0.6150 (1433 / 2330)
+			> Recall: 0.6461 (1433 / 2218)
+			> F1: 0.6302
+		- Sample 862: Aggregate Scores: 
+			> Precision: 0.6111 (1427 / 2335)
+			> Recall: 0.6437 (1427 / 2217)
+			> F1: 0.6270
+		- Sample 863: Aggregate Scores: 
+			> Precision: 0.6276 (1517 / 2417)
+			> Recall: 0.6616 (1517 / 2293)
+			> F1: 0.6442
+		- Sample 864: Aggregate Scores: 
+			> Precision: 0.5594 (1324 / 2367)
+			> Recall: 0.6248 (1324 / 2119)
+			> F1: 0.5903
+		- Sample 865: Aggregate Scores: 
+			> Precision: 0.6089 (1568 / 2575)
+			> Recall: 0.6613 (1568 / 2371)
+			> F1: 0.6340
+		- Sample 866: Aggregate Scores: 
+			> Precision: 0.6360 (1546 / 2431)
+			> Recall: 0.6886 (1546 / 2245)
+			> F1: 0.6612
+		- Sample 867: Aggregate Scores: 
+			> Precision: 0.5682 (1287 / 2265)
+			> Recall: 0.5695 (1287 / 2260)
+			> F1: 0.5688
+		- Sample 868: Aggregate Scores: 
+			> Precision: 0.5659 (1434 / 2534)
+			> Recall: 0.6539 (1434 / 2193)
+			> F1: 0.6067
+		- Sample 869: Aggregate Scores: 
+			> Precision: 0.5412 (1249 / 2308)
+			> Recall: 0.6072 (1249 / 2057)
+			> F1: 0.5723
+		- Sample 870: Aggregate Scores: 
+			> Precision: 0.6079 (1473 / 2423)
+			> Recall: 0.6247 (1473 / 2358)
+			> F1: 0.6162
+		- Sample 871: Aggregate Scores: 
+			> Precision: 0.5455 (1500 / 2750)
+			> Recall: 0.6266 (1500 / 2394)
+			> F1: 0.5832
+		- Sample 872: Aggregate Scores: 
+			> Precision: 0.6509 (1486 / 2283)
+			> Recall: 0.6602 (1486 / 2251)
+			> F1: 0.6555
+		- Sample 873: Aggregate Scores: 
+			> Precision: 0.6270 (1454 / 2319)
+			> Recall: 0.6448 (1454 / 2255)
+			> F1: 0.6358
+		- Sample 874: Aggregate Scores: 
+			> Precision: 0.5276 (1262 / 2392)
+			> Recall: 0.5894 (1262 / 2141)
+			> F1: 0.5568
+		- Sample 875: Aggregate Scores: 
+			> Precision: 0.5808 (1387 / 2388)
+			> Recall: 0.6067 (1387 / 2286)
+			> F1: 0.5935
+		- Sample 876: Aggregate Scores: 
+			> Precision: 0.5856 (1361 / 2324)
+			> Recall: 0.6515 (1361 / 2089)
+			> F1: 0.6168
+		- Sample 877: Aggregate Scores: 
+			> Precision: 0.5716 (1528 / 2673)
+			> Recall: 0.6377 (1528 / 2396)
+			> F1: 0.6029
+		- Sample 878: Aggregate Scores: 
+			> Precision: 0.5554 (1338 / 2409)
+			> Recall: 0.5944 (1338 / 2251)
+			> F1: 0.5742
+		- Sample 879: Aggregate Scores: 
+			> Precision: 0.6144 (1391 / 2264)
+			> Recall: 0.6303 (1391 / 2207)
+			> F1: 0.6222
+		- Sample 880: Aggregate Scores: 
+			> Precision: 0.5634 (1382 / 2453)
+			> Recall: 0.6339 (1382 / 2180)
+			> F1: 0.5966
+		- Sample 881: Aggregate Scores: 
+			> Precision: 0.6053 (1428 / 2359)
+			> Recall: 0.6020 (1428 / 2372)
+			> F1: 0.6037
+		- Sample 882: Aggregate Scores: 
+			> Precision: 0.5504 (1272 / 2311)
+			> Recall: 0.5835 (1272 / 2180)
+			> F1: 0.5665
+		- Sample 883: Aggregate Scores: 
+			> Precision: 0.6284 (1478 / 2352)
+			> Recall: 0.6497 (1478 / 2275)
+			> F1: 0.6389
+		- Sample 884: Aggregate Scores: 
+			> Precision: 0.5465 (1274 / 2331)
+			> Recall: 0.5605 (1274 / 2273)
+			> F1: 0.5534
+		- Sample 885: Aggregate Scores: 
+			> Precision: 0.5899 (1457 / 2470)
+			> Recall: 0.6269 (1457 / 2324)
+			> F1: 0.6078
+		- Sample 886: Aggregate Scores: 
+			> Precision: 0.5460 (1388 / 2542)
+			> Recall: 0.6556 (1388 / 2117)
+			> F1: 0.5958
+		- Sample 887: Aggregate Scores: 
+			> Precision: 0.6039 (1532 / 2537)
+			> Recall: 0.6456 (1532 / 2373)
+			> F1: 0.6240
+		- Sample 888: Aggregate Scores: 
+			> Precision: 0.5717 (1388 / 2428)
+			> Recall: 0.6136 (1388 / 2262)
+			> F1: 0.5919
+		- Sample 889: Aggregate Scores: 
+			> Precision: 0.5650 (1422 / 2517)
+			> Recall: 0.6156 (1422 / 2310)
+			> F1: 0.5892
+		- Sample 890: Aggregate Scores: 
+			> Precision: 0.5987 (1407 / 2350)
+			> Recall: 0.6264 (1407 / 2246)
+			> F1: 0.6123
+		- Sample 891: Aggregate Scores: 
+			> Precision: 0.6047 (1392 / 2302)
+			> Recall: 0.5861 (1392 / 2375)
+			> F1: 0.5953
+		- Sample 892: Aggregate Scores: 
+			> Precision: 0.5179 (1217 / 2350)
+			> Recall: 0.5575 (1217 / 2183)
+			> F1: 0.5370
+		- Sample 893: Aggregate Scores: 
+			> Precision: 0.6131 (1534 / 2502)
+			> Recall: 0.6448 (1534 / 2379)
+			> F1: 0.6286
+		- Sample 894: Aggregate Scores: 
+			> Precision: 0.5738 (1388 / 2419)
+			> Recall: 0.6230 (1388 / 2228)
+			> F1: 0.5974
+		- Sample 895: Aggregate Scores: 
+			> Precision: 0.5911 (1454 / 2460)
+			> Recall: 0.6898 (1454 / 2108)
+			> F1: 0.6366
+		- Sample 896: Aggregate Scores: 
+			> Precision: 0.5927 (1464 / 2470)
+			> Recall: 0.6156 (1464 / 2378)
+			> F1: 0.6040
+		- Sample 897: Aggregate Scores: 
+			> Precision: 0.6032 (1473 / 2442)
+			> Recall: 0.6418 (1473 / 2295)
+			> F1: 0.6219
+		- Sample 898: Aggregate Scores: 
+			> Precision: 0.5194 (1179 / 2270)
+			> Recall: 0.5546 (1179 / 2126)
+			> F1: 0.5364
+		- Sample 899: Aggregate Scores: 
+			> Precision: 0.5439 (1345 / 2473)
+			> Recall: 0.5965 (1345 / 2255)
+			> F1: 0.5690
+		- Sample 900: Aggregate Scores: 
+			> Precision: 0.5086 (1276 / 2509)
+			> Recall: 0.5946 (1276 / 2146)
+			> F1: 0.5482
+		- Sample 901: Aggregate Scores: 
+			> Precision: 0.5726 (1353 / 2363)
+			> Recall: 0.5942 (1353 / 2277)
+			> F1: 0.5832
+		- Sample 902: Aggregate Scores: 
+			> Precision: 0.5699 (1395 / 2448)
+			> Recall: 0.6219 (1395 / 2243)
+			> F1: 0.5948
+		- Sample 903: Aggregate Scores: 
+			> Precision: 0.4998 (1153 / 2307)
+			> Recall: 0.5817 (1153 / 1982)
+			> F1: 0.5377
+		- Sample 904: Aggregate Scores: 
+			> Precision: 0.5687 (1296 / 2279)
+			> Recall: 0.5799 (1296 / 2235)
+			> F1: 0.5742
+		- Sample 905: Aggregate Scores: 
+			> Precision: 0.6128 (1551 / 2531)
+			> Recall: 0.6182 (1551 / 2509)
+			> F1: 0.6155
+		- Sample 906: Aggregate Scores: 
+			> Precision: 0.5301 (1328 / 2505)
+			> Recall: 0.6165 (1328 / 2154)
+			> F1: 0.5701
+		- Sample 907: Aggregate Scores: 
+			> Precision: 0.4955 (1216 / 2454)
+			> Recall: 0.5257 (1216 / 2313)
+			> F1: 0.5102
+		- Sample 908: Aggregate Scores: 
+			> Precision: 0.5604 (1360 / 2427)
+			> Recall: 0.5824 (1360 / 2335)
+			> F1: 0.5712
+		- Sample 909: Aggregate Scores: 
+			> Precision: 0.5931 (1475 / 2487)
+			> Recall: 0.6535 (1475 / 2257)
+			> F1: 0.6218
+		- Sample 910: Aggregate Scores: 
+			> Precision: 0.5965 (1289 / 2161)
+			> Recall: 0.5987 (1289 / 2153)
+			> F1: 0.5976
+		- Sample 911: Aggregate Scores: 
+			> Precision: 0.5822 (1427 / 2451)
+			> Recall: 0.6385 (1427 / 2235)
+			> F1: 0.6090
+		- Sample 912: Aggregate Scores: 
+			> Precision: 0.5407 (1347 / 2491)
+			> Recall: 0.6390 (1347 / 2108)
+			> F1: 0.5858
+		- Sample 913: Aggregate Scores: 
+			> Precision: 0.5892 (1377 / 2337)
+			> Recall: 0.5827 (1377 / 2363)
+			> F1: 0.5860
+		- Sample 914: Aggregate Scores: 
+			> Precision: 0.5727 (1339 / 2338)
+			> Recall: 0.6021 (1339 / 2224)
+			> F1: 0.5870
+		- Sample 915: Aggregate Scores: 
+			> Precision: 0.6159 (1480 / 2403)
+			> Recall: 0.6619 (1480 / 2236)
+			> F1: 0.6381
+		- Sample 916: Aggregate Scores: 
+			> Precision: 0.5588 (1383 / 2475)
+			> Recall: 0.6171 (1383 / 2241)
+			> F1: 0.5865
+		- Sample 917: Aggregate Scores: 
+			> Precision: 0.5819 (1410 / 2423)
+			> Recall: 0.6357 (1410 / 2218)
+			> F1: 0.6076
+		- Sample 918: Aggregate Scores: 
+			> Precision: 0.6173 (1310 / 2122)
+			> Recall: 0.6182 (1310 / 2119)
+			> F1: 0.6178
+		- Sample 919: Aggregate Scores: 
+			> Precision: 0.5727 (1347 / 2352)
+			> Recall: 0.5992 (1347 / 2248)
+			> F1: 0.5857
+		- Sample 920: Aggregate Scores: 
+			> Precision: 0.5791 (1424 / 2459)
+			> Recall: 0.6438 (1424 / 2212)
+			> F1: 0.6097
+		- Sample 921: Aggregate Scores: 
+			> Precision: 0.5769 (1366 / 2368)
+			> Recall: 0.6263 (1366 / 2181)
+			> F1: 0.6006
+		- Sample 922: Aggregate Scores: 
+			> Precision: 0.5582 (1328 / 2379)
+			> Recall: 0.6339 (1328 / 2095)
+			> F1: 0.5937
+		- Sample 923: Aggregate Scores: 
+			> Precision: 0.5806 (1369 / 2358)
+			> Recall: 0.5901 (1369 / 2320)
+			> F1: 0.5853
+		- Sample 924: Aggregate Scores: 
+			> Precision: 0.5837 (1377 / 2359)
+			> Recall: 0.6678 (1377 / 2062)
+			> F1: 0.6229
+		- Sample 925: Aggregate Scores: 
+			> Precision: 0.5703 (1383 / 2425)
+			> Recall: 0.6783 (1383 / 2039)
+			> F1: 0.6196
+		- Sample 926: Aggregate Scores: 
+			> Precision: 0.5641 (1425 / 2526)
+			> Recall: 0.6066 (1425 / 2349)
+			> F1: 0.5846
+		- Sample 927: Aggregate Scores: 
+			> Precision: 0.5867 (1424 / 2427)
+			> Recall: 0.6047 (1424 / 2355)
+			> F1: 0.5956
+		- Sample 928: Aggregate Scores: 
+			> Precision: 0.5381 (1242 / 2308)
+			> Recall: 0.6260 (1242 / 1984)
+			> F1: 0.5788
+		- Sample 929: Aggregate Scores: 
+			> Precision: 0.5596 (1329 / 2375)
+			> Recall: 0.5756 (1329 / 2309)
+			> F1: 0.5675
+		- Sample 930: Aggregate Scores: 
+			> Precision: 0.5698 (1416 / 2485)
+			> Recall: 0.6241 (1416 / 2269)
+			> F1: 0.5957
+		- Sample 931: Aggregate Scores: 
+			> Precision: 0.5223 (1276 / 2443)
+			> Recall: 0.5771 (1276 / 2211)
+			> F1: 0.5483
+		- Sample 932: Aggregate Scores: 
+			> Precision: 0.5613 (1360 / 2423)
+			> Recall: 0.6202 (1360 / 2193)
+			> F1: 0.5893
+		- Sample 933: Aggregate Scores: 
+			> Precision: 0.6309 (1518 / 2406)
+			> Recall: 0.6792 (1518 / 2235)
+			> F1: 0.6542
+		- Sample 934: Aggregate Scores: 
+			> Precision: 0.5281 (1232 / 2333)
+			> Recall: 0.6042 (1232 / 2039)
+			> F1: 0.5636
+		- Sample 935: Aggregate Scores: 
+			> Precision: 0.5849 (1454 / 2486)
+			> Recall: 0.6056 (1454 / 2401)
+			> F1: 0.5950
+		- Sample 936: Aggregate Scores: 
+			> Precision: 0.5468 (1296 / 2370)
+			> Recall: 0.5891 (1296 / 2200)
+			> F1: 0.5672
+		- Sample 937: Aggregate Scores: 
+			> Precision: 0.5772 (1443 / 2500)
+			> Recall: 0.5916 (1443 / 2439)
+			> F1: 0.5843
+		- Sample 938: Aggregate Scores: 
+			> Precision: 0.5471 (1313 / 2400)
+			> Recall: 0.5965 (1313 / 2201)
+			> F1: 0.5707
+		- Sample 939: Aggregate Scores: 
+			> Precision: 0.6175 (1474 / 2387)
+			> Recall: 0.6548 (1474 / 2251)
+			> F1: 0.6356
+		- Sample 940: Aggregate Scores: 
+			> Precision: 0.5697 (1431 / 2512)
+			> Recall: 0.6095 (1431 / 2348)
+			> F1: 0.5889
+		- Sample 941: Aggregate Scores: 
+			> Precision: 0.6042 (1371 / 2269)
+			> Recall: 0.6434 (1371 / 2131)
+			> F1: 0.6232
+		- Sample 942: Aggregate Scores: 
+			> Precision: 0.6081 (1406 / 2312)
+			> Recall: 0.6066 (1406 / 2318)
+			> F1: 0.6073
+		- Sample 943: Aggregate Scores: 
+			> Precision: 0.6031 (1407 / 2333)
+			> Recall: 0.6290 (1407 / 2237)
+			> F1: 0.6158
+		- Sample 944: Aggregate Scores: 
+			> Precision: 0.5822 (1339 / 2300)
+			> Recall: 0.6322 (1339 / 2118)
+			> F1: 0.6062
+		- Sample 945: Aggregate Scores: 
+			> Precision: 0.6011 (1430 / 2379)
+			> Recall: 0.6153 (1430 / 2324)
+			> F1: 0.6081
+		- Sample 946: Aggregate Scores: 
+			> Precision: 0.5918 (1467 / 2479)
+			> Recall: 0.6833 (1467 / 2147)
+			> F1: 0.6342
+		- Sample 947: Aggregate Scores: 
+			> Precision: 0.5642 (1363 / 2416)
+			> Recall: 0.6184 (1363 / 2204)
+			> F1: 0.5900
+		- Sample 948: Aggregate Scores: 
+			> Precision: 0.5520 (1252 / 2268)
+			> Recall: 0.5988 (1252 / 2091)
+			> F1: 0.5744
+		- Sample 949: Aggregate Scores: 
+			> Precision: 0.5960 (1434 / 2406)
+			> Recall: 0.6326 (1434 / 2267)
+			> F1: 0.6137
+		- Sample 950: Aggregate Scores: 
+			> Precision: 0.6025 (1443 / 2395)
+			> Recall: 0.6631 (1443 / 2176)
+			> F1: 0.6314
+		- Sample 951: Aggregate Scores: 
+			> Precision: 0.6214 (1482 / 2385)
+			> Recall: 0.6269 (1482 / 2364)
+			> F1: 0.6241
+		- Sample 952: Aggregate Scores: 
+			> Precision: 0.5291 (1244 / 2351)
+			> Recall: 0.5778 (1244 / 2153)
+			> F1: 0.5524
+		- Sample 953: Aggregate Scores: 
+			> Precision: 0.5945 (1330 / 2237)
+			> Recall: 0.6510 (1330 / 2043)
+			> F1: 0.6215
+		- Sample 954: Aggregate Scores: 
+			> Precision: 0.5370 (1321 / 2460)
+			> Recall: 0.6107 (1321 / 2163)
+			> F1: 0.5715
+		- Sample 955: Aggregate Scores: 
+			> Precision: 0.5961 (1470 / 2466)
+			> Recall: 0.6383 (1470 / 2303)
+			> F1: 0.6165
+		- Sample 956: Aggregate Scores: 
+			> Precision: 0.5399 (1305 / 2417)
+			> Recall: 0.5967 (1305 / 2187)
+			> F1: 0.5669
+		- Sample 957: Aggregate Scores: 
+			> Precision: 0.6089 (1513 / 2485)
+			> Recall: 0.6764 (1513 / 2237)
+			> F1: 0.6408
+		- Sample 958: Aggregate Scores: 
+			> Precision: 0.5664 (1305 / 2304)
+			> Recall: 0.5908 (1305 / 2209)
+			> F1: 0.5783
+		- Sample 959: Aggregate Scores: 
+			> Precision: 0.6029 (1480 / 2455)
+			> Recall: 0.6697 (1480 / 2210)
+			> F1: 0.6345
+		- Sample 960: Aggregate Scores: 
+			> Precision: 0.5390 (1300 / 2412)
+			> Recall: 0.6292 (1300 / 2066)
+			> F1: 0.5806
+		- Sample 961: Aggregate Scores: 
+			> Precision: 0.5770 (1401 / 2428)
+			> Recall: 0.6026 (1401 / 2325)
+			> F1: 0.5895
+		- Sample 962: Aggregate Scores: 
+			> Precision: 0.6346 (1589 / 2504)
+			> Recall: 0.6829 (1589 / 2327)
+			> F1: 0.6578
+		- Sample 963: Aggregate Scores: 
+			> Precision: 0.5352 (1316 / 2459)
+			> Recall: 0.6045 (1316 / 2177)
+			> F1: 0.5677
+		- Sample 964: Aggregate Scores: 
+			> Precision: 0.5933 (1530 / 2579)
+			> Recall: 0.6437 (1530 / 2377)
+			> F1: 0.6174
+		- Sample 965: Aggregate Scores: 
+			> Precision: 0.5861 (1437 / 2452)
+			> Recall: 0.6610 (1437 / 2174)
+			> F1: 0.6213
+		- Sample 966: Aggregate Scores: 
+			> Precision: 0.5179 (1230 / 2375)
+			> Recall: 0.5931 (1230 / 2074)
+			> F1: 0.5529
+		- Sample 967: Aggregate Scores: 
+			> Precision: 0.4758 (1248 / 2623)
+			> Recall: 0.5639 (1248 / 2213)
+			> F1: 0.5161
+		- Sample 968: Aggregate Scores: 
+			> Precision: 0.5987 (1374 / 2295)
+			> Recall: 0.6189 (1374 / 2220)
+			> F1: 0.6086
+		- Sample 969: Aggregate Scores: 
+			> Precision: 0.6161 (1507 / 2446)
+			> Recall: 0.6581 (1507 / 2290)
+			> F1: 0.6364
+		- Sample 970: Aggregate Scores: 
+			> Precision: 0.5531 (1327 / 2399)
+			> Recall: 0.6221 (1327 / 2133)
+			> F1: 0.5856
+		- Sample 971: Aggregate Scores: 
+			> Precision: 0.5494 (1302 / 2370)
+			> Recall: 0.5787 (1302 / 2250)
+			> F1: 0.5636
+		- Sample 972: Aggregate Scores: 
+			> Precision: 0.6081 (1418 / 2332)
+			> Recall: 0.6410 (1418 / 2212)
+			> F1: 0.6241
+		- Sample 973: Aggregate Scores: 
+			> Precision: 0.5418 (1336 / 2466)
+			> Recall: 0.6075 (1336 / 2199)
+			> F1: 0.5728
+		- Sample 974: Aggregate Scores: 
+			> Precision: 0.5325 (1399 / 2627)
+			> Recall: 0.5851 (1399 / 2391)
+			> F1: 0.5576
+		- Sample 975: Aggregate Scores: 
+			> Precision: 0.6285 (1484 / 2361)
+			> Recall: 0.6842 (1484 / 2169)
+			> F1: 0.6552
+		- Sample 976: Aggregate Scores: 
+			> Precision: 0.5523 (1377 / 2493)
+			> Recall: 0.5925 (1377 / 2324)
+			> F1: 0.5717
+		- Sample 977: Aggregate Scores: 
+			> Precision: 0.5862 (1462 / 2494)
+			> Recall: 0.6016 (1462 / 2430)
+			> F1: 0.5938
+		- Sample 978: Aggregate Scores: 
+			> Precision: 0.5402 (1202 / 2225)
+			> Recall: 0.6077 (1202 / 1978)
+			> F1: 0.5720
+		- Sample 979: Aggregate Scores: 
+			> Precision: 0.5557 (1311 / 2359)
+			> Recall: 0.6196 (1311 / 2116)
+			> F1: 0.5859
+		- Sample 980: Aggregate Scores: 
+			> Precision: 0.5706 (1439 / 2522)
+			> Recall: 0.6421 (1439 / 2241)
+			> F1: 0.6042
+		- Sample 981: Aggregate Scores: 
+			> Precision: 0.5997 (1407 / 2346)
+			> Recall: 0.6078 (1407 / 2315)
+			> F1: 0.6037
+		- Sample 982: Aggregate Scores: 
+			> Precision: 0.5261 (1302 / 2475)
+			> Recall: 0.5831 (1302 / 2233)
+			> F1: 0.5531
+		- Sample 983: Aggregate Scores: 
+			> Precision: 0.6276 (1490 / 2374)
+			> Recall: 0.6679 (1490 / 2231)
+			> F1: 0.6471
+		- Sample 984: Aggregate Scores: 
+			> Precision: 0.5343 (1245 / 2330)
+			> Recall: 0.5968 (1245 / 2086)
+			> F1: 0.5639
+		- Sample 985: Aggregate Scores: 
+			> Precision: 0.5219 (1227 / 2351)
+			> Recall: 0.6047 (1227 / 2029)
+			> F1: 0.5603
+		- Sample 986: Aggregate Scores: 
+			> Precision: 0.5928 (1361 / 2296)
+			> Recall: 0.6263 (1361 / 2173)
+			> F1: 0.6091
+		- Sample 987: Aggregate Scores: 
+			> Precision: 0.5335 (1290 / 2418)
+			> Recall: 0.6034 (1290 / 2138)
+			> F1: 0.5663
+		- Sample 988: Aggregate Scores: 
+			> Precision: 0.5954 (1311 / 2202)
+			> Recall: 0.5845 (1311 / 2243)
+			> F1: 0.5899
+		- Sample 989: Aggregate Scores: 
+			> Precision: 0.6045 (1394 / 2306)
+			> Recall: 0.6276 (1394 / 2221)
+			> F1: 0.6159
+		- Sample 990: Aggregate Scores: 
+			> Precision: 0.5998 (1470 / 2451)
+			> Recall: 0.6479 (1470 / 2269)
+			> F1: 0.6229
+		- Sample 991: Aggregate Scores: 
+			> Precision: 0.6015 (1461 / 2429)
+			> Recall: 0.6470 (1461 / 2258)
+			> F1: 0.6234
+		- Sample 992: Aggregate Scores: 
+			> Precision: 0.5786 (1388 / 2399)
+			> Recall: 0.6142 (1388 / 2260)
+			> F1: 0.5958
+		- Sample 993: Aggregate Scores: 
+			> Precision: 0.5375 (1169 / 2175)
+			> Recall: 0.5212 (1169 / 2243)
+			> F1: 0.5292
+		- Sample 994: Aggregate Scores: 
+			> Precision: 0.6087 (1543 / 2535)
+			> Recall: 0.6497 (1543 / 2375)
+			> F1: 0.6285
+		- Sample 995: Aggregate Scores: 
+			> Precision: 0.5643 (1247 / 2210)
+			> Recall: 0.5932 (1247 / 2102)
+			> F1: 0.5784
+		- Sample 996: Aggregate Scores: 
+			> Precision: 0.6162 (1495 / 2426)
+			> Recall: 0.6494 (1495 / 2302)
+			> F1: 0.6324
+		- Sample 997: Aggregate Scores: 
+			> Precision: 0.5299 (1321 / 2493)
+			> Recall: 0.6102 (1321 / 2165)
+			> F1: 0.5672
+		- Sample 998: Aggregate Scores: 
+			> Precision: 0.5975 (1446 / 2420)
+			> Recall: 0.6667 (1446 / 2169)
+			> F1: 0.6302
+		- Sample 999: Aggregate Scores: 
+			> Precision: 0.6065 (1435 / 2366)
+			> Recall: 0.6228 (1435 / 2304)
+			> F1: 0.6146
+		- Sample 1000: Aggregate Scores: 
+			> Precision: 0.6145 (1497 / 2436)
+			> Recall: 0.6583 (1497 / 2274)
+			> F1: 0.6357
+	* Final Results:
+		- Sample Mean: 0.5973
+		- Sample Deviation: 0.0322
+		- Confidence Interval: [0.5935, 0.6012] (Range: 0.0077)
