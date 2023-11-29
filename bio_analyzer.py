@@ -31,7 +31,7 @@ class TagMapping(NamedConstant):
     LINKED: str = "linked"
 
 
-TAG_MAPPINGS: Sequence[str] = (mapping for mapping in TagMapping)   # type: ignore
+TAG_MAPPINGS: Sequence[str] = (TagMapping.LINKED,)
 
 
 class AdjacencyList:

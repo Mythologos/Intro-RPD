@@ -197,10 +197,10 @@ if __name__ == "__main__":
     if path.isfile(args.input_file) is False:
         raise ValueError(f"The given input filepath, <{args.input_file}>, is not a valid, existing file.")
     else:
-        subset: ResultSubset = get_results_subset(args.input_file, args.criteria, args.metric, args.split)
+        subset: ResultSubset = get_results_subset(args.input_file, args.criteria, args.scoring_mode, args.split)
 
     if args.analysis_type == "friedman":
         order, unranked_values, ranks = build_ranked_arrays(subset)
         perform_multiple_hypothesis_test(order, unranked_values, ranks, args.alpha)
     elif args.analysis_type == "box":
-        plot_scores_by_group(subset, args.metric, args.split, args.criteria, args.output_filepath)
+        plot_scores_by_group(subset, args.scoring_mode, args.split, args.criteria, args.output_filepath)

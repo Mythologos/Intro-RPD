@@ -245,12 +245,12 @@ def write_combined_data(document_attributes: dict[str, str], scrawl: Optional[El
                                            (revised_words[word_index + 1].branch_id != word.branch_id))
 
             if is_ending_punctuation is False:
-                word_attrib["parallelism_id"] = str(word.parallelism_id)
-                word_attrib["branch_id"] = str(word.branch_id)
+                word_attrib["parallelism_id_1"] = str(word.parallelism_id)
+                word_attrib["branch_id_1"] = str(word.branch_id)
 
         if word.alternate_parallelism_id is not None and word.alternate_branch_id is not None:
-            word_attrib["alt_parallelism_id"] = str(word.alternate_parallelism_id)
-            word_attrib["alt_branch_id"] = str(word.alternate_branch_id)
+            word_attrib["parallelism_id_2"] = str(word.alternate_parallelism_id)
+            word_attrib["branch_id_2"] = str(word.alternate_branch_id)
 
         word_element: Element = Element("word", attrib=word_attrib)
         root[-1][-1].append(word_element)

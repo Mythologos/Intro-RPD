@@ -29,7 +29,7 @@ if __name__ == "__main__":
     parser.add_argument("--capitalization", action=BooleanOptionalAction, default=True, help=BratMessage.CAPITALIZATION)
     parser.add_argument("--punctuation", action=BooleanOptionalAction, default=True, help=BratMessage.PUNCTUATION)
     parser.add_argument(
-        "--punctuation-strategy", type=str, default="preserve", choices=["preserve", "exclude"],
+        "--punctuation-strategy", type=str, default="exclude", choices=["preserve", "exclude"],
         help=BratMessage.STRATEGY
     )
     parser.add_argument("--sectioning", action=BooleanOptionalAction, default=True, help=BratMessage.SECTIONING)

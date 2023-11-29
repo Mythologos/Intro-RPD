@@ -5,7 +5,7 @@ from string import punctuation
 from typing import Any, Optional, TextIO
 from xml.etree.ElementTree import Element, ElementTree
 
-from utils.data.converters.constants import BratAnnotation, FlagDict, SERMON_TITLE_REGEX
+from utils.data.converters.constants import BratAnnotation, FlagDict, SERMON_TITLE_REGEX, XMLSpecialCharacter
 
 END_PUNCTUATION_REGEX: str = r"(?P<ending_punctuation>[!\"#$%&'()*+,-./:;<=>?@\[\]^_`{|}~]+)$"
 
@@ -206,8 +206,7 @@ def process_text_segment(text: str, flags: FlagDict) -> str:
     if flags["capitalization"] is False:
         revised_text = revised_text.lower()
 
-    if flags["format"] == "xml":
-        for special_character in list(XMLSpecialCharacter):   # type: ignore
-            revised_text = revised_text.replace(special_character.default, special_character.xml)
+    for special_character in list(XMLSpecialCharacter):   # type: ignore
+        revised_text = revised_text.replace(special_character.default, special_character.xml)
 
     return revised_text

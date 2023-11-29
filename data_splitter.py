@@ -216,7 +216,7 @@ if __name__ == "__main__":
         {"link": TagLink.TOKEN_DISTANCE, "stratum_count": args.stratum_count, "tagset": Tagset.BIO}
     loading_kwargs: dict[str, Any] = {"collection_format": CollectionFormat.DOCUMENT, "tagging_kwargs": tag_kwargs}
     if args.loader == DefinedParallelismDataset.ASP:
-        loading_kwargs: dict[str, Any] = {"tokenizer": LatinWordTokenizer()}
+        loading_kwargs["tokenizer"] = LatinWordTokenizer()
 
     input_filenames: list[str] = listdir(args.input_directory)
     _, dataset_loader = get_dataset(args.loader)

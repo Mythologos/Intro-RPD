@@ -15,10 +15,9 @@ dependencies:
   - pip
   - tqdm
   - networkx
+  - cudatoolkit=11.3
   - pytorch
-  - pytorch-cuda
   - transformers
-  - chardet
   - pip:
-      - cltk==1.1.6
+      - cltk==1.1.5
       - tensor2tensor

@@ -20,7 +20,7 @@ class HyperparameterParseAction(Action):
 
     def __call__(self, hyperparameter_parser: ArgumentParser, namespace: Namespace,
                  values: Union[str, Sequence, None], option_string=None, *hyper_args, **hyper_kwargs):
-        hyperparameters: tuple[str] = tuple(Hyperparameter)   # type: ignore
+        hyperparameters: Sequence[str] = HYPERPARAMETERS
         specified_hyperparameters: dict[str, Any] = {}
 
         if len(values) % 2 != 0:
